@@ -1,0 +1,170 @@
+[2H]
+meaning = "Both majors (4-4+) 4-10pts"
+notes = [
+    "(if 4-4 7-10pts; If 5-4/4-5 5-10pts If 5-5 4-9pts)(will not be 4432)",
+    "(* IN 4th POSITION Shows 6 hearts 8-12pts)",
+]
+
+[2H.2S]
+meaning = "Preference"
+notes = ["Opener always passes"]
+
+[2H.2NT]
+meaning = "shape asking"
+
+[2H.2NT.3C]
+meaning = "either 4-4 in majors (4441/4414/4450/4405) 7-10pts or minimum, 4-6pts 5-5 in majors"
+
+[2H.2NT.3C.3D]
+meaning = "asking for minor (assuming 4-4)"
+further = "3H=C; 3S=D; 3NT=5-5"
+
+[2H.2NT.3C."3H/3S"]
+meaning = "invitational"
+further = "natural"
+
+[2H.2NT.3C."3NT/4H/4S"]
+meaning = "to play"
+
+[2H.2NT.3C.4C]
+meaning = "slam try in hearts"
+further = "4D-interest; 4H-min"
+
+[2H.2NT.3C.4D]
+meaning = "slam try in spadess"
+further = "4H-interest; 4S-min"
+
+[2H.2NT.3D]
+meaning = "minimum (5-7pts) with 5H and 4S"
+
+[2H.2NT.3D."3H/3S"]
+meaning = "to play"
+
+[2H.2NT.3D."3NT/4H/4S"]
+meaning = "to play"
+
+[2H.2NT.3D.4C]
+meaning = "slam try in hearts"
+further = "4D-interest; 4H-min"
+
+[2H.2NT.3D.4D]
+meaning = "slam try in spadess"
+further = "4H-interest; 4S-min"
+
+[2H.2NT.3H]
+meaning = "minimum (5-7pts) with 5S and 4H"
+
+[2H.2NT.3H."(pass)/3S"]
+meaning = "to play"
+
+[2H.2NT.3H."3NT/4H/4S"]
+meaning = "to play"
+
+[2H.2NT.3H.4C]
+meaning = "slam try in hearts"
+further = "4D-interest; 4H-min"
+
+[2H.2NT.3H.4D]
+meaning = "slam try in spadess"
+further = "4H-interest; 4S-min"
+
+[2H.2NT.3S]
+meaning = "maximum (8-10pts) with 5H and 4S"
+
+[2H.2NT.3S."3NT/4H/4S"]
+meaning = "to play"
+
+[2H.2NT.3S.4C]
+meaning = "slam try in hearts"
+further = "4D-interest; 4H-min"
+
+[2H.2NT.3S.4D]
+meaning = "slam try in spadess"
+further = "4H-interest; 4S-min"
+
+[2H.2NT.3NT]
+meaning = "maximum (8-10pts) with 5S and 4H"
+
+[2H.2NT.3NT."4H/4S"]
+meaning = "to play"
+
+[2H.2NT.3NT.4C]
+meaning = "slam try in hearts"
+further = "4D-interest; 4H-min"
+
+[2H.2NT.3NT.4D]
+meaning = "slam try in spadess"
+further = "4H-interest; 4S-min"
+
+[2H.2NT."4C/4D"]
+meaning = "maximum (7-9pts) 5-5 short in bid m"
+notes = ["natural"]
+
+[2H.3C]
+meaning = "natural, good suit"
+
+[2H.3C."3H/3S"]
+meaning = "5 card suit, no fit minimum"
+notes = ["natural"]
+
+[2H.3C.3NT]
+meaning = "no fit, maximum"
+notes = ["natural"]
+
+[2H.3C.4C]
+meaning = "fit, minimum"
+notes = ["cue bids"]
+
+[2H.3C.3D]
+meaning = "fit, maximum (likely shortage)"
+notes = ["cue bids"]
+
+[2H.3D]
+meaning = "natural, good suit"
+notes = ["sequences same as after 2H-3C;"]
+
+[2H.3D."3H/3S"]
+meaning = "5 card suit, no fit minimum"
+notes = ["natural"]
+
+[2H.3D.3NT]
+meaning = "no fit, maximum"
+notes = ["natural"]
+
+[2H.3D.4D]
+meaning = "fit, minimum"
+notes = ["cue bids"]
+
+[2H.3D.4C]
+meaning = "fit, maximum (likely shortage)"
+notes = ["cue bids"]
+
+[2H."3H/3S"]
+meaning = "mildly invitational"
+notes = ["opener should only bid on if max AND distributional"]
+
+[2H."3NT/4H/4S"]
+notes = ["to play"]
+
+[2H.4C]
+meaning = "Slam try (hearts)"
+
+[2H.4C.4D]
+meaning = "confirms interest"
+notes = ["cue bids"]
+
+[2H.4C.4H]
+meaning = "minimum, little slam interest"
+
+[2H.4D]
+meaning = "Slam try (spades)"
+
+[2H.4D.4H]
+meaning = "confirms interest"
+notes = ["cue bids"]
+
+[2H.4D.4S]
+meaning = "minimum, little slam interest"
+
+[fourth]
+meaning = "2H shows 6 hearts 8-12pts - for sequences see 2S opening"
