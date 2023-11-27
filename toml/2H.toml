@@ -1,13 +1,13 @@
 [2H]
 meaning = "Both majors (4-4+) 4-10pts"
 notes = [
-    "(if 4-4 7-10pts; If 5-4/4-5 5-10pts If 5-5 4-9pts)(will not be 4432)",
-    "(* IN 4th POSITION Shows 6 hearts 8-12pts)",
+    "if 4-4 7-10pts; If 5-4/4-5 5-10pts If 5-5 4-9pts)(will not be 4432",
+    "* IN 4th POSITION Shows 6 hearts 8-12pts",
 ]
 
 [2H.2S]
 meaning = "Preference"
-notes = ["Opener always passes"]
+opener-rebid = "Opener always passes"
 
 [2H.2NT]
 meaning = "shape asking"
@@ -98,60 +98,60 @@ further = "4H-interest; 4S-min"
 
 [2H.2NT."4C/4D"]
 meaning = "maximum (7-9pts) 5-5 short in bid m"
-notes = ["natural"]
+responder-rebid = "natural"
 
 [2H.3C]
 meaning = "natural, good suit"
 
 [2H.3C."3H/3S"]
 meaning = "5 card suit, no fit minimum"
-notes = ["natural"]
+responder-rebid = "natural"
 
 [2H.3C.3NT]
 meaning = "no fit, maximum"
-notes = ["natural"]
+responder-rebid = "natural"
 
 [2H.3C.4C]
 meaning = "fit, minimum"
-notes = ["cue bids"]
+responder-rebid = "cue bids"
 
 [2H.3C.3D]
 meaning = "fit, maximum (likely shortage)"
-notes = ["cue bids"]
+responder-rebid = "cue bids"
 
 [2H.3D]
 meaning = "natural, good suit"
-notes = ["sequences same as after 2H-3C;"]
+opener-rebid = "sequences same as after 2H-3C;"
 
 [2H.3D."3H/3S"]
 meaning = "5 card suit, no fit minimum"
-notes = ["natural"]
+responder-rebid = "natural"
 
 [2H.3D.3NT]
 meaning = "no fit, maximum"
-notes = ["natural"]
+responder-rebid = "natural"
 
 [2H.3D.4D]
 meaning = "fit, minimum"
-notes = ["cue bids"]
+responder-rebid = "cue bids"
 
 [2H.3D.4C]
 meaning = "fit, maximum (likely shortage)"
-notes = ["cue bids"]
+responder-rebid = "cue bids"
 
 [2H."3H/3S"]
 meaning = "mildly invitational"
-notes = ["opener should only bid on if max AND distributional"]
+opener-rebid = "opener should only bid on if max AND distributional"
 
 [2H."3NT/4H/4S"]
-notes = ["to play"]
+opener-rebid = "to play"
 
 [2H.4C]
 meaning = "Slam try (hearts)"
 
 [2H.4C.4D]
 meaning = "confirms interest"
-notes = ["cue bids"]
+responder-rebid = "cue bids"
 
 [2H.4C.4H]
 meaning = "minimum, little slam interest"
@@ -161,7 +161,7 @@ meaning = "Slam try (spades)"
 
 [2H.4D.4H]
 meaning = "confirms interest"
-notes = ["cue bids"]
+responder-rebid = "cue bids"
 
 [2H.4D.4S]
 meaning = "minimum, little slam interest"
