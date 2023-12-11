@@ -63,7 +63,7 @@ minimum (5-7pts) with 5S and 4H
 | 2H&nbsp;2NT&nbsp;3H&nbsp;4C | slam try in hearts (Further: 4D-interest; 4H-min) |
 | 2H&nbsp;2NT&nbsp;3H&nbsp;4D | slam try in spades (Further: 4H-interest; 4S-min) |
 
-## 2H 2NT 3S
+## 2H 2NT 3S/3NT/4C
 
 maximum (8-10pts) with 5H and 4S
 
