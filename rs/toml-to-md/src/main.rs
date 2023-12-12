@@ -110,7 +110,7 @@ fn format_link_to_anchor(sequence: &Vec<&String>) -> String {
     let text = sequence.iter().join("&nbsp;");
     let link = sequence
         .iter()
-        .map(|&s| s.to_lowercase().replace("/", ""))
+        .map(|&s| s.to_lowercase().replace("/", "").replace("*", ""))
         .join("");
     format!("[{}](#{})", text, link)
 }
