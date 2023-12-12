@@ -1,0 +1,87 @@
+open = "2S"
+meaning = "Weak 2 (4-9pts)"
+notes = ["may be 5 card suit", "(* IN 4th POSITION", "range is 8-12pts)"]
+
+[pass.2NT]
+meaning = "relay"
+
+[pass.2NT.pass."3C/3D/3H"]
+meaning = "maximum feature"
+rebid = "New Suit – cue bid"
+
+[pass.2NT.pass.3NT]
+meaning = "maximum, good suit (min AJ10xxx)"
+rebid = "New Suit – cue bid"
+
+[pass.2NT.pass.3S]
+meaning = "minimum"
+rebid = "New Suit – cue bid"
+
+[pass.2NT.pass."4C/4D/4H"]
+meaning = "distributional (6-5)"
+
+[pass.2NT.pass.4S]
+meaning = "longer suit than expected"
+
+[pass.3C]
+meaning = "natural, good suit"
+
+[pass.3C.pass."3D/3H"]
+meaning = "maximum fit and feature"
+rebid = "cue bids"
+
+[pass.3C.pass.3NT]
+meaning = "maximum , no fit"
+rebid = "natural"
+
+[pass.3C.pass.3S]
+meaning = "minimum, no fit"
+rebid = "natural"
+
+[pass.3C.pass.4C]
+meaning = "minimum with fit"
+rebid = "cue bids"
+
+[pass.3D]
+meaning = "natural, good suit"
+rebid = "Rebids and sequences identical to 2S-3C:"
+
+[pass.3D.pass.3NT]
+meaning = "maximum , no fit"
+rebid = "natural"
+
+[pass.3D.pass.3S]
+meaning = "minimum, no fit"
+rebid = "natural"
+
+[pass.3D.pass."4C/3H"]
+meaning = "maximum fit and feature"
+rebid = "cue bids"
+
+[pass.3D.pass.4D]
+meaning = "minimum with fit"
+rebid = "cue bids"
+
+[pass.3H]
+meaning = "natural, good suit"
+rebid = "Rebids and sequences identical to 2S-3C:"
+
+[pass.3H.pass.3NT]
+meaning = "maximum , no fit"
+rebid = "natural"
+
+[pass.3H.pass.3S]
+meaning = "minimum, no fit"
+rebid = "natural"
+
+[pass.3H.pass."4C/4D"]
+meaning = "maximum fit and feature"
+rebid = "cue bids"
+
+[pass.3H.pass.4H]
+meaning = "minimum with fit"
+rebid = "cue bids"
+
+[pass.3S]
+meaning = "obstructive raise"
+rebid = "opener usually passes; (but may compete further if distributional)"

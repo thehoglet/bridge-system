@@ -1,0 +1,46 @@
+open = "2D"
+meaning = "shows any 4441"
+notes = ["18+pts"]
+
+[pass.2H]
+meaning = "weak (to play"
+notes = ["unless singleton)"]
+
+[pass.2H.pass.2NT]
+meaning = "21-23pts (singleton in H)"
+rebid = "natural"
+
+[pass.2H.pass.2S]
+meaning = "18-20pts (singleton in H)"
+rebid = "natural"
+
+[pass.2H.pass."3C/3D/3H"]
+meaning = "21-23pts 4H with singleton in next suit"
+rebid = "Sing suit – asks for controls (Appendix 4)"
+
+[pass.2NT]
+meaning = "asking for singleton"
+
+[pass.2NT.pass."3C/3D/3H/3S"]
+meaning = "suit below singleton"
+rebid = "Sing suit – asks for controls (Appendix 4); New Suit- sets suit"
+
+[pass.2S]
+meaning = "weak (to play"
+notes = ["unless singleton)"]
+
+[pass.2S.pass.2NT]
+meaning = "21-23pts (singleton in S)"
+rebid = "natural"
+
+[pass.2S.pass.3C]
+meaning = "18-20pts (singleton in S)"
+rebid = "natural"
+
+[pass.2S.pass."3D/3H/3S"]
+meaning = "21-23pts 4S with singleton in next suit"
+rebid = "Sing suit – asks for controls (Appendix 4)"
+
+[pass."3C/3D"]
+meaning = "Weak, 6 card suit"
+rebid = "opener passes unless 4 card support"

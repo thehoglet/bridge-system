@@ -1,0 +1,265 @@
+open = "2C"
+meaning = "either Game Forcing"
+notes = ["or 19-21pts balanced"]
+
+[pass.2D]
+meaning = "all hands without"
+notes = ["a weak or strong", "one suiter"]
+
+[pass.2D.pass.2H]
+meaning = "KOKISH either GF with 5+ hearts"
+notes = ["or 25-28pts balanced"]
+
+[pass.2D.pass.2H.pass.2NT]
+meaning = "good* club one suiter"
+notes = ["(*6 card suit headed AK/AQ/KQ)"]
+
+[pass.2D.pass.2H.pass.2NT.pass.3C]
+meaning = "3+ support"
+
+[pass.2D.pass.2H.pass.2NT.pass.3NT]
+meaning = "bal with <3C"
+notes = ["New suit/3H- nat"]
+
+[pass.2D.pass.2H.pass.2S]
+meaning = "most hands without a good one suiter or"
+notes = ["5-5 major + a minor"]
+
+[pass.2D.pass.2H.pass.2S.pass.2NT]
+meaning = "25-28pts bal"
+notes = ["See 2NT (4th position)"]
+
+[pass.2D.pass.2H.pass.2S.pass."3C/3D/3S"]
+meaning = "natural"
+notes = ["With 5+ hearts"]
+
+[pass.2D.pass.2H.pass.2S.pass.3H]
+meaning = "6+ hearts"
+
+[pass.2D.pass.2H.pass.3C]
+meaning = "good* diamond one suiter"
+
+[pass.2D.pass.2H.pass.3C.pass.3D]
+meaning = "3+ support"
+
+[pass.2D.pass.2H.pass.3C.pass.3NT]
+meaning = "bal with <3D"
+notes = ["New suit/3H- nat"]
+
+[pass.2D.pass.2H.pass.3D]
+meaning = "good* spade one suiter"
+
+[pass.2D.pass.2H.pass.3D.pass.3NT]
+meaning = "bal with <3S"
+notes = ["New suit/3H- nat"]
+
+[pass.2D.pass.2H.pass.3D.pass.3S]
+meaning = "3+ support"
+
+[pass.2D.pass.2H.pass.3H]
+meaning = "*good heart one suiter"
+rebid = "New suit- cue bid"
+
+[pass.2D.pass.2H.pass.3H.pass.3NT]
+meaning = "bal with <3H"
+
+[pass.2D.pass.2H.pass.3NT]
+meaning = "5-5 spades plus a minor 4-7pts"
+rebid = "P/4H/4S- poor fit"
+
+[pass.2D.pass.2H.pass.3NT.pass.4C]
+meaning = "asks for minor"
+
+[pass.2D.pass.2H.pass.3NT.pass.4D]
+meaning = "S slam interest"
+
+[pass.2D.pass.2H.pass.3S]
+meaning = "5-5 hearts plus a minor 4-7pts"
+
+[pass.2D.pass.2H.pass.3S.pass."3NT/4H"]
+meaning = "poor fit"
+
+[pass.2D.pass.2H.pass.3S.pass.4C]
+meaning = "asks for minor"
+
+[pass.2D.pass.2H.pass.3S.pass.4D]
+meaning = "H slam interest"
+
+[pass.2D.pass.2NT]
+meaning = "19-21pts balanced"
+
+[pass.2D.pass.2NT.pass.3C]
+meaning = "major suit enquiry"
+rebid = "See 2NT (4th position)"
+
+[pass.2D.pass.2NT.pass."3D/3H"]
+meaning = "transfers to H/S (game forcing)"
+rebid = "See 2NT (4th position)"
+
+[pass.2D.pass.2NT.pass.3NT]
+meaning = "to play"
+
+[pass.2D.pass.2NT.pass.3S]
+meaning = "minor suit, interest"
+rebid = "See 2NT (4th position)"
+
+[pass.2D.pass.2NT.pass.4C]
+meaning = "5-5 majors"
+rebid = "See 2NT (4th position)"
+
+[pass.2D.pass.2NT.pass."4D/4H"]
+meaning = "transfers to H/S"
+rebid = "See 2NT (4th position)"
+
+[pass.2D.pass.2NT.pass.4NT]
+meaning = "invitational"
+
+[pass.2D.pass.2NT.pass.4S]
+meaning = "6-5 in minors"
+rebid = "See 2NT (4th position)"
+
+[pass.2D.pass.2S]
+meaning = "GF with 5+ spades"
+
+[pass.2D.pass.2S.pass.2NT]
+meaning = "negative (may have no other rebid)"
+rebid = "Natural"
+
+[pass.2D.pass.2S.pass."3C/3D/3H"]
+meaning = "5 card suit"
+rebid = "Natural"
+
+[pass.2D.pass.2S.pass.3NT]
+meaning = "spade support with an unspecified void"
+
+[pass.2D.pass.2S.pass.3NT.pass.4C]
+meaning = "asks for void"
+notes = ["others cue bids"]
+
+[pass.2D.pass.2S.pass.3S]
+meaning = "3+ card support, promises a control (A/K)"
+rebid = "cue bid"
+
+[pass.2D.pass.2S.pass."4C/4D/4H"]
+meaning = "Splinter, spade support with singleton"
+rebid = "cue bid"
+
+[pass.2D.pass.2S.pass.4S]
+meaning = "3 card raise, no controls"
+
+[pass.2D.pass."3C/3D"]
+meaning = "GF with 6+ suit"
+rebid = "New Suit- values, natural in principle"
+
+[pass.2D.pass."3C/3D".pass.3NT]
+meaning = "natural, scattered values, poor fit"
+notes = ["Raise – natural", "Jump New Suit- Splinter"]
+rebid = "cue bid; cue bid"
+
+[pass.2D.pass."3H/3S"]
+meaning = "sets suit asking for controls"
+
+[pass.2D.pass."3H/3S".pass.3NT]
+meaning = "no control, scattered values"
+notes = ["New Suit – cue bid", "Raise- no control, minimum"]
+rebid = "cue bid; cue bid"
+
+[pass.2D.pass.3NT]
+meaning = "based on long minor and values"
+rebid = "Natural"
+
+[pass."2H/2S"]
+meaning = "weak, 0-4pts"
+notes = ["5 card suit"]
+
+[pass."2H/2S".pass.2NT]
+meaning = "25-28pts balanced"
+notes = ["New Suit- natural, 5+ card suit, game forcing", "Raise- maximum 19-21pts bal with 4 card support"]
+rebid = "New suit- natural; Rebid- 6 card suit, not minimum"
+
+[pass."2H/2S".pass.2NT.pass.3NT]
+meaning = "natural"
+notes = ["Rebid- 6 card suit, not minimum", "effectively as after 2C-2D-2S/3C/3D", "natural"]
+
+[pass."2H/2S".pass.Pass]
+meaning = "19-21 bal without 4 card support"
+
+[pass.2NT]
+meaning = "weak 0-4pts with"
+notes = ["6+ clubs"]
+
+[pass.2NT.pass.3C]
+meaning = "19-21pts balanced"
+notes = ["New suit- natural, 5+ card suit, game forcing"]
+rebid = "responder passes; natural"
+
+[pass.2NT.pass.3NT]
+meaning = "25-28pts balanced"
+rebid = "natural"
+
+[pass.3C]
+meaning = "weak 0-4pts with"
+notes = ["6+ diamonds"]
+rebid = "same sequences as after 2C-2NT"
+
+[pass.3C.pass.3D]
+meaning = "19-21pts balanced"
+notes = ["New suit- natural, 5+ card suit, game forcing"]
+rebid = "responder passes; natural"
+
+[pass.3C.pass.3NT]
+meaning = "25-28pts balanced"
+rebid = "natural"
+
+[pass.3D]
+meaning = "“solid” 6+ card H"
+notes = ["suit", "(* solid= suit will", "50+% produce 6", "tricks opposite xx)"]
+
+[pass.3D.pass.3H]
+meaning = "agrees suit, asking for shortage"
+notes = ["New suit- natural, 5+ card suit, game forcing"]
+rebid = "New suit- shortage"
+
+[pass.3D.pass.3H.pass.3NT]
+meaning = "6322/7222"
+notes = ["natural"]
+
+[pass.3D.pass.3NT]
+meaning = "to play"
+
+[pass.3H]
+meaning = "“solid” 6+ card S"
+notes = ["suit"]
+rebid = "same sequences as after 2C-3D;"
+
+[pass.3H.pass.3NT]
+meaning = "to play"
+notes = ["New suit- natural, 5+ card suit, game forcing"]
+rebid = "natural"
+
+[pass.3H.pass.3S]
+meaning = "agrees suit, asking for shortage"
+rebid = "New suit- shortage; 3NT- 6322/7222"
+
+[pass.3NT]
+meaning = "“solid” 6+ card D"
+notes = ["suit"]
+rebid = "same sequences as after 2C-3D;"
+
+[pass.3NT.pass.4D]
+meaning = "agrees suit, asking for shortage"
+notes = ["New suit- natural, 5+ card suit, game forcing"]
+rebid = "New suit- shortage; 4NT- 6322/7222; natural"
+
+[pass.3S]
+meaning = "“solid” 6+ card C"
+notes = ["suit"]
+rebid = "same sequences as after 2C-3D;"
+
+[pass.3S.pass.3NT]
+meaning = "to play"
+
+[pass.3S.pass.4C]
+meaning = "agrees suit, asking for shortage"
+notes = ["New suit- natural, 5+ card suit, game forcing"]
+rebid = "New suit- shortage; 4NT- 6322/7222; natural"

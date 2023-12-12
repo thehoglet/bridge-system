@@ -1,0 +1,184 @@
+open = "2D"
+meaning = "either"
+notes = ["a) 4-9pts weak 2 in H", "b) 22-24pts balanced", "c) 18+pts any 4441", "(* IN 4th POSITION", "only shows 18+pts", "Any 4441)"]
+
+[pass.2H]
+meaning = "to play if weak"
+
+[pass.2H.pass.2NT]
+meaning = "22-24pts balanced"
+
+[pass.2H.pass.2NT.pass.3C]
+meaning = "major suit enquiry"
+rebid = "See 2NT (4th position)"
+
+[pass.2H.pass.2NT.pass."3D/3H"]
+meaning = "transfers to H/S (game forcing)"
+rebid = "See 2NT (4th position)"
+
+[pass.2H.pass.2NT.pass.3NT]
+meaning = "to play"
+
+[pass.2H.pass.2NT.pass.3S]
+meaning = "minor suit, interest"
+rebid = "See 2NT (4th position)"
+
+[pass.2H.pass.2NT.pass.4C]
+meaning = "5-5 majors"
+rebid = "See 2NT (4th position)"
+
+[pass.2H.pass.2NT.pass."4D/4H"]
+meaning = "transfers to H/S"
+rebid = "See 2NT (4th position)"
+
+[pass.2H.pass.2NT.pass.4NT]
+meaning = "invitational"
+
+[pass.2H.pass.2NT.pass.4S]
+meaning = "6-5 in minors"
+rebid = "See 2NT (4th position)"
+
+[pass.2H.pass.2S]
+meaning = "any 4441 with 4 spades 18-20pts"
+
+[pass.2H.pass.2S.pass.2NT]
+meaning = "asking for exact shape (suit below singleton)"
+rebid = "3C- 4414; 3D- 4144"
+
+[pass.2H.pass.2S.pass.2NT.pass.3H]
+meaning = "4441 (appendix 4)"
+
+[pass.2H.pass.2S.pass."3C/3D/3H"]
+meaning = "5 card suit"
+rebid = "Natural"
+
+[pass.2H.pass.2S.pass.3NT]
+meaning = "to play"
+
+[pass.2H.pass.2S.pass.3S]
+meaning = "natural, invitational"
+
+[pass.2H.pass.3C]
+meaning = "exactly 1444 (singleton S), 18-20pts"
+rebid = "(pass)3D/3H/3NT- to play"
+
+[pass.2H.pass.3C.pass.3S]
+meaning = "control ask"
+rebid = "Appendix 4"
+
+[pass.2H.pass."3D/3H/3S/3NT"]
+meaning = "4441 shape, 21-23pts"
+rebid = "Bid in the Singleton suit- control ask"
+
+[pass.2H.pass.Pass]
+meaning = "weak 2 in hearts"
+notes = ["-"]
+
+[pass.2NT]
+meaning = "relay"
+notes = ["at least invitational", "values opposite", "weak two"]
+
+[pass.2NT.pass."3C/3D/3S"]
+meaning = "maximum weak 2 with feature"
+rebid = "cue bids"
+
+[pass.2NT.pass.3H]
+meaning = "minimum"
+rebid = "cue bids"
+
+[pass.2NT.pass.3NT]
+meaning = "max weak 2 with a very good suit"
+rebid = "cue bids"
+
+[pass.2NT.pass."4C/4D/4H/4S"]
+meaning = "4441 18+pts singleton in suit above"
+rebid = "Bid in the Singleton suit- control ask"
+
+[pass.2NT.pass.4NT]
+meaning = "22-24pts balanced"
+
+[pass.2S]
+meaning = "Natural 5+ suit"
+
+[pass.2S.pass.2NT]
+meaning = "weak 2 with tolerance (xx)"
+rebid = "natural"
+
+[pass.2S.pass."3C/3D"]
+meaning = "feature, max weak 2 with no support"
+rebid = "natural"
+
+[pass.2S.pass.3H]
+meaning = "minimum weak 2 with no support"
+rebid = "natural"
+
+[pass.2S.pass.3NT]
+meaning = "1444, 18-20pts"
+
+[pass.2S.pass."3S/4S"]
+meaning = "min/max weak 2 with support (Hx/xxx)"
+rebid = "natural"
+
+[pass.2S.pass."4C/4D"]
+meaning = "Splinter with 3 card support"
+rebid = "cue bids"
+
+[pass.2S.pass.4H]
+meaning = "weak 2 with extra length and tolerance"
+
+[pass.3C]
+meaning = "Natural 6+ suit"
+
+[pass.3C.pass."3D/3S"]
+meaning = "feature, max weak 2 with no support"
+
+[pass.3C.pass.3H]
+meaning = "minimum weak 2 with no support"
+
+[pass.3C.pass.3NT]
+meaning = "weak 2 with tolerance (xx)"
+
+[pass.3C.pass."4C/5C"]
+meaning = "min/max weak 2 with support (Hx/xxx)"
+
+[pass.3C.pass."4D/4S"]
+meaning = "Splinter with 3 card support"
+
+[pass.3C.pass.4H]
+meaning = "weak 2 with extra length and tolerance"
+
+[pass.3C.pass.4NT]
+meaning = "4441 18-20pts"
+
+[pass.3D]
+meaning = "Natural 6+ suit"
+rebid = "openers rebids are identical to those after 2D-3C;"
+
+[pass.3D.pass.3H]
+meaning = "minimum weak 2 with no support"
+
+[pass.3D.pass.3NT]
+meaning = "weak 2 with tolerance (xx)"
+rebid = "cue bids"
+
+[pass.3D.pass.3S]
+meaning = "feature, max weak 2 with no support"
+
+[pass.3D.pass.4C]
+meaning = "feature, max weak 2 with no support"
+
+[pass.3D.pass."4D/5D"]
+meaning = "min/max weak 2 with support (Hx/xxx)"
+
+[pass.3D.pass.4H]
+meaning = "weak 2 with extra length and tolerance"
+
+[pass.3D.pass.4NT]
+meaning = "4441 18-20pts"
+
+[pass.3D.pass."5C/4S"]
+meaning = "Splinter with 3 card support"
+rebid = "cue bids"
+
+[pass."3H/3S/4C/4D/4H"]
+meaning = "all these responses show heart support (3H=3; others=4+) and are intended to be obstructive opposite a weak 2H; but they must be prepared in case opener has a stronger type (shown naturally)"

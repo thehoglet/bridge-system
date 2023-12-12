@@ -1,0 +1,8 @@
+open = "4H/4S/5C/5D"
+meaning = "Pre-empt"
+notes = ["New suit – asks for; control in bid suit"]
+
+[pass.4NT]
+meaning = "ace/suit ask"
+notes = ["control in bid suit"]
+rebid = "as over 4C/4D"

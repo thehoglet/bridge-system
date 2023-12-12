@@ -1,0 +1,108 @@
+open = "2NT"
+meaning = "Minor 2 suiter"
+notes = ["(5-5+), 8-13pts", "* IN 4th POSITION", "shows 22-24pts", "balanced"]
+
+[pass."3C/3D"]
+meaning = "weak preference"
+rebid = "Opener always passes"
+
+[pass.3H]
+meaning = "Usually a shape"
+notes = ["enquiry but may", "be strong with", "good hearts (6+)"]
+rebid = "3S- short spades; 1255/0265/0256; (0355 only if non max); 3NT- short hearts; 2155/2056/2065; (3055 only if non max)"
+
+[pass.3H.pass."4C/4D"]
+meaning = "6 card suit (either 1165 or 1156)"
+notes = ["(0355 only if non max)", "3NT- short hearts; 2155/2056/2065", "(3055 only if non max)"]
+
+[pass.3H.pass."4C/4D".pass."4H/5C/5D"]
+meaning = "to play"
+
+[pass.3H.pass."4C/4D".pass.4NT]
+meaning = "RCKB (for Hearts in principle)"
+rebid = "Appendix 4"
+
+[pass.3H.pass."4C/4D".pass.4S]
+meaning = "asks for minor suit quality"
+
+[pass.3H.pass."4C/4D".pass.4S.pass.4NT]
+meaning = "both < OR >"
+notes = ["KQ xxx (bids on if >)"]
+
+[pass.3H.pass."4C/4D".pass.4S.pass."5C/5D"]
+meaning = "other suit"
+notes = [">KQ xxx (this suit <)"]
+
+[pass.3H.pass."4H/4S"]
+meaning = "void 3055/0355 max"
+rebid = "4S (if available) - asks for minor suit quality"
+
+[pass.3H.pass."4H/4S".pass.4NT]
+meaning = "RCKB (for Hearts in principle)"
+rebid = "Appendix 4"
+
+[pass.3H.pass."4H/4S".pass."5C/5D"]
+meaning = "to play"
+
+[pass.3H.pass.4NT]
+meaning = "0355 max BOTH suits >KQ xxx"
+
+[pass."3NT/4H/4S"]
+meaning = "to play"
+
+[pass.3S]
+meaning = "usually a suit ask"
+notes = ["but may be strong", "With 6+ spades"]
+
+[pass.3S.pass.3NT]
+meaning = "BOTH suits <KQ xxx"
+notes = ["4C/4D- minor bid <KQxxx; other >KQ xxx"]
+
+[pass.3S.pass.3NT.pass."4C/4D"]
+meaning = "RKCB (minor bid)"
+rebid = "Appendix 4"
+
+[pass.3S.pass.3NT.pass.4H]
+meaning = "shape enquiry"
+notes = ["4D (if available)- RCKB (for diamonds)"]
+
+[pass.3S.pass.3NT.pass.4H.pass."4S/4NT(H)"]
+meaning = "shortage"
+
+[pass.3S.pass.3NT.pass.4H.pass."5C/5D"]
+meaning = "1156/1165"
+notes = ["Appendix 4"]
+
+[pass.3S.pass.3NT.pass.4NT]
+meaning = "RCKB (for Spades in principle)"
+rebid = "Appendix 4"
+
+[pass.3S.pass.3NT.pass.4S]
+meaning = "good suit, slam interest"
+rebid = "cue bid"
+
+[pass.3S.pass.3NT.pass."5C/5D"]
+meaning = "to play"
+
+[pass.3S.pass."4H/4S"]
+meaning = "both minors >KQxxx, shortage bi"
+rebid = "4S (if available)- good suit, slam interest"
+
+[pass.3S.pass."4H/4S".pass.4NT]
+meaning = "RKCB (for spades in principle)"
+rebid = "Appendix 4"
+
+[pass.3S.pass."4H/4S".pass."5C/5D"]
+meaning = "to play"
+
+[pass."4C/4D"]
+meaning = "obstructive raise"
+rebid = "opener passes (but may compete if distributional)"
+
+[pass.4NT]
+meaning = "sound game raise"
+rebid = "opener bids 5C (responder will pass or correct)"
+
+[pass."5C/5D"]
+meaning = "to play, no defense"
+rebid = "opener passes (but may compete if distributional)"

@@ -1,0 +1,212 @@
+open = "2NT"
+meaning = "22-24pts balanced"
+
+[pass.3C]
+meaning = "major suit enquiry"
+
+[pass.3C.pass.3D]
+meaning = "at least one 4 card major"
+
+[pass.3C.pass.3D.pass.3H]
+meaning = "4 spades"
+notes = ["(if opener bids 3NT responder can bid 4C/4D", "to suggest a 5+ card suit)"]
+
+[pass.3C.pass.3D.pass.3H.pass.3NT]
+meaning = "4H (not 4S)"
+
+[pass.3C.pass.3D.pass.3H.pass.3S]
+meaning = "agrees suit (max)"
+
+[pass.3C.pass.3D.pass.3H.pass."4C/4D"]
+meaning = "cue bid (min)"
+
+[pass.3C.pass.3D.pass.3NT]
+meaning = "to play"
+
+[pass.3C.pass.3D.pass.3S]
+meaning = "4 hearts"
+notes = ["(over 3NT; 4C/4D – suggest a 5 card suit)"]
+
+[pass.3C.pass.3D.pass.3S.pass.3NT]
+meaning = "4S (not 4H)"
+
+[pass.3C.pass.3D.pass.3S.pass."4C/4D"]
+meaning = "cue bid"
+
+[pass.3C.pass.3D.pass.4C]
+meaning = "minor suit ask"
+
+[pass.3C.pass.3D.pass.4C.pass.4D]
+meaning = "D(+ a major)"
+
+[pass.3C.pass.3D.pass.4C.pass."4H/4S"]
+meaning = "C+ bid major"
+
+[pass.3C.pass.3D.pass.4D]
+meaning = "both majors"
+rebid = "opener chooses"
+
+[pass.3C.pass.3H]
+meaning = "no 4 or 5 card major"
+
+[pass.3C.pass.3H.pass.3NT]
+meaning = "to play"
+
+[pass.3C.pass.3H.pass.3S]
+meaning = "5S and 4H"
+
+[pass.3C.pass.3H.pass.3S.pass."4C/4D"]
+meaning = "cue bid (S)"
+
+[pass.3C.pass.3H.pass.4C]
+meaning = "minor suit ask"
+rebid = "4D- 5D; 4H- 5C;; 4S- both; 4NT-4333"
+
+[pass.3C.pass.3H.pass.4D]
+meaning = "natural (usually 5+ D plus a major)"
+rebid = "Natural"
+
+[pass.3C.pass.3H.pass."4H/4S"]
+meaning = "4 card suit with 5+C"
+rebid = "Natural"
+
+[pass.3C.pass."3S/3NT(H)"]
+meaning = "5 card major"
+rebid = "New Suit – cue bid"
+
+[pass.3D]
+meaning = "transfer to hearts"
+notes = ["(game forcing)"]
+
+[pass.3D.pass.3H]
+meaning = "<3 card heart support"
+
+[pass.3D.pass.3H.pass.3NT]
+meaning = "offers choice (may be limited 5431)"
+rebid = "opener chooses"
+
+[pass.3D.pass.3H.pass.3S]
+meaning = "natural 5-4"
+
+[pass.3D.pass.3H.pass.3S.pass."4C/4D"]
+meaning = "cue bid (S)"
+
+[pass.3D.pass.3H.pass."4C/4D"]
+meaning = "natural, not minimum"
+rebid = "Natural"
+
+[pass.3D.pass.3H.pass.4H]
+meaning = "mild slam try (otherwise bid 4D directly)"
+
+[pass.3D.pass.3NT]
+meaning = "3 card support"
+rebid = "New Suit – cue bid"
+
+[pass.3D.pass."3S/4C/4D"]
+meaning = "4 card support plus control"
+rebid = "New Suit – cue bid"
+
+[pass.3H]
+meaning = "transfer to spades"
+notes = ["(game forcing)"]
+rebid = "identical sequences to 2NT-3D;"
+
+[pass.3H.pass.3NT]
+meaning = "3 card support"
+rebid = "New Suit – cue bid"
+
+[pass.3H.pass.3S]
+meaning = "<3 card spade support"
+rebid = "3NT-choice; 4C/4D- natural; 4H(5-5)/4S- slam interest"
+
+[pass.3H.pass."4C/4D/4H"]
+meaning = "4 card support plus control"
+rebid = "New Suit – cue bid"
+
+[pass.3NT]
+meaning = "to play"
+rebid = "Opener always passes"
+
+[pass.3S]
+meaning = "minor suit interest"
+
+[pass.3S.pass.3NT]
+meaning = "normal rebid if lacking a 4 card minor"
+
+[pass.3S.pass.3NT.pass."4C/4D"]
+meaning = "natural usually 6+ suit, slam interest"
+rebid = "cue bid"
+
+[pass.3S.pass.3NT.pass."4H/4S"]
+meaning = "shortage with both minors (5-4+)"
+
+[pass.3S.pass.3NT.pass.4NT]
+meaning = "usually 5422"
+
+[pass.3S.pass."4C/4D"]
+meaning = "decent 4 card suit"
+rebid = "OTHER MINOR (max)/4NT(min)- 6+ in other minor"
+
+[pass.3S.pass."4C/4D".pass."4H/4S"]
+meaning = "cue bid (agree bid minor)"
+
+[pass.4C]
+meaning = "Major 2 suiter (5-5)"
+notes = ["game values only", "or slam going"]
+
+[pass.4C.pass.4D]
+meaning = "no preference"
+
+[pass.4C.pass.4D.pass."4H/4S"]
+meaning = "natural (choice)"
+
+[pass.4C.pass.4D.pass.4NT]
+meaning = "RCKB"
+rebid = "Appendix 4"
+
+[pass.4C.pass."4H/4S"]
+meaning = "preference"
+
+[pass.4C.pass."4H/4S".pass.4NT]
+meaning = "RCKB"
+rebid = "Appendix 4"
+
+[pass.4D]
+meaning = "transfer to 4H"
+notes = ["(bids on if slam going)"]
+
+[pass.4D.pass.4H]
+meaning = "openers only bid"
+rebid = "New Suit – Exclusion Blackwood"
+
+[pass.4D.pass.4H.pass.4NT]
+meaning = "RKCB"
+rebid = "Appendix 4"
+
+[pass.4H]
+meaning = "transfer to 4S"
+notes = ["(bids on if slam going)"]
+
+[pass.4H.pass.4S]
+meaning = "openers only bid"
+rebid = "New Suit – Exclusion Blackwood"
+
+[pass.4H.pass.4S.pass.4NT]
+meaning = "RKCB"
+rebid = "Appendix 4"
+
+[pass.4NT]
+meaning = "invitational"
+
+[pass.4S]
+meaning = "both minors (6-5)"
+notes = ["game values only"]
+
+[pass.4S.pass.4NT]
+meaning = "no preference"
+
+[pass.4S.pass.4NT.pass."5C/5D"]
+meaning = "natural (choice)"
+
+[pass.4S.pass."5C/5D"]
+meaning = "preference"

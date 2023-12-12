@@ -1,0 +1,54 @@
+open = "3NT"
+meaning = "Solid (7) major"
+notes = ["plus an A or K", "or semi solid", "(AKJ/AQJ/KQJ)", "plus an A"]
+
+[pass.4C]
+meaning = "asks for major"
+notes = ["(transfer style)"]
+
+[pass.4C.pass.4D]
+meaning = "hearts"
+
+[pass.4C.pass.4D.pass.4H]
+meaning = "to play"
+
+[pass.4C.pass.4D.pass.4NT]
+meaning = "ace/suit asking"
+rebid = "5C- solid; no ace; 5D- not solid; ace; 5H- solid; ace"
+
+[pass.4C.pass.4D.pass."4S/5C/5D"]
+meaning = "asking about controls in bid suit"
+rebid = "1st - no control; 2nd- King; 3rd- sing; 4th-void; 5th- A"
+
+[pass.4C.pass.4H]
+meaning = "spades"
+
+[pass.4C.pass.4H.pass.4NT]
+meaning = "ace/suit asking"
+rebid = "same rebids"
+
+[pass.4C.pass.4H.pass.4S]
+meaning = "to play"
+
+[pass.4C.pass.4H.pass."5C/5D/5H"]
+meaning = "asking about controls in bid suit"
+rebid = "as above"
+
+[pass.4D]
+meaning = "asks for suit"
+
+[pass.4D.pass."4H/4S"]
+meaning = "suit"
+rebid = "(4S)/5C/5D/(5H)- asking about controls in bid suit"
+
+[pass.4D.pass."4H/4S".pass.4NT]
+meaning = "ace/suit asking"
+rebid = "as above"
+
+[pass."4H/4S/5C/5D"]
+meaning = "to play"
+rebid = "Opener always passes"
+
+[pass.4NT]
+meaning = "Blackwood"
+rebid = "5C-1; 5D-2 (nb only possibilities)"

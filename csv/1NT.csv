@@ -1,0 +1,214 @@
+﻿1NT,2C,2D- promises at least one 4 card major,2H- 4 spades (may have 4 hearts and 4/5S invit),2S/3S- min/max 4S;
+14-16pts,major suit enquiry,,      values for 2NT,3C/3D-max 4H+4m
+balanced,,,,3NT-max prob 3433
+,,,,3H- max both majors
+,,,,2NT- min 4H
+,,,,
+,,,2S- 4 hearts (denies 4 spades) values for 2NT,3H/3S-min/max 4H
+,,,,2NT-min 4S
+,,,,3C/3D-max 4S+4m
+,,,,3NT- max prob 4333
+,,,,
+,,,"2NT- natural, invitational, no major",New suit- weak stop(xx)
+,,,,
+,,,3C- Minor suit ask,3D-no minor
+,,,,3H(c)/3S(d)- suit
+,,,,
+,,,3D- both majors GF,3H/3S- major
+,,,,3NT- both
+,,,,
+OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
+,,,,
+1NT,2C,2H- no 4 or 5 card major,2S- 5S and 4H invitational,Natural
+14-16pts,major suit enquiry,,"2NT- natural, invitational",New suit-weak stop(xx)
+,,,3C- Minor suit ask,continuations as after
+,,,,1NT-2C-2D-3C (3D-both)
+,,,3D- 5 card suit (not 2 top hons) plus a 4 card M,
+,,,3H/3S- 4 card suit with 5 clubs (not 2 top hons),
+,,,,
+,,,,
+,,"2S- 5 spades, minimum",2NT – natural,New suit-weak stop(xx)
+,,,3C/3D- natural,Natural
+,,,3H- slam interest in spades,3S- max; 4S/3NT- min
+,,,,cue bid (non max)
+,,,,
+,,"2NT- 5 hearts, minimum",3C/3D- natural,Natural
+,,,3H- to play,
+,,,3S- slam interest in hearts,3NT- max; cue bid
+,,,,
+,,,,
+,,3C/3D- max with 6 card minor,New suit- cue bid,cue bid
+,,,3NT- to play,
+,,,4C/4D (raise)- RKCB,Appendix 4
+,,,,
+,,,,
+,,3H/3S- max with 5 card major,New Suit – cue bid,cue bid
+,,,3NT/Raise- to play,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
+,,,,
+1NT,2D,2H- denies 4 card support,2S- natural 5-4 may only be invit (forcing to 2NT),2NT-to play if invit
+14-16pts,transfer to hearts,,      (continues if game values),3C/3D- max + fit (H/S)
+balanced,,,,3H/3S- min + fit (H/S)
+,,,2NT- invitational,Natural
+,,,,3H/3NT/4H- to play
+,,,3C/3D- natural,3H- max (3H)
+,,,,New suit- cue bid
+,,,,agreeing minor
+,,,"3H- 6 card suit, invitational",Natural
+,,,"3S/4C/4D- self Splinter, good 6 card suit",cue bid
+,,,3NT- usually 5332,opener chooses
+,,,"4H- mild slam try, probably no shortage",Natural
+,,,,
+,,,,
+,,3H- minimum with 4 card support,"3S/4C/4D- slam interest, shortage",cue bid
+,,,3NT- serious slam try,cue bid
+,,,,
+,,,,
+,,2S/3C/3D- maximum with three card support,3D (if available) – re-transfer to 3H,limited cue bid
+,,             (min K10x) and suit with reasonable,3NT- serious slam try,cue bid
+,,             chance of 4 tricks opposite an honour,"New Suit- slam interest, shortage",cue bid
+,,,,
+,,,,
+,,2NT- maximum with 4 card support,3D- re-transfer,llmited cue bid
+,,,3C/3S/3H(D)- slam interest,cue bid
+,,,,
+,,,,
+,2H,All sequences are similar to those following 1NT-2D:,,
+,transfer to spades,2S- denies 4 card support,2NT-invit with 5S; 3C/3D/3H-natural; 3S- 6+ invit,as after 1NT-2D-2H
+,,,4C/4D/4H-self splinter 6+; 4S- mild slam try; 3NT-choice,
+,,,,
+,,"3S- 4 card support, minimum","New suit- shortage, 3NT- serious slam try",cue bid
+,,,,
+,,,,
+,,,,
+OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
+,,,,
+1NT,2H,3C/3D/3H- max with 3 card support (min K10x),3H (if available)- re-transfer to 3S; New Suit-,cue bid
+14-16pts,transfer to spades,     and suit promising 4 tricks opposite an hon.,"slam interest, shortage; 3NT- serious slam try",
+balanced,,,,
+,,2NT- maximum with 4 card support,3C/3D- slam interest; 3H- re-transfer,Natural (S agreed)
+,,,,
+,,,,
+1NT,2S,2NT- denies Hxx or better in clubs,3C- to play,
+14-16pts,shows clubs,,3D- shortage (may have a 4 card major if,3H/3S- natural
+balanced,(5 good or 6+),,       5 good or 6 clubs),3NT- natural
+,,,3H- shortage (denies 4 diamonds but may,3S- natural
+,,,       Have 4 spades with 5 good or 6 clubs),3NT- natural
+,,,3S- shortage (denies a second suit),Natural
+,,,3NT- to play,
+,,,4C- slam try (probably no shortage),cue bid
+,,,4D- RCKB (for clubs),Appendix 4
+,,,4H/4S- 6-5 limited,
+,,,4NT- invitational with likely 5332,
+,,,,
+,,,,
+1NT,2S,3C- promises Hxx or better in clubs,Continuations as after 1NT-2S-2NT:,
+14-16pts,shows clubs,,Pass- weak,
+balanced,(5 good or 6+),,3D- shortage (may have a 4 card major if,3H/3S- natural
+,,,       5 good or 6 clubs),3NT- natural
+,,,3H- shortage (denies 4 diamonds but may,3S- natural
+,,,       Have 4 spades with 5 good or 6 clubs),3NT- natural
+,,,3S- shortage (denies a second suit),Natural
+,,,3NT- to play,
+,,,4C- slam try (probably no shortage),cue bid
+,,,4D- RCKB (for clubs),Appendix 4
+,,,4H/4S- 6-5 limited,
+,,,4NT- invitational with likely 5332,
+,,,,
+,,,,
+,,,,
+,,,,
+OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
+,,,,
+1NT,2NT,3C – denies Hxx or better in diamonds,Pass- weak 5-5 in minors,
+14-16pts,shows diamonds,,3D- to play,
+balanced,(5 good or 6+),,3H- shortage (denies 4 clubs but may,3S- natural
+,(could be weak,,      Have 4 spades with 5 good or 6 diamonds),3NT- natural
+,5-5 in minors),,3S- shortage (denies a second suit),Natural
+,,,3NT- to play,
+,,,4C- RKCB (for diamonds),Appendix 4
+,,,4D- slam try (probably no shortage),cue bid
+,,,4H/4S- 6-5 limited,
+,,,4NT- invitational with likely 5332,
+,,,,
+,,3D- promises Hxx or better in diamonds,Pass- weak,
+,,,3H- shortage (denies 4 clubs but may,3S- natural
+,,,      Have 4 spades with 5 good or 6 diamonds),3NT- natural
+,,,3S- shortage (denies a second suit),Natural
+,,,3NT- to play,
+,,,4D- slam try (probably no shortage),cue bid
+,,,4C- RCKB (for diamonds),Appendix 4
+,,,4H/4S- 6-5 limited,
+,,,4NT- invitational with likely 5332,
+,,,,
+,,,,
+1NT,3C,3D- asks for responders 5+ card minor,3H(C)/3S(D)- shows minor (5431/6421 shape),3NT-to play
+14-16pts,shows a hand,,,4m- slam try
+balanced,with a singleton (S),,3NT- exactly 1444 (only game values),Natural
+,And 4 hearts,,,
+,,,,
+,,3H- agrees hearts,3S- likely void (0436/0463),cue bid
+,,,3NT- serious slam try,cue bid
+,,,4C/4D- good suit,cue bid
+,,,,
+,,,,
+,,3S/3NT- max/min with good (double) spade stop,"3NT- minimum, no slam interest",
+,,,4C/4D- slam try,cue bid
+,,,,
+OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
+,,,,
+1NT,3D,3H/3S- natural looking for fit,"3NT/Raise- minimum, no fit/fit",
+14-16pts,5+ good/6+ suit,,"4C/4D- maximum, fit/no fit",cue bid
+balanced,club shortage,,(3S- over 3H is natural),
+,,,,
+,,,,
+1NT,3H/3S,3NT/5C/5D- minimum,continuations show slam going hand,
+14-16pts,shortage with 5-4,,,
+balanced, in minors and 3 card,"4C/4D- maximum, slam try",New Suit – cue bid,cue bid
+,major,,,
+,,UNBID MAJOR- suggests playing there if,4NT- 5-5,choose minor
+,,                         3 card support (5431),New Suit – cue bid,
+,,,,
+,,Raise of shortage major – choose a minor,4NT- slam try,
+,,,,
+,,,,
+1NT,3NT,,,
+14-16pts,to play,,,
+balanced,,,,
+,,,,
+1NT,4C,4D- no preference,4H/4S- natural (choice),
+14-16pts,5-5 Majors game,,4NT- RCKB,Appendix 4
+balanced,(only) or slam going,,,
+,,4H/4S- preference,4NT- RCKB,Appendix 4
+,,,,
+,,,,
+1NT,4D,4H- openers only bid,New Suit – Exclusion Blackwood,Appendix 4
+14-16pts,transfer to 4H,,4NT- RKCB,Appendix 4
+balanced,to play/ slam going,,,
+,,,,
+,,,,
+1NT,4H,4S- openers only bid,New Suit – Exclusion Blackwood,Appendix 4
+14-16pts,transfer to 4S,,4NT- RKCB,Appendix 4
+balanced,to play/slam going,,,
+,,,,
+,,,,
+OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
+,,,,
+1NT,4S,4NT- no preference,5C/5D- natural (choice),
+14-16pts,both minors (6-5),,,
+balanced,game values only,5C/5D- preference,,
+,,,,
+,,,,
+1NT,4NT,"opener passes, bids a suit suggesting a good 5 card suit or raises",,
+14-16pts,invitational,,,
+balanced,(likely 4333),,,

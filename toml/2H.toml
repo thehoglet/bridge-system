@@ -1,170 +1,166 @@
-[2H]
-meaning = "Both majors (4-4+) 4-10pts"
-notes = [
-    "if 4-4 7-10pts; If 5-4/4-5 5-10pts If 5-5 4-9pts)(will not be 4432",
-    "* IN 4th POSITION Shows 6 hearts 8-12pts",
-]
+open = "2H"
+meaning = "Both majors (4-4+)"
+notes = ["4-10pts", "(if 4-4 7-10pts;", "If 5-4/4-5 5-10pts", "If 5-5 4-9pts)", "(will not be 4432)", "(* IN 4th POSITION", "Shows 6 hearts", "8-12pts)"]
+fourth = "4TH POSITION: 2H shows 6 hearts 8-12pts – for sequences see 2S opening"
 
-[2H.2S]
-meaning = "Preference"
-opener-rebid = "Opener always passes"
-
-[2H.2NT]
+[pass.2NT]
 meaning = "shape asking"
 
-[2H.2NT.3C]
-meaning = "either 4-4 in majors (4441/4414/4450/4405) 7-10pts or minimum, 4-6pts 5-5 in majors"
+[pass.2NT.pass.3C]
+meaning = "either 4-4 in majors (4441/4414/4450/4405)"
+notes = ["7-10pts or minimum, 4-6pts 5-5 in majors"]
 
-[2H.2NT.3C.3D]
+[pass.2NT.pass.3C.pass.3D]
 meaning = "asking for minor (assuming 4-4)"
-further = "3H=C; 3S=D; 3NT=5-5"
+rebid = "3H=C; 3S=D; 3NT=5-5"
 
-[2H.2NT.3C."3H/3S"]
+[pass.2NT.pass.3C.pass."3H/3S"]
 meaning = "invitational"
-further = "natural"
+rebid = "Natural"
 
-[2H.2NT.3C."3NT/4H/4S"]
+[pass.2NT.pass.3C.pass."3NT/4H/4S"]
 meaning = "to play"
 
-[2H.2NT.3C.4C]
+[pass.2NT.pass.3C.pass.4C]
 meaning = "slam try in hearts"
-further = "4D-interest; 4H-min"
+rebid = "4D-interest; 4H-min"
 
-[2H.2NT.3C.4D]
-meaning = "slam try in spadess"
-further = "4H-interest; 4S-min"
+[pass.2NT.pass.3C.pass.4D]
+meaning = "slam try in spades"
+rebid = "4H-interest; 4S-min"
 
-[2H.2NT.3D]
+[pass.2NT.pass.3D]
 meaning = "minimum (5-7pts) with 5H and 4S"
 
-[2H.2NT.3D."3H/3S"]
+[pass.2NT.pass.3D.pass."3H/3S"]
 meaning = "to play"
 
-[2H.2NT.3D."3NT/4H/4S"]
+[pass.2NT.pass.3D.pass."3NT/4H/4S"]
 meaning = "to play"
 
-[2H.2NT.3D.4C]
+[pass.2NT.pass.3D.pass.4C]
 meaning = "slam try in hearts"
-further = "4D-interest; 4H-min"
+rebid = "4D-interest; 4H-min"
 
-[2H.2NT.3D.4D]
-meaning = "slam try in spadess"
-further = "4H-interest; 4S-min"
+[pass.2NT.pass.3D.pass.4D]
+meaning = "slam try in spades"
+rebid = "4H-interest; 4S-min"
 
-[2H.2NT.3H]
+[pass.2NT.pass.3H]
 meaning = "minimum (5-7pts) with 5S and 4H"
 
-[2H.2NT.3H."(pass)/3S"]
+[pass.2NT.pass.3H.pass."(pass)/3S"]
 meaning = "to play"
 
-[2H.2NT.3H."3NT/4H/4S"]
+[pass.2NT.pass.3H.pass."3NT/4H/4S"]
 meaning = "to play"
 
-[2H.2NT.3H.4C]
+[pass.2NT.pass.3H.pass.4C]
 meaning = "slam try in hearts"
-further = "4D-interest; 4H-min"
+rebid = "4D-interest; 4H-min"
 
-[2H.2NT.3H.4D]
-meaning = "slam try in spadess"
-further = "4H-interest; 4S-min"
+[pass.2NT.pass.3H.pass.4D]
+meaning = "slam try in spades"
+rebid = "4H-interest; 4S-min"
 
-[2H.2NT.3S]
-meaning = "maximum (8-10pts) with 5H and 4S"
-
-[2H.2NT.3S."3NT/4H/4S"]
-meaning = "to play"
-
-[2H.2NT.3S.4C]
-meaning = "slam try in hearts"
-further = "4D-interest; 4H-min"
-
-[2H.2NT.3S.4D]
-meaning = "slam try in spadess"
-further = "4H-interest; 4S-min"
-
-[2H.2NT.3NT]
+[pass.2NT.pass.3NT]
 meaning = "maximum (8-10pts) with 5S and 4H"
 
-[2H.2NT.3NT."4H/4S"]
+[pass.2NT.pass.3NT.pass.4C]
+meaning = "slam try in hearts"
+rebid = "4D-interest; 4H-min"
+
+[pass.2NT.pass.3NT.pass.4D]
+meaning = "slam try in spades"
+rebid = "4H-interest; 4S-min"
+
+[pass.2NT.pass.3NT.pass."4H/4S"]
 meaning = "to play"
 
-[2H.2NT.3NT.4C]
+[pass.2NT.pass.3S]
+meaning = "maximum (8-10pts) with 5H and 4S"
+
+[pass.2NT.pass.3S.pass."3NT/4H/4S"]
+meaning = "to play"
+
+[pass.2NT.pass.3S.pass.4C]
 meaning = "slam try in hearts"
-further = "4D-interest; 4H-min"
+rebid = "4D-interest; 4H-min"
 
-[2H.2NT.3NT.4D]
-meaning = "slam try in spadess"
-further = "4H-interest; 4S-min"
+[pass.2NT.pass.3S.pass.4D]
+meaning = "slam try in spades"
+rebid = "4H-interest; 4S-min"
 
-[2H.2NT."4C/4D"]
+[pass.2NT.pass."4C/4D"]
 meaning = "maximum (7-9pts) 5-5 short in bid m"
-responder-rebid = "natural"
+rebid = "natural"
 
-[2H.3C]
+[pass.2S]
+meaning = "Preference"
+rebid = "Opener always passes"
+
+[pass.3C]
 meaning = "natural, good suit"
 
-[2H.3C."3H/3S"]
-meaning = "5 card suit, no fit minimum"
-responder-rebid = "natural"
-
-[2H.3C.3NT]
-meaning = "no fit, maximum"
-responder-rebid = "natural"
-
-[2H.3C.4C]
-meaning = "fit, minimum"
-responder-rebid = "cue bids"
-
-[2H.3C.3D]
+[pass.3C.pass.3D]
 meaning = "fit, maximum (likely shortage)"
-responder-rebid = "cue bids"
+rebid = "cue bids"
 
-[2H.3D]
+[pass.3C.pass."3H/3S"]
+meaning = "5 card suit, no fit minimum"
+rebid = "natural"
+
+[pass.3C.pass.3NT]
+meaning = "no fit, maximum"
+rebid = "natural"
+
+[pass.3C.pass.4C]
+meaning = "fit, minimum"
+rebid = "cue bids"
+
+[pass.3D]
 meaning = "natural, good suit"
-opener-rebid = "sequences same as after 2H-3C;"
+rebid = "sequences same as after 2H-3C;"
 
-[2H.3D."3H/3S"]
+[pass.3D.pass."3H/3S"]
 meaning = "5 card suit, no fit minimum"
-responder-rebid = "natural"
+rebid = "natural"
 
-[2H.3D.3NT]
+[pass.3D.pass.3NT]
 meaning = "no fit, maximum"
-responder-rebid = "natural"
+rebid = "natural"
 
-[2H.3D.4D]
-meaning = "fit, minimum"
-responder-rebid = "cue bids"
-
-[2H.3D.4C]
+[pass.3D.pass.4C]
 meaning = "fit, maximum (likely shortage)"
-responder-rebid = "cue bids"
+rebid = "cue bids"
 
-[2H."3H/3S"]
+[pass.3D.pass.4D]
+meaning = "fit, minimum"
+rebid = "cue bids"
+
+[pass."3H/3S"]
 meaning = "mildly invitational"
-opener-rebid = "opener should only bid on if max AND distributional"
+rebid = "opener should only bid on if max AND distributional"
 
-[2H."3NT/4H/4S"]
-opener-rebid = "to play"
+[pass."3NT/4H/4S"]
+meaning = "to play"
 
-[2H.4C]
+[pass.4C]
 meaning = "Slam try (hearts)"
 
-[2H.4C.4D]
+[pass.4C.pass.4D]
 meaning = "confirms interest"
-responder-rebid = "cue bids"
+rebid = "cue bids"
 
-[2H.4C.4H]
+[pass.4C.pass.4H]
 meaning = "minimum, little slam interest"
 
-[2H.4D]
+[pass.4D]
 meaning = "Slam try (spades)"
 
-[2H.4D.4H]
+[pass.4D.pass.4H]
 meaning = "confirms interest"
-responder-rebid = "cue bids"
+rebid = "cue bids"
 
-[2H.4D.4S]
+[pass.4D.pass.4S]
 meaning = "minimum, little slam interest"
-
-[fourth]
-meaning = "2H shows 6 hearts 8-12pts - for sequences see 2S opening"

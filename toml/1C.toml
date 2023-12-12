@@ -1,0 +1,631 @@
+open = "1C"
+meaning = "Natural 4+"
+notes = ["unless 4(poor)333", "10-21pts", "NB.shouldn’t be", "a) 4441 (any)", "(1D or 1H)", "b) 4-4 with major", "unless major poor", "(1H or 1S)", "c) 14-16/19+ bal", "(1NT/2C/2D)"]
+
+[pass.1D]
+meaning = "Natural 4+ suit"
+notes = ["5+pts", "NB.shouldn’t have:", "a) 4 card support", "10+pts unless 5+D", "(2C)", "b) 6+ D suit", "3-8pts unless", "3+ support", "(2D)", "c) 3343 5-10pts", "(1NT)", "d) 15+pts bal", "(2NT)"]
+
+[pass.1D.pass.1H]
+meaning = "Natural 4+ card suit"
+notes = ["Usually 5+ clubs"]
+
+[pass.1D.pass.1H.pass.1NT]
+meaning = "5-10pts"
+rebid = "Natural"
+
+[pass.1D.pass.1H.pass.1S]
+meaning = "FSF (2NT)"
+rebid = "Appendix 5"
+
+[pass.1D.pass.1H.pass.2C]
+meaning = "weak preference"
+rebid = "Natural"
+
+[pass.1D.pass.1H.pass.2D]
+meaning = "6 card suit, invitational"
+rebid = "Natural"
+
+[pass.1D.pass.1H.pass.2H]
+meaning = "minimum raise"
+rebid = "Natural (game try)"
+
+[pass.1D.pass.1H.pass.2NT]
+meaning = "natural, 10-12pts, invitational"
+rebid = "Natural"
+
+[pass.1D.pass.1H.pass.2S]
+meaning = "heart raise with club shortage"
+rebid = "Natural (cue bid"
+
+[pass.1D.pass.1H.pass.3C]
+meaning = "invitational raise, usually 4 card support"
+rebid = "Natural (game try)"
+
+[pass.1D.pass.1H.pass.3D]
+meaning = "good 6+ card suit,"
+rebid = "Natural"
+
+[pass.1D.pass.1H.pass.3H]
+meaning = "natural raise, invitational"
+rebid = "Natural (cue bid"
+
+[pass.1D.pass.1H.pass.3NT]
+meaning = "natural, limited"
+
+[pass.1D.pass.1H.pass.3S]
+meaning = "limited Splinter raise (hearts)"
+rebid = "Natural (cue bid)"
+
+[pass.1D.pass.1H.pass.4C]
+meaning = "RKCB"
+rebid = "Appendix 4"
+
+[pass.1D.pass.1H.pass.4D]
+meaning = "very good D with heart support"
+rebid = "Natural"
+
+[pass.1D.pass.1NT]
+meaning = "11-13pts balanced"
+
+[pass.1D.pass.1NT.pass.2C]
+meaning = "FORCES 2D (weak with D or most invit)"
+rebid = "Appendix 2"
+
+[pass.1D.pass.1NT.pass.2D]
+meaning = "6 card suit, invitational"
+
+[pass.1D.pass.1NT.pass."2H/2S "]
+meaning = "natural (guarantees 5+D)"
+rebid = "Natural"
+
+[pass.1D.pass.1NT.pass.2NT]
+meaning = "FORCES 3C (weak with clubs or GF"
+notes = ["With 4 card support)"]
+rebid = "Appendix 2"
+
+[pass.1D.pass.1NT.pass.3C]
+meaning = "natural, invitational raise"
+rebid = "Natural (values)"
+
+[pass.1D.pass.1NT.pass.3D]
+meaning = "good 6+ card suit,"
+rebid = "Natural"
+
+[pass.1D.pass.1NT.pass."3H/3S "]
+meaning = "Self splinter with (semi) solid suit"
+rebid = "Natural (cue bid)"
+
+[pass.1D.pass.1NT.pass.3NT]
+meaning = "natural"
+rebid = "Natural"
+
+[pass.1D.pass.1S]
+meaning = "Natural 4+ card suit"
+notes = ["Usually 5+ clubs"]
+rebid = "AS AFTER 1C-1D-1H; 2H- FSF; 3H- S raise with club shortage; 2D- 6+; 3D- good 6+; Raises/NT-natural; 2C- weak"
+
+[pass.1D.pass.2C]
+meaning = "usually 6+ clubs, limited"
+
+[pass.1D.pass.2C.pass.2D]
+meaning = "6 card suit, invitational"
+rebid = "Natural"
+
+[pass.1D.pass.2C.pass."2H/2S "]
+meaning = "natural (2NT)"
+rebid = "Natural"
+
+[pass.1D.pass.2C.pass.2NT]
+meaning = "natural, 10-12pts"
+rebid = "Natural"
+
+[pass.1D.pass.2C.pass.3C]
+meaning = "invitational raise"
+rebid = "Natural (game try)"
+
+[pass.1D.pass.2C.pass.3D]
+meaning = "good 6+ card suit,"
+rebid = "Natural"
+
+[pass.1D.pass.2C.pass."3H/3S "]
+meaning = "Splinter, club raise"
+rebid = "Natural (cue bid)"
+
+[pass.1D.pass.2C.pass.3NT]
+meaning = "natural, limited"
+rebid = "Natural"
+
+[pass.1D.pass.2D]
+meaning = "4 card raise, minimum"
+
+[pass.1D.pass.2D.pass."2H/2S "]
+meaning = "natural (2NT)"
+rebid = "Natural"
+
+[pass.1D.pass.2D.pass.2NT]
+meaning = "natural, 10-12pts"
+rebid = "Natural"
+
+[pass.1D.pass.2D.pass.3C]
+meaning = "invitational with fit"
+rebid = "Natural"
+
+[pass.1D.pass.2D.pass.3D]
+meaning = "obstructive"
+rebid = "Natural"
+
+[pass.1D.pass.2D.pass."3H/3S "]
+meaning = "Splinter"
+rebid = "Natural (cue bid)"
+
+[pass.1D.pass.2D.pass.3NT]
+meaning = "natural, limited"
+rebid = "Natural"
+
+[pass.1D.pass.2H]
+meaning = "strong distributional (6-4+) 2 suiter"
+
+[pass.1D.pass.2H.pass.2NT]
+meaning = "weak hand (5-8pts)"
+rebid = "Natural"
+
+[pass.1D.pass.2H.pass.2S]
+meaning = "FSF"
+rebid = "Appendix 5"
+
+[pass.1D.pass.2H.pass."3C/3H "]
+meaning = "non minimum raise"
+rebid = "Natural"
+
+[pass.1D.pass.2H.pass.3D]
+meaning = "6 card suit"
+rebid = "Natural"
+
+[pass.1D.pass.2NT]
+meaning = "17-18pts balanced"
+
+[pass.1D.pass.2NT.pass.3C]
+meaning = "Natural with 4 card support"
+rebid = "Natural"
+
+[pass.1D.pass.2NT.pass.3D]
+meaning = "6 card suit"
+rebid = "Natural"
+
+[pass.1D.pass.2NT.pass."3H/3S "]
+meaning = "Natural"
+rebid = "Natural"
+
+[pass.1D.pass.2NT.pass.3NT]
+meaning = "to play"
+rebid = "Natural"
+
+[pass.1D.pass.2S]
+meaning = "strong and distributional (6-4+) 2 suiter"
+rebid = "AS AFTER 1C-1D-2H"
+
+[pass.1D.pass.2S.pass.2NT]
+meaning = "weak hand (5-8pts)"
+rebid = "Natural"
+
+[pass.1D.pass.2S.pass."3C/3S "]
+meaning = "non minimum raise"
+rebid = "Natural"
+
+[pass.1D.pass.2S.pass.3D]
+meaning = "6 card suit"
+rebid = "Natural"
+
+[pass.1D.pass.2S.pass.3H]
+meaning = "FSF"
+rebid = "Appendix 5"
+
+[pass.1D.pass.3C]
+meaning = "good 6+ card suit, 7-8 playing tricks"
+
+[pass.1D.pass.3C.pass.3D]
+meaning = "6 card suit"
+rebid = "Natural"
+
+[pass.1D.pass.3C.pass."3H/3S"]
+meaning = "Natural (in principle but may be values)"
+
+[pass.1D.pass.3C.pass.3NT]
+meaning = "to play"
+rebid = "Natural (cue bid)"
+
+[pass.1D.pass.3D]
+meaning = "invitational raise (15+ unbal/pos 17-18 bal)"
+
+[pass.1D.pass.3D.pass."3H/3S"]
+meaning = "Natural (in principle but may be values)"
+rebid = "Natural (cue bid)"
+
+[pass.1D.pass.3D.pass.3NT]
+meaning = "natural, limited"
+
+[pass.1D.pass."3H/3S "]
+meaning = "Splinter raise"
+rebid = "ALL non game bids are slam tries"
+
+[pass.1D.pass.3NT]
+meaning = "likely (semi) solid clubs, D shortage,"
+notes = ["stops in majors"]
+rebid = "ALL non game bids are slam tries"
+
+[pass.1H]
+meaning = "Natural 4+ suit"
+notes = ["5+pts", "NB.shouldn’t have:", "a) 4 card support", "10+pts unless 5+H", "(2C)", "b) 6+ H suit", "3-8pts unless", "3+ support", "(2H)", "c) 15+ balanced", "(2NT)"]
+rebid = "MOST further bidding is similar to sequences following 1C-1D:"
+
+[pass.1H.pass.1NT]
+meaning = "11-13pts balanced"
+notes = ["ALL further bidding is similar to sequences following 1C-1H:"]
+
+[pass.1H.pass.1NT.pass.2C]
+meaning = "FORCES 2D (weak with D or most invit)"
+rebid = "all bids invitational"
+
+[pass.1H.pass.1NT.pass.2D]
+meaning = "Game Forcing CHECKBACK"
+rebid = "Appendix 2"
+
+[pass.1H.pass.1NT.pass.2H]
+meaning = "weak, to play"
+
+[pass.1H.pass.1NT.pass.2NT]
+meaning = "FORCES 3C (weak with clubs or GF"
+notes = ["With 4 card support)"]
+rebid = "Appendix 2"
+
+[pass.1H.pass.1NT.pass.2S]
+meaning = "natural 5-4"
+rebid = "Natural"
+
+[pass.1H.pass.1NT.pass.3C]
+meaning = "4 card support, invitational"
+rebid = "Natural (values)"
+
+[pass.1H.pass.1NT.pass.3D]
+meaning = "good 5-5"
+rebid = "Natural (cue bid)"
+
+[pass.1H.pass.1NT.pass."3H/3S*/4C*/4D* "]
+meaning = "Good 6+ suit (*self Splinter)"
+rebid = "Natural (cue bid)"
+
+[pass.1H.pass.1S]
+meaning = "Natural 4+ card suit"
+rebid = "2D – FSF; 3D- spade raise short club; 2C-weak; 2H- 6+ invit; 3H- 6+, Raises/NT- natural;"
+
+[pass.1H.pass.2C]
+meaning = "5+ clubs, limited"
+rebid = "2D- natural in principle, forcing; 3D/3S- splinter; 2H- 6+ invit; 3H- 6+, Raises/NT- natural;"
+
+[pass.1H.pass.2D]
+meaning = "REVERSE with 16+pts, natural"
+
+[pass.1H.pass.2D.pass.2H]
+meaning = "promises 5+ hearts"
+rebid = "Appendix 3"
+
+[pass.1H.pass.2D.pass.2NT]
+meaning = "FORCES* 3C (weak support/suit/good"
+notes = ["club support + shortage)"]
+rebid = "* unless unwilling; to play in 3C"
+
+[pass.1H.pass.2D.pass.2S]
+meaning = "FSF"
+rebid = "Appendix 5"
+
+[pass.1H.pass.2D.pass."3C/3D"]
+meaning = "support with non minimum"
+rebid = "Natural (cue bid)"
+
+[pass.1H.pass.2D.pass.3H]
+meaning = "good 6 card suit"
+rebid = "Natural"
+
+[pass.1H.pass.2D.pass.3NT]
+meaning = "natural, limited, good spade stop"
+
+[pass.1H.pass.2D.pass.3S]
+meaning = "diamond support with club shortage"
+rebid = "Natural (cue bid)"
+
+[pass.1H.pass.2H]
+meaning = "minimum raise, may be 3 card support"
+rebid = "2NT – checking strength of support; Game try"
+
+[pass.1H.pass.2NT]
+meaning = "17-18pts balanced"
+rebid = "3C-Checkback; 3H- good 6+; 3D/3S- nat (5-5)"
+
+[pass.1H.pass.2S]
+meaning = "strong and distributional (6-4+) 2 suiter"
+rebid = "2NT-weak hand(5-8ps); 3D- FSF; others- nat 9+"
+
+[pass.1H.pass.3C]
+meaning = "good 6+ card suit, 7-8 playing tricks"
+rebid = "3D/3S- may be just values; 3H- good 6+"
+
+[pass.1H.pass.3D]
+meaning = "splinter"
+rebid = "3H- (sub) min; New suit- cue"
+
+[pass.1H.pass.3H]
+meaning = "invitational raise (15+unbal or 17-18 bal)"
+rebid = "New suit- cue bid; 3NT- alternative (Not serious)"
+
+[pass.1H.pass.3NT]
+meaning = "(semi) solid club suit + stops +3 hearts"
+rebid = "New suit- cue bid (hearts); 4C- agrees clubs"
+
+[pass.1H.pass."3S/4D"]
+meaning = "Splinter/void strong with heart support"
+rebid = "New suit- cue bid"
+
+[pass.1H.pass.4C]
+meaning = "strong with heart support + a good suit"
+notes = ["DIFFERENT to sequences following 1C-1D:"]
+rebid = "New suit- cue bid"
+
+[pass.1NT]
+meaning = "5-9pts"
+notes = ["Likely 4 card", "support", "Unless 3343", "NB.shouldn’t have:", "a 4 card major"]
+
+[pass.1NT.pass.2C]
+meaning = "5+ clubs, limited"
+rebid = "responder will usually pass"
+
+[pass.1NT.pass."2D/2H/2S "]
+meaning = "REVERSE, 16+pts natural"
+
+[pass.1NT.pass."2D/2H/2S ".pass.2NT]
+meaning = "ANY 5-7pts (responder has 3+ support)"
+rebid = "Natural (3C to play)"
+
+[pass.1NT.pass."2D/2H/2S ".pass.3C]
+meaning = "good 3 or 4 card support"
+notes = ["NEW SUIT – 8-10pts, values"]
+rebid = "Natural (cue bid); Natural"
+
+[pass.1NT.pass.2NT]
+meaning = "17-18pts balanced"
+
+[pass.1NT.pass.3C]
+meaning = "good 6+ card suit, 7-8 playing tricks"
+rebid = "New Suit- probably concentrated values"
+
+[pass.1NT.pass."3D/3H/3S"]
+meaning = "strong and distributional (6-5)"
+rebid = "New suit- cue bid"
+
+[pass.1S]
+meaning = "Natural 4+ suit"
+notes = ["5+pts", "NB.shouldn’t have:", "a) 4 card support", "10+pts unless 5+S", "(2C)", "b) 6+ S suit", "3-8pts unless", "3+ support (2S)", "c) 15+ bal (2NT)"]
+
+[pass.1S.pass.1NT]
+meaning = "11-13 balanced"
+rebid = "2D/2H – weak 5-4; 2S- weak;3D/3H – good 5-5;; 2C/2D/2NT- Checkback; 3C- invitational; 3S- 6+"
+
+[pass.1S.pass.2C]
+meaning = "5+ clubs, limited"
+rebid = "2D/2H – natural in principle; 3D/3H – Splinters; 2S-6+ invit; Raises/NT- nat, invit; 3S- good 6+"
+
+[pass.1S.pass.2D]
+meaning = "REVERSE, 16+pts, natural (2NT)"
+rebid = "2H – FSF; 2NT- forces 3C; Raises- nat; 2S- 5+"
+
+[pass.1S.pass.2H]
+meaning = "REVERSE, 16+pts, natural (2NT)"
+rebid = "3D- FSF; 2NT-forces 3C; Raises- nat; 2S- 5+"
+
+[pass.1S.pass.2NT]
+meaning = "17-18pts balanced"
+rebid = "3C- Checkback; 3D/3H- natural (5-5); 3S- 6+"
+
+[pass.1S.pass.2S]
+meaning = "minimum raise (may be 3 card support)"
+rebid = "2NT- check support; New Suit- game try;"
+
+[pass.1S.pass.3C]
+meaning = "good 6+ card suit, 7-8 playing tricks"
+rebid = "3D/3H- may only be values; 3S- good 6+"
+
+[pass.1S.pass."3D/3H"]
+meaning = "splinters"
+rebid = "New suit- cue bid; 3NT- alternative (Not serious)"
+
+[pass.1S.pass.3NT]
+meaning = "(semi) solid club suit + stops +3 Spades"
+rebid = "New suit- cue bid (spades); 4C- agrees clubs"
+
+[pass.1S.pass.3S]
+meaning = "invitational raise (15+ unbal or 17-18 bal)"
+rebid = "New suit- cue bid; 3NT- alternative (Not serious)"
+
+[pass.1S.pass.4C]
+meaning = "strong with spade support + a good suit"
+rebid = "New suit- cue bid"
+
+[pass.1S.pass."4D/4H"]
+meaning = "void strong with spade support"
+rebid = "New suit- cue bid"
+
+[pass.2C]
+meaning = "4+ support"
+notes = ["10-15pts bal (not", "3334 13-15pts)", "or 9+pts unbal", "(NB. wont have a", "5+ D/H/S suit)"]
+
+[pass.2C.pass.2D]
+meaning = "ANY minimum, 10-14pts (to 2NT/3C)"
+
+[pass.2C.pass.2D.pass.2H]
+meaning = "game interest only"
+rebid = "Bids out shape; (3S-5-5 poor S)"
+
+[pass.2C.pass.2D.pass.2NT]
+meaning = "natural, limited"
+rebid = "Natural (3C to play)"
+
+[pass.2C.pass.2D.pass.2S]
+meaning = "definite club slam interest"
+rebid = "Natural (cue bid)"
+
+[pass.2C.pass.2D.pass.2S.pass.2NT]
+meaning = "3 card club 4333"
+
+[pass.2C.pass.2D.pass.2S.pass.3NT]
+meaning = "poor bal 11-13"
+
+[pass.2C.pass.2D.pass.3C]
+meaning = "natural, minimum"
+rebid = "Natural"
+
+[pass.2C.pass.2D.pass."3D/3H/3S "]
+meaning = "Splinter (limited)"
+rebid = "Natural (cue bid)"
+
+[pass.2C.pass.2D.pass.3NT]
+meaning = "natural"
+rebid = "Natural"
+
+[pass.2C.pass.2D.pass.4C]
+meaning = "RKCB"
+rebid = "Appendix 4"
+
+[pass.2C.pass.2H]
+meaning = "natural, 14+pts"
+
+[pass.2C.pass.2H.pass.2NT]
+meaning = "suggests 13-15pts balanced (or short H)"
+rebid = "Natural"
+
+[pass.2C.pass.2H.pass.2S]
+meaning = "natural (in principle)"
+rebid = "Natural"
+
+[pass.2C.pass.2H.pass.3C]
+meaning = "sets suit, non minimum"
+rebid = "Natural (cue bid"
+
+[pass.2C.pass.2H.pass."3D/3S"]
+meaning = "Splinter, minimum"
+rebid = "Natural (cue bid)"
+
+[pass.2C.pass.2H.pass.3H]
+meaning = "confirms 4-4 fit"
+rebid = "Natural (cue bid)"
+
+[pass.2C.pass.2H.pass.3NT]
+meaning = "natural, minimum (10-12pts)"
+
+[pass.2C.pass.2H.pass.4C]
+meaning = "RKCB"
+rebid = "Appendix 4"
+
+[pass.2C.pass.2NT]
+meaning = "4 diamonds, 14+pts"
+rebid = "Effectively as after 1C-2C-2H:; 3C/3D-set suit; 3H/3S- Splinter; 4C/4D- RKCB"
+
+[pass.2C.pass.2S]
+meaning = "natural, 14+pts"
+rebid = "Effectively as after 1C-2C-2H:; 2NT- suggests 13-15pts bal; 3C/3S- sets suit;; 3D/3H- Splinter, minimum; 4C-RKCB; 3NT-nat, min"
+
+[pass.2C.pass.3C]
+meaning = "14+pts, usually 6 clubs, no shortage"
+rebid = "NEW SUIT – cue bid"
+
+[pass.2C.pass.3C.pass.3NT]
+meaning = "natural, minimum (10-12pts)"
+rebid = "Natural (cue bid)"
+
+[pass.2C.pass.3C.pass.4C]
+meaning = "RKCB"
+rebid = "Appendix 4"
+
+[pass.2C.pass."3D/3H/3S"]
+meaning = "Splinter, usually 6+ clubs, 14+pts"
+rebid = "NEW SUIT – cue bid"
+
+[pass.2C.pass.3NT]
+meaning = "17-18pts bal"
+rebid = "all continuations (except 4NT) agree clubs"
+
+[pass.2C.pass.4C]
+meaning = "RKCB"
+
+[pass."2D/2H/2S*"]
+meaning = "weak 3-9pts, 6+"
+notes = ["suit, no fit (<Hxx)", "(*BY PASSED", "HAND SHOWS", "FIT JUMP (invit))"]
+
+[pass."2D/2H/2S*".pass.2NT]
+meaning = "asks for range/high card feature"
+rebid = "REBID – minimum; NEW SUIT/3C/3NT – feature, non minimum"
+
+[pass."2D/2H/2S*".pass.3C]
+meaning = "no fit, long suit"
+notes = ["RAISE – obstructive", "NEW SUIT- natural, strong and/or distributional"]
+rebid = "responder usually passes; responder usually passes"
+
+[pass.2NT]
+meaning = "15+pts balanced"
+notes = ["(denies 4+ support)", "(*BY PASSED", "HAND SHOWS", "SOUND RAISE", "to 3C)"]
+
+[pass.2NT.pass.3C]
+meaning = "usually 6+ clubs"
+rebid = "NEW SUIT – natural"
+
+[pass.2NT.pass.3C.pass.3NT]
+meaning = "likely 3343, minimum"
+
+[pass.2NT.pass.3C.pass.4C]
+meaning = "agrees suit"
+rebid = "Natural (cue bid)"
+
+[pass.2NT.pass."3D/3H/3S"]
+meaning = "natural, promises 5 clubs (ie 5-4)"
+rebid = "NEW SUIT (3 level)– natural"
+
+[pass.2NT.pass."3D/3H/3S".pass.3NT]
+meaning = "natural, minimum"
+rebid = "Bids if non-min"
+
+[pass.2NT.pass."3D/3H/3S".pass.4C]
+meaning = "agrees suit"
+
+[pass.2NT.pass.3NT]
+meaning = "11-13pts balanced"
+rebid = "responder continues naturally if non-minimum"
+
+[pass.2NT.pass.4C]
+meaning = "17-18 bal (either 4-4 in minors or 5+ clubs)"
+
+[pass.2NT.pass.4C.pass.4D]
+meaning = "checking for possible D fit"
+notes = ["NEW SUIT – cue bid agreeing clubs"]
+rebid = "Natural (cue bid; Natural"
+
+[pass.2NT.pass."4D/4H/4S"]
+meaning = "Self splinter, non minimum, 6+ clubs"
+
+[pass.2NT.pass.4NT]
+meaning = "17-18pts specifically 3334 (any) shape"
+
+[pass.3C]
+meaning = "obstructive raise"
+notes = ["4+ support, 5-8pts"]
+rebid = "NEW SUIT – natural, in principle"
+
+[pass.3C.pass.3NT]
+meaning = "to play"
+
+[pass."3D/3H/3S"]
+meaning = "Splinter (limited)"
+rebid = "New suit- cue bid; 3NT- to play if max; 4C- min"
+
+[pass.3NT]
+meaning = "Specifically 3334"
+notes = ["13-15pts"]
+rebid = "opener continues naturally"

@@ -1,0 +1,10 @@
+open = "4C/4D"
+meaning = "Pre-empt"
+
+[pass."4H/4S"]
+meaning = "to play"
+
+[pass.4NT]
+meaning = "ace/suit ask"
+notes = ["Raise – obstructive"]
+rebid = "5C- poor suit, no ace;  5D-good suit, no ace; 5H- poor suit, ace; 5S- good suit, ace"

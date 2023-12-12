@@ -1,0 +1,26 @@
+open = "3C"
+meaning = "Pre-empt"
+notes = ["(strength/length", "dependant on vuln", "and position)"]
+
+[pass."3D/3H/3S"]
+meaning = "natural 5+suit"
+
+[pass."3D/3H/3S".pass.3NT]
+meaning = "maximum, no fit"
+notes = ["New suit- maximum with fit and feature"]
+rebid = "natural; natural"
+
+[pass."3D/3H/3S".pass.4C]
+meaning = "no fit, minimum"
+notes = ["Raise – minimum with fit (>Hx/xxx)"]
+rebid = "natural"
+
+[pass."3NT/4H/4S"]
+meaning = "to play"
+
+[pass."4C/5C"]
+meaning = "obstructive raises"
+rebid = "Opener always passes"
+
+[pass.4NT]
+meaning = "RKCB"
