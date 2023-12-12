@@ -6,9 +6,9 @@ shows any 4441
 
 | Rebid | Meaning |
 |---|---|
-| [2D&nbsp;2H](#2d-2h) | weak (to play (unless singleton)) |
-| [2D&nbsp;2S](#2d-2s) | weak (to play (unless singleton)) |
-| [2D&nbsp;2NT](#2d-2nt) | asking for singleton |
+| [2D&nbsp;2H](#2d2h) | weak (to play (unless singleton)) |
+| [2D&nbsp;2S](#2d2s) | weak (to play (unless singleton)) |
+| [2D&nbsp;2NT](#2d2nt) | asking for singleton |
 | 2D&nbsp;3C/3D | Weak, 6 card suit (opener passes unless 4 card support) |
 
 ## 2D&nbsp;2H

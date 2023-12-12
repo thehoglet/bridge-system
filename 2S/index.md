@@ -6,10 +6,10 @@ may be 5 card suit; (* IN 4th POSITION; range is 8-12pts)
 
 | Rebid | Meaning |
 |---|---|
-| [2S&nbsp;2NT](#2s-2nt) | relay |
-| [2S&nbsp;3C](#2s-3c) | natural, good suit |
-| [2S&nbsp;3D](#2s-3d) | natural, good suit (Rebids and sequences identical to 2S-3C:) |
-| [2S&nbsp;3H](#2s-3h) | natural, good suit (Rebids and sequences identical to 2S-3C:) |
+| [2S&nbsp;2NT](#2s2nt) | relay |
+| [2S&nbsp;3C](#2s3c) | natural, good suit |
+| [2S&nbsp;3D](#2s3d) | natural, good suit (Rebids and sequences identical to 2S-3C:) |
+| [2S&nbsp;3H](#2s3h) | natural, good suit (Rebids and sequences identical to 2S-3C:) |
 | 2S&nbsp;3S | obstructive raise (opener usually passes; (but may compete further if distributional)) |
 
 ## 2S&nbsp;2NT

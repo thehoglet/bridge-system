@@ -6,7 +6,7 @@ Pre-empt
 
 | Rebid | Meaning |
 |---|---|
-| [3C&nbsp;3D/3H/3S](#3c-3d3h3s) | natural 5+suit |
+| [3C&nbsp;3D/3H/3S](#3c3d3h3s) | natural 5+suit |
 | 3C&nbsp;3NT/4H/4S | to play |
 | 3C&nbsp;4C/5C | obstructive raises (Opener always passes) |
 | 3C&nbsp;4NT | RKCB |

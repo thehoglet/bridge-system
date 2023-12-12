@@ -6,19 +6,19 @@ balanced
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2C](#1nt-2c) | major suit enquiry |
-| [1NT&nbsp;2D](#1nt-2d) | transfer to hearts |
-| [1NT&nbsp;2H](#1nt-2h) | transfer to spades (All sequences are similar to those following 1NT-2D:) |
-| [1NT&nbsp;2S](#1nt-2s) | shows clubs ((5 good or 6+)) |
-| [1NT&nbsp;2NT](#1nt-2nt) | shows diamonds ((5 good or 6+); (could be weak; 5-5 in minors)) |
-| [1NT&nbsp;3C](#1nt-3c) | shows a hand (with a singleton (S); And 4 hearts) |
-| [1NT&nbsp;3D](#1nt-3d) | 5+ good/6+ suit (club shortage) |
-| [1NT&nbsp;3H/3S](#1nt-3h3s) | shortage with 5-4 (in minors and 3 card; major) |
+| [1NT&nbsp;2C](#1nt2c) | major suit enquiry |
+| [1NT&nbsp;2D](#1nt2d) | transfer to hearts |
+| [1NT&nbsp;2H](#1nt2h) | transfer to spades (All sequences are similar to those following 1NT-2D:) |
+| [1NT&nbsp;2S](#1nt2s) | shows clubs ((5 good or 6+)) |
+| [1NT&nbsp;2NT](#1nt2nt) | shows diamonds ((5 good or 6+); (could be weak; 5-5 in minors)) |
+| [1NT&nbsp;3C](#1nt3c) | shows a hand (with a singleton (S); And 4 hearts) |
+| [1NT&nbsp;3D](#1nt3d) | 5+ good/6+ suit (club shortage) |
+| [1NT&nbsp;3H/3S](#1nt3h3s) | shortage with 5-4 (in minors and 3 card; major) |
 | 1NT&nbsp;3NT | to play |
-| [1NT&nbsp;4C](#1nt-4c) | 5-5 Majors game ((only) or slam going) |
-| [1NT&nbsp;4D](#1nt-4d) | transfer to 4H (to play/ slam going) |
-| [1NT&nbsp;4H](#1nt-4h) | transfer to 4S (to play/slam going) |
-| [1NT&nbsp;4S](#1nt-4s) | both minors (6-5) (game values only) |
+| [1NT&nbsp;4C](#1nt4c) | 5-5 Majors game ((only) or slam going) |
+| [1NT&nbsp;4D](#1nt4d) | transfer to 4H (to play/ slam going) |
+| [1NT&nbsp;4H](#1nt4h) | transfer to 4S (to play/slam going) |
+| [1NT&nbsp;4S](#1nt4s) | both minors (6-5) (game values only) |
 | 1NT&nbsp;4NT | invitational ((likely 4333); opener passes, bids a suit suggesting a good 5 card suit or raises) |
 
 ## 1NT&nbsp;2C
@@ -27,12 +27,12 @@ major suit enquiry
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2C&nbsp;2D](#1nt-2c-2d) | promises at least one 4 card major |
-| [1NT&nbsp;2C&nbsp;2H](#1nt-2c-2h) | no 4 or 5 card major |
-| [1NT&nbsp;2C&nbsp;2S](#1nt-2c-2s) | 5 spades, minimum |
-| [1NT&nbsp;2C&nbsp;2NT](#1nt-2c-2nt) | 5 hearts, minimum |
-| [1NT&nbsp;2C&nbsp;3C/3D](#1nt-2c-3c3d) | max with 6 card minor (New suit- cue bid) |
-| [1NT&nbsp;2C&nbsp;3H/3S](#1nt-2c-3h3s) | max with 5 card major (New Suit – cue bid) |
+| [1NT&nbsp;2C&nbsp;2D](#1nt2c2d) | promises at least one 4 card major |
+| [1NT&nbsp;2C&nbsp;2H](#1nt2c2h) | no 4 or 5 card major |
+| [1NT&nbsp;2C&nbsp;2S](#1nt2c2s) | 5 spades, minimum |
+| [1NT&nbsp;2C&nbsp;2NT](#1nt2c2nt) | 5 hearts, minimum |
+| [1NT&nbsp;2C&nbsp;3C/3D](#1nt2c3c3d) | max with 6 card minor (New suit- cue bid) |
+| [1NT&nbsp;2C&nbsp;3H/3S](#1nt2c3h3s) | max with 5 card major (New Suit – cue bid) |
 
 ## 1NT&nbsp;2C&nbsp;2D
 
@@ -40,11 +40,11 @@ promises at least one 4 card major
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2C&nbsp;2D&nbsp;2H](#1nt-2c-2d-2h) | 4 spades (may have 4 hearts and 4/5S invit) (values for 2NT; 2S/3S- min/max 4S;) |
-| [1NT&nbsp;2C&nbsp;2D&nbsp;2S](#1nt-2c-2d-2s) | 4 hearts (denies 4 spades) values for 2NT |
+| [1NT&nbsp;2C&nbsp;2D&nbsp;2H](#1nt2c2d2h) | 4 spades (may have 4 hearts and 4/5S invit) (values for 2NT; 2S/3S- min/max 4S;) |
+| [1NT&nbsp;2C&nbsp;2D&nbsp;2S](#1nt2c2d2s) | 4 hearts (denies 4 spades) values for 2NT |
 | 1NT&nbsp;2C&nbsp;2D&nbsp;2NT | natural, invitational, no major (New suit- weak stop(xx)) |
-| [1NT&nbsp;2C&nbsp;2D&nbsp;3C](#1nt-2c-2d-3c) | Minor suit ask |
-| [1NT&nbsp;2C&nbsp;2D&nbsp;3D](#1nt-2c-2d-3d) | both majors GF |
+| [1NT&nbsp;2C&nbsp;2D&nbsp;3C](#1nt2c2d3c) | Minor suit ask |
+| [1NT&nbsp;2C&nbsp;2D&nbsp;3D](#1nt2c2d3d) | both majors GF |
 
 ## 1NT&nbsp;2C&nbsp;2D&nbsp;2H
 
@@ -97,7 +97,7 @@ no 4 or 5 card major
 |---|---|
 | 1NT&nbsp;2C&nbsp;2H&nbsp;2S | 5S and 4H invitational (Natural) |
 | 1NT&nbsp;2C&nbsp;2H&nbsp;2NT | natural, invitational (New suit-weak stop(xx)) |
-| [1NT&nbsp;2C&nbsp;2H&nbsp;3C](#1nt-2c-2h-3c) | Minor suit ask (continuations as after) |
+| [1NT&nbsp;2C&nbsp;2H&nbsp;3C](#1nt2c2h3c) | Minor suit ask (continuations as after) |
 | 1NT&nbsp;2C&nbsp;2H&nbsp;3D | 5 card suit (not 2 top hons) plus a 4 card M |
 | 1NT&nbsp;2C&nbsp;2H&nbsp;3H/3S | 4 card suit with 5 clubs (not 2 top hons) |
 
@@ -158,10 +158,10 @@ transfer to hearts
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2D&nbsp;2H](#1nt-2d-2h) | denies 4 card support |
-| [1NT&nbsp;2D&nbsp;2S/3C/3D](#1nt-2d-2s3c3d) | maximum with three card support ((min K10x) and suit with reasonable; chance of 4 tricks opposite an honour; 3D (if available) – re-transfer to 3H) |
-| [1NT&nbsp;2D&nbsp;2NT](#1nt-2d-2nt) | maximum with 4 card support |
-| [1NT&nbsp;2D&nbsp;3H](#1nt-2d-3h) | minimum with 4 card support |
+| [1NT&nbsp;2D&nbsp;2H](#1nt2d2h) | denies 4 card support |
+| [1NT&nbsp;2D&nbsp;2S/3C/3D](#1nt2d2s3c3d) | maximum with three card support ((min K10x) and suit with reasonable; chance of 4 tricks opposite an honour; 3D (if available) – re-transfer to 3H) |
+| [1NT&nbsp;2D&nbsp;2NT](#1nt2d2nt) | maximum with 4 card support |
+| [1NT&nbsp;2D&nbsp;3H](#1nt2d3h) | minimum with 4 card support |
 
 ## 1NT&nbsp;2D&nbsp;2H
 
@@ -169,9 +169,9 @@ denies 4 card support
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2D&nbsp;2H&nbsp;2S](#1nt-2d-2h-2s) | natural 5-4 may only be invit (forcing to 2NT) ((continues if game values)) |
-| [1NT&nbsp;2D&nbsp;2H&nbsp;2NT](#1nt-2d-2h-2nt) | invitational (Natural) |
-| [1NT&nbsp;2D&nbsp;2H&nbsp;3C/3D](#1nt-2d-2h-3c3d) | natural |
+| [1NT&nbsp;2D&nbsp;2H&nbsp;2S](#1nt2d2h2s) | natural 5-4 may only be invit (forcing to 2NT) ((continues if game values)) |
+| [1NT&nbsp;2D&nbsp;2H&nbsp;2NT](#1nt2d2h2nt) | invitational (Natural) |
+| [1NT&nbsp;2D&nbsp;2H&nbsp;3C/3D](#1nt2d2h3c3d) | natural |
 | 1NT&nbsp;2D&nbsp;2H&nbsp;3H | 6 card suit, invitational (Natural) |
 | 1NT&nbsp;2D&nbsp;2H&nbsp;3S/4C/4D | self Splinter, good 6 card suit (cue bid) |
 | 1NT&nbsp;2D&nbsp;2H&nbsp;3NT | usually 5332 (opener chooses) |
@@ -258,8 +258,8 @@ shows clubs
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2S&nbsp;2NT](#1nt-2s-2nt) | denies Hxx or better in clubs |
-| [1NT&nbsp;2S&nbsp;3C](#1nt-2s-3c) | promises Hxx or better in clubs (Continuations as after 1NT-2S-2NT:) |
+| [1NT&nbsp;2S&nbsp;2NT](#1nt2s2nt) | denies Hxx or better in clubs |
+| [1NT&nbsp;2S&nbsp;3C](#1nt2s3c) | promises Hxx or better in clubs (Continuations as after 1NT-2S-2NT:) |
 
 ## 1NT&nbsp;2S&nbsp;2NT
 
@@ -268,8 +268,8 @@ denies Hxx or better in clubs
 | Rebid | Meaning |
 |---|---|
 | 1NT&nbsp;2S&nbsp;2NT&nbsp;3C | to play |
-| [1NT&nbsp;2S&nbsp;2NT&nbsp;3D](#1nt-2s-2nt-3d) | shortage (may have a 4 card major if (5 good or 6 clubs)) |
-| [1NT&nbsp;2S&nbsp;2NT&nbsp;3H](#1nt-2s-2nt-3h) | shortage (denies 4 diamonds but may (Have 4 spades with 5 good or 6 clubs)) |
+| [1NT&nbsp;2S&nbsp;2NT&nbsp;3D](#1nt2s2nt3d) | shortage (may have a 4 card major if (5 good or 6 clubs)) |
+| [1NT&nbsp;2S&nbsp;2NT&nbsp;3H](#1nt2s2nt3h) | shortage (denies 4 diamonds but may (Have 4 spades with 5 good or 6 clubs)) |
 | 1NT&nbsp;2S&nbsp;2NT&nbsp;3S | shortage (denies a second suit) (Natural) |
 | 1NT&nbsp;2S&nbsp;2NT&nbsp;3NT | to play |
 | 1NT&nbsp;2S&nbsp;2NT&nbsp;4C | slam try (probably no shortage) (cue bid) |
@@ -308,8 +308,8 @@ Continuations as after 1NT-2S-2NT:
 | Rebid | Meaning |
 |---|---|
 | 1NT&nbsp;2S&nbsp;3C&nbsp;Pass | weak |
-| [1NT&nbsp;2S&nbsp;3C&nbsp;3D](#1nt-2s-3c-3d) | shortage (may have a 4 card major if (5 good or 6 clubs)) |
-| [1NT&nbsp;2S&nbsp;3C&nbsp;3H](#1nt-2s-3c-3h) | shortage (denies 4 diamonds but may (Have 4 spades with 5 good or 6 clubs)) |
+| [1NT&nbsp;2S&nbsp;3C&nbsp;3D](#1nt2s3c3d) | shortage (may have a 4 card major if (5 good or 6 clubs)) |
+| [1NT&nbsp;2S&nbsp;3C&nbsp;3H](#1nt2s3c3h) | shortage (denies 4 diamonds but may (Have 4 spades with 5 good or 6 clubs)) |
 | 1NT&nbsp;2S&nbsp;3C&nbsp;3S | shortage (denies a second suit) (Natural) |
 | 1NT&nbsp;2S&nbsp;3C&nbsp;3NT | to play |
 | 1NT&nbsp;2S&nbsp;3C&nbsp;4C | slam try (probably no shortage) (cue bid) |
@@ -347,8 +347,8 @@ shows diamonds
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2NT&nbsp;3C](#1nt-2nt-3c) | denies Hxx or better in diamonds |
-| [1NT&nbsp;2NT&nbsp;3D](#1nt-2nt-3d) | promises Hxx or better in diamonds |
+| [1NT&nbsp;2NT&nbsp;3C](#1nt2nt3c) | denies Hxx or better in diamonds |
+| [1NT&nbsp;2NT&nbsp;3D](#1nt2nt3d) | promises Hxx or better in diamonds |
 
 ## 1NT&nbsp;2NT&nbsp;3C
 
@@ -358,7 +358,7 @@ denies Hxx or better in diamonds
 |---|---|
 | 1NT&nbsp;2NT&nbsp;3C&nbsp;Pass | weak 5-5 in minors |
 | 1NT&nbsp;2NT&nbsp;3C&nbsp;3D | to play |
-| [1NT&nbsp;2NT&nbsp;3C&nbsp;3H](#1nt-2nt-3c-3h) | shortage (denies 4 clubs but may (Have 4 spades with 5 good or 6 diamonds)) |
+| [1NT&nbsp;2NT&nbsp;3C&nbsp;3H](#1nt2nt3c3h) | shortage (denies 4 clubs but may (Have 4 spades with 5 good or 6 diamonds)) |
 | 1NT&nbsp;2NT&nbsp;3C&nbsp;3S | shortage (denies a second suit) (Natural) |
 | 1NT&nbsp;2NT&nbsp;3C&nbsp;3NT | to play |
 | 1NT&nbsp;2NT&nbsp;3C&nbsp;4C | RKCB (for diamonds) (Appendix 4) |
@@ -384,7 +384,7 @@ promises Hxx or better in diamonds
 | Rebid | Meaning |
 |---|---|
 | 1NT&nbsp;2NT&nbsp;3D&nbsp;Pass | weak |
-| [1NT&nbsp;2NT&nbsp;3D&nbsp;3H](#1nt-2nt-3d-3h) | shortage (denies 4 clubs but may (Have 4 spades with 5 good or 6 diamonds)) |
+| [1NT&nbsp;2NT&nbsp;3D&nbsp;3H](#1nt2nt3d3h) | shortage (denies 4 clubs but may (Have 4 spades with 5 good or 6 diamonds)) |
 | 1NT&nbsp;2NT&nbsp;3D&nbsp;3S | shortage (denies a second suit) (Natural) |
 | 1NT&nbsp;2NT&nbsp;3D&nbsp;3NT | to play |
 | 1NT&nbsp;2NT&nbsp;3D&nbsp;4C | RCKB (for diamonds) (Appendix 4) |
@@ -411,9 +411,9 @@ with a singleton (S); And 4 hearts
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;3C&nbsp;3D](#1nt-3c-3d) | asks for responders 5+ card minor (3H(C)/3S(D)- shows minor (5431/6421 shape)) |
-| [1NT&nbsp;3C&nbsp;3H](#1nt-3c-3h) | agrees hearts |
-| [1NT&nbsp;3C&nbsp;3S/3NT](#1nt-3c-3s3nt) | max/min with good (double) spade stop |
+| [1NT&nbsp;3C&nbsp;3D](#1nt3c3d) | asks for responders 5+ card minor (3H(C)/3S(D)- shows minor (5431/6421 shape)) |
+| [1NT&nbsp;3C&nbsp;3H](#1nt3c3h) | agrees hearts |
+| [1NT&nbsp;3C&nbsp;3S/3NT](#1nt3c3s3nt) | max/min with good (double) spade stop |
 
 ## 1NT&nbsp;3C&nbsp;3D
 
@@ -452,7 +452,7 @@ club shortage
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;3D&nbsp;3H/3S](#1nt-3d-3h3s) | natural looking for fit |
+| [1NT&nbsp;3D&nbsp;3H/3S](#1nt3d3h3s) | natural looking for fit |
 
 ## 1NT&nbsp;3D&nbsp;3H/3S
 
@@ -472,7 +472,7 @@ in minors and 3 card; major
 | Rebid | Meaning |
 |---|---|
 | 1NT&nbsp;3H/3S&nbsp;3NT/5C/5D | minimum (continuations show slam going hand) |
-| [1NT&nbsp;3H/3S&nbsp;4C/4D](#1nt-3h3s-4c4d) | maximum, slam try (UNBID MAJOR- suggests playing there if; 3 card support (5431); Raise of shortage major – choose a minor; New Suit – cue bid) |
+| [1NT&nbsp;3H/3S&nbsp;4C/4D](#1nt3h3s4c4d) | maximum, slam try (UNBID MAJOR- suggests playing there if; 3 card support (5431); Raise of shortage major – choose a minor; New Suit – cue bid) |
 
 ## 1NT&nbsp;3H/3S&nbsp;4C/4D
 
@@ -494,8 +494,8 @@ New Suit – cue bid
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;4C&nbsp;4D](#1nt-4c-4d) | no preference |
-| [1NT&nbsp;4C&nbsp;4H/4S](#1nt-4c-4h4s) | preference |
+| [1NT&nbsp;4C&nbsp;4D](#1nt4c4d) | no preference |
+| [1NT&nbsp;4C&nbsp;4H/4S](#1nt4c4h4s) | preference |
 
 ## 1NT&nbsp;4C&nbsp;4D
 
@@ -522,7 +522,7 @@ to play/ slam going
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;4D&nbsp;4H](#1nt-4d-4h) | openers only bid (New Suit – Exclusion Blackwood) |
+| [1NT&nbsp;4D&nbsp;4H](#1nt4d4h) | openers only bid (New Suit – Exclusion Blackwood) |
 
 ## 1NT&nbsp;4D&nbsp;4H
 
@@ -542,7 +542,7 @@ to play/slam going
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;4H&nbsp;4S](#1nt-4h-4s) | openers only bid (New Suit – Exclusion Blackwood) |
+| [1NT&nbsp;4H&nbsp;4S](#1nt4h4s) | openers only bid (New Suit – Exclusion Blackwood) |
 
 ## 1NT&nbsp;4H&nbsp;4S
 
@@ -562,7 +562,7 @@ game values only
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;4S&nbsp;4NT](#1nt-4s-4nt) | no preference |
+| [1NT&nbsp;4S&nbsp;4NT](#1nt4s4nt) | no preference |
 | 1NT&nbsp;4S&nbsp;5C/5D | preference |
 
 ## 1NT&nbsp;4S&nbsp;4NT
