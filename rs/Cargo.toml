@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "csv-to-toml",
+    "data-model",
+    "toml-to-md",
+]

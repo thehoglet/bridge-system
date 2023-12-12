@@ -1,0 +1,13 @@
+[package]
+name = "csv-to-toml"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1"
+text-colorizer = "1"
+toml = "0"
+data-model = { path = "../data-model" }
+lazy_static = "1"
+regex = "1"
+glob = "0"

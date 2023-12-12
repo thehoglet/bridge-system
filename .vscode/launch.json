@@ -5,11 +5,22 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "(Windows) Launch",
+            "name": "(Windows) Launch csv-to-toml",
             "type": "cppvsdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/toml-2-md/target/debug/toml-2-md.exe",
-            "args": [],
+            "program": "${workspaceFolder}/rs/target/debug/csv-to-toml.exe",
+            "args": ["${workspaceFolder}/../../setup/data/csv/2H.csv", "${workspaceFolder}/../../setup/data/toml/"],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": []
+            //"console": "externalTerminal"
+        },
+        {
+            "name": "(Windows) Launch toml-to-md",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/rs/target/debug/toml-to-md.exe",
+            "args": ["${workspaceFolder}/../../setup/data/toml/2H.toml", "${workspaceFolder}/../../setup/data/md/"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": []

@@ -1,0 +1,11 @@
+[package]
+name = "toml-to-md"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+text-colorizer = "1"
+glob = "0"
+toml = "0"
+data-model = { path = "../data-model" }
+itertools = "0"
