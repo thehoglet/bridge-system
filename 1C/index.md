@@ -11,7 +11,7 @@ unless 4(poor)333; 10-21pts; NB.shouldn’t be; a) 4441 (any); (1D or 1H); b) 4-
 | [1C&nbsp;1S](#1c1s) | Natural 4+ suit (5+pts; NB.shouldn’t have:; a) 4 card support; 10+pts unless 5+S; (2C); b) 6+ S suit; 3-8pts unless; 3+ support (2S); c) 15+ bal (2NT)) |
 | [1C&nbsp;1NT](#1c1nt) | 5-9pts (Likely 4 card; support; Unless 3343; NB.shouldn’t have:; a 4 card major) |
 | [1C&nbsp;2C](#1c2c) | 4+ support (10-15pts bal (not; 3334 13-15pts); or 9+pts unbal; (NB. wont have a; 5+ D/H/S suit)) |
-| [1C&nbsp;2D/2H/2S*](#1c2d2h2s*) | weak 3-9pts, 6+ (suit, no fit (<Hxx); (*BY PASSED; HAND SHOWS; FIT JUMP (invit))) |
+| [1C&nbsp;2D/2H/2S*](#1c2d2h2s) | weak 3-9pts, 6+ (suit, no fit (<Hxx); (*BY PASSED; HAND SHOWS; FIT JUMP (invit))) |
 | [1C&nbsp;2NT](#1c2nt) | 15+pts balanced ((denies 4+ support); (*BY PASSED; HAND SHOWS; SOUND RAISE; to 3C)) |
 | [1C&nbsp;3C](#1c3c) | obstructive raise (4+ support, 5-8pts; NEW SUIT – natural, in principle) |
 | 1C&nbsp;3D/3H/3S | Splinter (limited) (New suit- cue bid; 3NT- to play if max; 4C- min) |

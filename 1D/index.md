@@ -11,7 +11,7 @@ Natural 4+
 | [1D&nbsp;1NT](#1d1nt) | 5-12pts (7+ cards in minors; NB.shouldn’t have:; a) 4 card major; 1H or 1S; b) 4 card support; 10+pts; 2C- either; D+C limited or very strong;; or very strong D single suiter; or 14-17pts 5D plus a 4 card major; or 11-17pts 1444/4144) |
 | [1D&nbsp;2C](#1d2c) | Natural 4+ suit (Game Forcing; *By PASSED; HAND natural; 9+pts, invitational) |
 | [1D&nbsp;2D](#1d2d) | 4+ support (10-15pts bal (not; 3334 13-15pts); or 9+pts unbal; (NB. wont have a; 5+ H/S suit); ALL further bidding is similar to sequences following 1C-2C:) |
-| [1D&nbsp;2H/2S*](#1d2h2s*) | weak 3-9pts, 6+ (suit, no fit (<Hxx); (*BY PASSED; HAND SHOWS; FIT JUMP (invit))) |
+| [1D&nbsp;2H/2S*](#1d2h2s) | weak 3-9pts, 6+ (suit, no fit (<Hxx); (*BY PASSED; HAND SHOWS; FIT JUMP (invit))) |
 | [1D&nbsp;2NT](#1d2nt) | 15+pts balanced ((denies 4+ support); (*BY PASSED; HAND SHOWS; SOUND RAISE; to 3D)) |
 | [1D&nbsp;3C](#1d3c) | 6+ clubs, invit (no fit (<Hxx); (*BY PASSED; HAND SHOWS; FIT JUMP (invit))) |
 | 1D&nbsp;3D | obstructive raise (Natural) |
@@ -300,7 +300,7 @@ suit, no fit (<Hxx); (*BY PASSED; HAND SHOWS; FIT JUMP (invit))
 
 | Rebid | Meaning |
 |---|---|
-| [1D&nbsp;2H/2S*&nbsp;2NT](#1d2h2s*2nt) | asks for features (NEW SUIT= feature, non minimum; REBID – minimum) |
+| [1D&nbsp;2H/2S*&nbsp;2NT](#1d2h2s2nt) | asks for features (NEW SUIT= feature, non minimum; REBID – minimum) |
 | 1D&nbsp;2H/2S*&nbsp;3D | 6+ card suit, no fit (NEW SUIT – strong and distributional; RAISE – obstructive; Natural; Natural; Natural) |
 
 ## 1D&nbsp;2H/2S*&nbsp;2NT
