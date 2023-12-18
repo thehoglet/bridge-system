@@ -178,11 +178,22 @@ fn encode_continuations<'a>(
                 }
                 additional.push_str(rebid);
             }
-            writeln!(
-                markdown,
-                "| {} | {} ({}) |",
-                column1, continuation.meaning, additional
-            )?;
+
+            if additional.contains(';')
+                || additional.len() > continuation.meaning.len()
+            {
+                writeln!(
+                    markdown,
+                    "| {} | {}<br/>{} |",
+                    column1, continuation.meaning, additional
+                )?;
+            } else {
+                writeln!(
+                    markdown,
+                    "| {} | {} ({}) |",
+                    column1, continuation.meaning, additional
+                )?;
+            }
         }
 
         sequence.pop();
