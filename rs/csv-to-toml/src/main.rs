@@ -1,5 +1,6 @@
 use data_model::Continuation;
 use data_model::Open;
+use glob::glob;
 use lazy_static::lazy_static;
 use regex::Regex;
 use std::collections::BTreeMap;
@@ -7,16 +8,14 @@ use std::env;
 use std::fs;
 use std::io;
 use std::ops::Range;
+use std::path::Path;
 use std::path::PathBuf;
 use std::{error::Error, process};
 use text_colorizer::*;
-use toml;
-use glob::glob;
 
 static PATTERN_BID_MEANING: &str = r"^(?P<bid>(?:\d(?:[SHDC]|NT)|(?:\(?[Pp]ass\)?)))(?P<bids>/[^-–]*)?\*?(?:(?:\s*[-–]\s*(?P<meaning>.*))|$)";
 lazy_static! {
-    static ref RE_BID_MEANING: Regex =
-        Regex::new(&PATTERN_BID_MEANING).unwrap();
+    static ref RE_BID_MEANING: Regex = Regex::new(PATTERN_BID_MEANING).unwrap();
 }
 
 #[derive(Debug)]
@@ -84,7 +83,7 @@ where
 
         let maybe_rebid = process_continuations_rec(
             &mut pass_rec,
-            &field_values,
+            field_values,
             column,
             rows,
         )?;
@@ -110,7 +109,7 @@ where
             continue;
         }
 
-        let maybe_match = if value.contains(";") {
+        let maybe_match = if value.contains(';') {
             None
         } else {
             RE_BID_MEANING.captures(value)
@@ -172,9 +171,8 @@ where
                     if continuation.meaning.is_empty() {
                         continuation.meaning = value.into();
                     } else {
-                        let notes = continuation
-                            .notes
-                            .get_or_insert_with(|| Vec::new());
+                        let notes =
+                            continuation.notes.get_or_insert_with(Vec::new);
                         notes.push(value.into());
                     }
                 }
@@ -213,7 +211,7 @@ pub fn create_open(
     let mut start_from_row: usize = 0;
     let mut end_before_row: usize = usize::MAX;
 
-    let fourth_prefixes = vec!["fourth", "4th"];
+    let fourth_prefixes = ["fourth", "4th"];
 
     for (pos, row) in field_values.iter().enumerate() {
         let opener = &row[0];
@@ -221,7 +219,7 @@ pub fn create_open(
             continue;
         }
 
-        let maybe_match = if opener.contains(";") {
+        let maybe_match = if opener.contains(';') {
             None
         } else {
             RE_BID_MEANING.captures(opener)
@@ -275,8 +273,7 @@ pub fn create_open(
                     if open.meaning.is_empty() {
                         open.meaning = opener.into();
                     } else {
-                        let notes =
-                            open.notes.get_or_insert_with(|| Vec::new());
+                        let notes = open.notes.get_or_insert_with(Vec::new);
                         notes.push(opener.into());
                     }
                 }
@@ -289,29 +286,27 @@ pub fn create_open(
             io::ErrorKind::InvalidData,
             "Failed to find opening bid",
         )));
-    } else {
-        if field_values[0].len() > 1 {
-            let mut pass = BTreeMap::<String, Continuation>::new();
+    } else if field_values[0].len() > 1 {
+        let mut pass = BTreeMap::<String, Continuation>::new();
 
-            if end_before_row == usize::MAX {
-                end_before_row = field_values.len();
-            }
+        if end_before_row == usize::MAX {
+            end_before_row = field_values.len();
+        }
 
-            let maybe_rebid = process_continuations_rec(
-                &mut pass,
-                &field_values,
-                1,
-                start_from_row..end_before_row,
-            )?;
+        let maybe_rebid = process_continuations_rec(
+            &mut pass,
+            field_values,
+            1,
+            start_from_row..end_before_row,
+        )?;
 
-            if let Some(rebid) = maybe_rebid {
-                let notes = open.notes.get_or_insert_with(|| Vec::new());
-                notes.push(rebid);
-            }
+        if let Some(rebid) = maybe_rebid {
+            let notes = open.notes.get_or_insert_with(Vec::new);
+            notes.push(rebid);
+        }
 
-            if !pass.is_empty() {
-                open.pass = Some(pass);
-            }
+        if !pass.is_empty() {
+            open.pass = Some(pass);
         }
     }
 
@@ -319,8 +314,8 @@ pub fn create_open(
 }
 
 fn process_csv(
-    source_path: &PathBuf,
-    target_path: &PathBuf,
+    source_path: &Path,
+    target_path: &Path,
 ) -> Result<(), Box<dyn Error>> {
     let mut reader = csv::ReaderBuilder::new()
         .has_headers(false)
@@ -348,7 +343,7 @@ fn process_csv(
         field_values.push(row);
     }
 
-    if field_values.len() == 0 {
+    if field_values.is_empty() {
         return Err(Box::new(io::Error::new(
             io::ErrorKind::InvalidData,
             "CSV file contains no processable data",
@@ -357,21 +352,19 @@ fn process_csv(
 
     let open = create_open(&field_values)?;
 
-    let file_name =
-        source_path
-            .file_stem()
-            .and_then(|s| s.to_str())
-            .expect(&format!(
-                "Failed to extract file name from {:?}",
-                source_path
-            ));
+    let file_name = source_path
+        .file_stem()
+        .and_then(|s| s.to_str())
+        .unwrap_or_else(|| {
+            panic!("Failed to extract file name from {:?}", source_path)
+        });
 
-    let mut target_file = target_path.clone();
+    let mut target_file = target_path.to_path_buf();
     target_file.push(file_name);
     target_file.set_extension("toml");
 
     let content = toml::to_string(&open)?;
-    fs::write(&target_file, &content)?;
+    fs::write(&target_file, content)?;
 
     Ok(())
 }

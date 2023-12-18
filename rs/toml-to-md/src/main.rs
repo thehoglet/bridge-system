@@ -8,6 +8,7 @@ use std::env;
 use std::fs;
 use std::io;
 use std::io::Write;
+use std::path::Path;
 use std::path::PathBuf;
 use std::{error::Error, process};
 use text_colorizer::*;
@@ -106,11 +107,11 @@ fn encode_continuation_rec<'a>(
     Ok(())
 }
 
-fn format_link_to_anchor(sequence: &Vec<&String>) -> String {
+fn format_link_to_anchor(sequence: &[&String]) -> String {
     let text = sequence.iter().join("&nbsp;");
     let link = sequence
         .iter()
-        .map(|&s| s.to_lowercase().replace("/", "").replace("*", ""))
+        .map(|&s| s.to_lowercase().replace(['/', '*'], ""))
         .join("");
     format!("[{}](#{})", text, link)
 }
@@ -175,7 +176,7 @@ fn encode_continuations<'a>(
                 if !additional.is_empty() {
                     additional.push_str("; ");
                 }
-                additional.push_str(&rebid);
+                additional.push_str(rebid);
             }
             writeln!(
                 markdown,
@@ -240,9 +241,9 @@ fn encode_open(
 
 fn process_toml(
     source_path: &PathBuf,
-    target_path: &PathBuf,
+    target_path: &Path,
 ) -> Result<(), Box<dyn Error>> {
-    let contents = fs::read_to_string(&source_path)?;
+    let contents = fs::read_to_string(source_path)?;
     let open = toml::from_str(&contents)?;
 
     let source_metadata = fs::metadata(source_path)?;
@@ -251,19 +252,15 @@ fn process_toml(
 
     encode_open(&open, &mut markdown)?;
 
-    let mut target_file = target_path.clone();
+    let mut target_file = target_path.to_path_buf();
     let mut file_name: String = source_path
         .file_stem()
         .and_then(|s| s.to_str())
-        .expect(&format!(
-            "Failed to extract file name from {:?}",
-            source_path
-        ))
+        .unwrap_or_else(|| {
+            panic!("Failed to extract file name from {:?}", source_path)
+        })
         .into();
-    file_name = file_name
-        .replace(" ", "_")
-        .replace("(", "")
-        .replace(")", "");
+    file_name = file_name.replace(' ', "_").replace(['(', ')'], "");
     target_file.push(file_name);
 
     if !target_file.is_dir() {

@@ -24,3 +24,40 @@ https://stackoverflow.com/questions/66827800/how-to-throw-error-into-result-t-e-
 windows
 =======
 https://stackoverflow.com/questions/2787203/unc-path-to-a-folder-on-my-local-computer
+
+VBA
+===
+
+Sub MergeCells()
+
+    Dim cel As Range
+    Dim c As Range
+    Dim selectedRange As Range
+    Set selectedRange = Application.Selection
+    
+    Dim s As String
+    s = ""
+
+    For Each c In selectedRange.Cells
+        If Len(s) > 0 Then
+            s = s & " "
+        End If
+        s = s & Trim(c.Text)
+        c.FormulaR1C1 = ""
+    Next c
+    Set c = selectedRange.Cells(1, 1)
+    c.FormulaR1C1 = s
+
+    Selection.Merge
+    With Selection
+        .HorizontalAlignment = xlGeneral
+        .VerticalAlignment = xlTop
+        .WrapText = True
+        .MergeCells = True
+    End With
+    
+    With Selection.Font
+        .ColorIndex = xlAutomatic
+    End With
+    
+End Sub
