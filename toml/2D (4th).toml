@@ -1,10 +1,8 @@
 open = "2D"
-meaning = "shows any 4441"
-notes = ["18+pts"]
+meaning = "shows any 4441 18+pts"
 
 [pass.2H]
-meaning = "weak (to play"
-notes = ["unless singleton)"]
+meaning = "weak (to play unless singleton)"
 
 [pass.2H.pass.2NT]
 meaning = "21-23pts (singleton in H)"
@@ -26,8 +24,7 @@ meaning = "suit below singleton"
 rebid = "Sing suit – asks for controls (Appendix 4); New Suit- sets suit"
 
 [pass.2S]
-meaning = "weak (to play"
-notes = ["unless singleton)"]
+meaning = "weak (to play unless singleton)"
 
 [pass.2S.pass.2NT]
 meaning = "21-23pts (singleton in S)"

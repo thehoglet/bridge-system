@@ -1,6 +1,5 @@
 open = "3NT"
-meaning = "Solid (7) major"
-notes = ["plus an A or K", "or semi solid", "(AKJ/AQJ/KQJ)", "plus an A"]
+meaning = "Solid (7) major plus an A or K or semi solid (AKJ/AQJ/KQJ) plus an A"
 
 [pass.4C]
 meaning = "asks for major"
@@ -14,25 +13,24 @@ meaning = "to play"
 
 [pass.4C.pass.4D.pass.4NT]
 meaning = "ace/suit asking"
-rebid = "5C- solid; no ace; 5D- not solid; ace; 5H- solid; ace"
+rebid = "5C- solid; no ace 5D- not solid; ace 5H- solid; ace"
 
 [pass.4C.pass.4D.pass."4S/5C/5D"]
 meaning = "asking about controls in bid suit"
-rebid = "1st - no control; 2nd- King; 3rd- sing; 4th-void; 5th- A"
+rebid = "1st - no control 2nd- King; 3rd- sing 4th-void; 5th- A"
 
 [pass.4C.pass.4H]
 meaning = "spades"
 
 [pass.4C.pass.4H.pass.4NT]
 meaning = "ace/suit asking"
-rebid = "same rebids"
+rebid = "same rebids as above"
 
 [pass.4C.pass.4H.pass.4S]
 meaning = "to play"
 
 [pass.4C.pass.4H.pass."5C/5D/5H"]
 meaning = "asking about controls in bid suit"
-rebid = "as above"
 
 [pass.4D]
 meaning = "asks for suit"
@@ -43,7 +41,6 @@ rebid = "(4S)/5C/5D/(5H)- asking about controls in bid suit"
 
 [pass.4D.pass."4H/4S".pass.4NT]
 meaning = "ace/suit asking"
-rebid = "as above"
 
 [pass."4H/4S/5C/5D"]
 meaning = "to play"

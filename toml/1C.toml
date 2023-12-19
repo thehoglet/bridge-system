@@ -1,14 +1,13 @@
 open = "1C"
-meaning = "Natural 4+"
-notes = ["unless 4(poor)333", "10-21pts", "NB.shouldn’t be", "a) 4441 (any)", "(1D or 1H)", "b) 4-4 with major", "unless major poor", "(1H or 1S)", "c) 14-16/19+ bal", "(1NT/2C/2D)"]
+meaning = "Natural 4+ unless 4(poor)333 10-21pts"
+notes = ["NB.shouldn’t be", "a) 4441 (any) (1D or 1H)", "b) 4-4 with major unless major poor  (1H or 1S)", "c) 14-16/19+ bal (1NT/2C/2D)"]
 
 [pass.1D]
-meaning = "Natural 4+ suit"
-notes = ["5+pts", "NB.shouldn’t have:", "a) 4 card support", "10+pts unless 5+D", "(2C)", "b) 6+ D suit", "3-8pts unless", "3+ support", "(2D)", "c) 3343 5-10pts", "(1NT)", "d) 15+pts bal", "(2NT)"]
+meaning = "Natural 4+ suit 5+pts"
+notes = ["NB.shouldn’t have:", "a) 4 card support 10+pts unless 5+D (2C)", "b) 6+ D suit 3-8pts unless 3+ support (2D)", "c) 3343 5-10pts (1NT)", "d) 15+pts bal (2NT)"]
 
 [pass.1D.pass.1H]
-meaning = "Natural 4+ card suit"
-notes = ["Usually 5+ clubs"]
+meaning = "Natural 4+ card suit Usually 5+ clubs"
 
 [pass.1D.pass.1H.pass.1NT]
 meaning = "5-10pts"
@@ -80,8 +79,7 @@ meaning = "natural (guarantees 5+D)"
 rebid = "Natural"
 
 [pass.1D.pass.1NT.pass.2NT]
-meaning = "FORCES 3C (weak with clubs or GF"
-notes = ["With 4 card support)"]
+meaning = "FORCES 3C (weak with clubs or GF With 4 card support)"
 rebid = "Appendix 2"
 
 [pass.1D.pass.1NT.pass.3C]
@@ -101,8 +99,7 @@ meaning = "natural"
 rebid = "Natural"
 
 [pass.1D.pass.1S]
-meaning = "Natural 4+ card suit"
-notes = ["Usually 5+ clubs"]
+meaning = "Natural 4+ card suit Usually 5+ clubs"
 rebid = "AS AFTER 1C-1D-1H; 2H- FSF; 3H- S raise with club shortage; 2D- 6+; 3D- good 6+; Raises/NT-natural; 2C- weak"
 
 [pass.1D.pass.2C]
@@ -250,13 +247,12 @@ meaning = "Splinter raise"
 rebid = "ALL non game bids are slam tries"
 
 [pass.1D.pass.3NT]
-meaning = "likely (semi) solid clubs, D shortage,"
-notes = ["stops in majors"]
+meaning = "likely (semi) solid clubs, D shortage, stops in majors"
 rebid = "ALL non game bids are slam tries"
 
 [pass.1H]
-meaning = "Natural 4+ suit"
-notes = ["5+pts", "NB.shouldn’t have:", "a) 4 card support", "10+pts unless 5+H", "(2C)", "b) 6+ H suit", "3-8pts unless", "3+ support", "(2H)", "c) 15+ balanced", "(2NT)"]
+meaning = "Natural 4+ suit 5+pts"
+notes = ["NB.shouldn’t have:", "a) 4 card support 10+pts unless 5+H (2C)", "b) 6+ H suit 3-8pts unless 3+ support (2H)", "c) 15+ balanced (2NT)"]
 rebid = "MOST further bidding is similar to sequences following 1C-1D:"
 
 [pass.1H.pass.1NT]
@@ -275,8 +271,7 @@ rebid = "Appendix 2"
 meaning = "weak, to play"
 
 [pass.1H.pass.1NT.pass.2NT]
-meaning = "FORCES 3C (weak with clubs or GF"
-notes = ["With 4 card support)"]
+meaning = "FORCES 3C (weak with clubs or GF With 4 card support)"
 rebid = "Appendix 2"
 
 [pass.1H.pass.1NT.pass.2S]
@@ -311,9 +306,8 @@ meaning = "promises 5+ hearts"
 rebid = "Appendix 3"
 
 [pass.1H.pass.2D.pass.2NT]
-meaning = "FORCES* 3C (weak support/suit/good"
-notes = ["club support + shortage)"]
-rebid = "* unless unwilling; to play in 3C"
+meaning = "FORCES* 3C (weak support/suit/good club support + shortage)"
+rebid = "* unless unwilling to play in 3C"
 
 [pass.1H.pass.2D.pass.2S]
 meaning = "FSF"
@@ -372,8 +366,8 @@ notes = ["DIFFERENT to sequences following 1C-1D:"]
 rebid = "New suit- cue bid"
 
 [pass.1NT]
-meaning = "5-9pts"
-notes = ["Likely 4 card", "support", "Unless 3343", "NB.shouldn’t have:", "a 4 card major"]
+meaning = "5-9pts Likely 4 card support Unless 3343"
+notes = ["NB.shouldn’t have: a 4 card major"]
 
 [pass.1NT.pass.2C]
 meaning = "5+ clubs, limited"
@@ -403,8 +397,8 @@ meaning = "strong and distributional (6-5)"
 rebid = "New suit- cue bid"
 
 [pass.1S]
-meaning = "Natural 4+ suit"
-notes = ["5+pts", "NB.shouldn’t have:", "a) 4 card support", "10+pts unless 5+S", "(2C)", "b) 6+ S suit", "3-8pts unless", "3+ support (2S)", "c) 15+ bal (2NT)"]
+meaning = "Natural 4+ suit 5+pts"
+notes = ["NB.shouldn’t have:", "a) 4 card support 10+pts unless 5+S (2C)", "b) 6+ S suit 3-8pts unless 3+ support (2S)", "c) 15+ bal (2NT)"]
 
 [pass.1S.pass.1NT]
 meaning = "11-13 balanced"
@@ -455,15 +449,14 @@ meaning = "void strong with spade support"
 rebid = "New suit- cue bid"
 
 [pass.2C]
-meaning = "4+ support"
-notes = ["10-15pts bal (not", "3334 13-15pts)", "or 9+pts unbal", "(NB. wont have a", "5+ D/H/S suit)"]
+meaning = "4+ support 10-15pts bal (not 3334 13-15pts) or 9+pts unbal (NB. wont have a 5+ D/H/S suit)"
 
 [pass.2C.pass.2D]
 meaning = "ANY minimum, 10-14pts (to 2NT/3C)"
 
 [pass.2C.pass.2D.pass.2H]
 meaning = "game interest only"
-rebid = "Bids out shape; (3S-5-5 poor S)"
+rebid = "Bids out shape (3S-5-5 poor S)"
 
 [pass.2C.pass.2D.pass.2NT]
 meaning = "natural, limited"
@@ -557,8 +550,8 @@ rebid = "all continuations (except 4NT) agree clubs"
 meaning = "RKCB"
 
 [pass."2D/2H/2S*"]
-meaning = "weak 3-9pts, 6+"
-notes = ["suit, no fit (<Hxx)", "(*BY PASSED", "HAND SHOWS", "FIT JUMP (invit))"]
+meaning = "weak 3-9pts, 6+ suit, no fit (<Hxx)"
+notes = ["(*BY PASSED HAND SHOWS FIT JUMP (invit))"]
 
 [pass."2D/2H/2S*".pass.2NT]
 meaning = "asks for range/high card feature"
@@ -570,8 +563,8 @@ notes = ["RAISE – obstructive", "NEW SUIT- natural, strong and/or distribution
 rebid = "responder usually passes; responder usually passes"
 
 [pass.2NT]
-meaning = "15+pts balanced"
-notes = ["(denies 4+ support)", "(*BY PASSED", "HAND SHOWS", "SOUND RAISE", "to 3C)"]
+meaning = "15+pts balanced (denies 4+ support)"
+notes = ["(*BY PASSED HAND SHOWS SOUND RAISE to 3C)"]
 
 [pass.2NT.pass.3C]
 meaning = "usually 6+ clubs"
@@ -614,8 +607,7 @@ meaning = "Self splinter, non minimum, 6+ clubs"
 meaning = "17-18pts specifically 3334 (any) shape"
 
 [pass.3C]
-meaning = "obstructive raise"
-notes = ["4+ support, 5-8pts"]
+meaning = "obstructive raise 4+ support, 5-8pts"
 rebid = "NEW SUIT – natural, in principle"
 
 [pass.3C.pass.3NT]
@@ -626,6 +618,5 @@ meaning = "Splinter (limited)"
 rebid = "New suit- cue bid; 3NT- to play if max; 4C- min"
 
 [pass.3NT]
-meaning = "Specifically 3334"
-notes = ["13-15pts"]
+meaning = "Specifically 3334 13-15pts"
 rebid = "opener continues naturally"

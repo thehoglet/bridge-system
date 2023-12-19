@@ -1,26 +1,26 @@
 ﻿2D*,2H,Pass- weak 2 in hearts,,
-either,to play if weak,-,,
-a) 4-9pts weak 2 in H,,2S- any 4441 with 4 spades 18-20pts,2NT- asking for exact shape (suit below singleton),3C- 4414; 3D- 4144
-b) 22-24pts balanced,,,,3H- 4441 (appendix 4)
-c) 18+pts any 4441,,,3C/3D/3H- 5 card suit,Natural
+either a) 4-9pts weak 2 in H b) 22-24pts balanced c) 18+pts any 4441,to play if weak,,,
+,,2S- any 4441 with 4 spades 18-20pts,2NT- asking for exact shape (suit below singleton),3C- 4414; 3D- 4144
+,,,,3H- 4441 (appendix 4)
+,,,3C/3D/3H- 5 card suit,Natural
 ,,,"3S – natural, invitational",
-(* IN 4th POSITION,,,3NT- to play,
-only shows 18+pts,,,,
-Any 4441),,,,
+(* IN 4th POSITION only shows 18+pts Any 4441),,,3NT- to play,
+,,,,
+,,,,
 ,,,,
 ,,,,
 ,,,,
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 2D*,2H,2NT- 22-24pts balanced,3C- major suit enquiry,See 2NT (4th position)
-either,to play if weak,,3D/3H- transfers to H/S (game forcing),See 2NT (4th position)
-a) 4-9pts weak 2 in H,,,"3S- minor suit, interest",See 2NT (4th position)
-b) 22-24pts balanced,,,3NT- to play,
-c) 18+pts any 4441,,,4C- 5-5 majors,See 2NT (4th position)
+either a) 4-9pts weak 2 in H b) 22-24pts balanced c) 18+pts any 4441,to play if weak,,3D/3H- transfers to H/S (game forcing),See 2NT (4th position)
+,,,"3S- minor suit, interest",See 2NT (4th position)
+,,,3NT- to play,
+,,,4C- 5-5 majors,See 2NT (4th position)
 ,,,4D/4H- transfers to H/S,See 2NT (4th position)
-(* IN 4th POSITION,,,4S- 6-5 in minors,See 2NT (4th position)
-only shows 18+pts,,,4NT- invitational,
-Any 4441),,,,
+(* IN 4th POSITION only shows 18+pts Any 4441),,,4S- 6-5 in minors,See 2NT (4th position)
+,,,4NT- invitational,
+,,,,
 ,,,,
 ,,"3C- exactly 1444 (singleton S), 18-20pts",(pass)3D/3H/3NT- to play,
 ,,,3S- control ask,Appendix 4
@@ -50,10 +50,10 @@ in the unlikely event opener has one of the stronger hands he makes a forcing bi
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 2D,3C,3H- minimum weak 2 with no support,,
-either,Natural 6+ suit,,,
-a) 4-9pts weak 2 in H,,4C/5C- min/max weak 2 with support (Hx/xxx),,
-b) 22-24pts balanced,,,,
-c) 18+pts any 4441,,3NT- weak 2 with tolerance (xx),,
+either a) 4-9pts weak 2 in H b) 22-24pts balanced c) 18+pts any 4441,Natural 6+ suit,,,
+,,4C/5C- min/max weak 2 with support (Hx/xxx),,
+,,,,
+,,3NT- weak 2 with tolerance (xx),,
 ,,,,
 ,,"3D/3S- feature, max weak 2 with no support",,
 ,,,,
@@ -87,15 +87,18 @@ in the unlikely event opener has one of the stronger hands he makes a forcing bi
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 2D,2NT,3C/3D/3S- maximum weak 2 with feature,cue bids,
-either,relay,,,
-a) 4-9pts weak 2 in H,at least invitational,3H- minimum,cue bids,
-b) 22-24pts balanced,values opposite,,,
-c) 18+pts any 4441,weak two,3NT- max weak 2 with a very good suit,cue bids,
+either a) 4-9pts weak 2 in H b) 22-24pts balanced c) 18+pts any 4441,relay,,,
+,at least invitational values opposite weak two,3H- minimum,cue bids,
+,,,,
+,,3NT- max weak 2 with a very good suit,cue bids,
 ,,,,
 ,,4C/4D/4H/4S- 4441 18+pts singleton in suit above,Bid in the Singleton suit- control ask,Appendix 4
 ,,,,
 ,,4NT- 22-24pts balanced,,
 ,,,,
 ,,,,
-2D,3H/3S/4C/4D/4H,all these responses show heart support (3H=3; others=4+) and are intended to be obstructive opposite a weak 2H,,
-,,but they must be prepared in case opener has a stronger type (shown naturally),,
+2D,3H/3S/4C/4D/4H,all these responses show heart support (3H=3; others=4+) and are intended to be obstructive opposite a weak 2H but they must be prepared in case opener has a stronger type (shown naturally)    ,,
+,,,,
+,,,,
+,,,,
+,,,,

@@ -1,6 +1,6 @@
 open = "3C"
 meaning = "Pre-empt"
-notes = ["(strength/length", "dependant on vuln", "and position)"]
+notes = ["(strength/length dependant on vuln and position)"]
 
 [pass."3D/3H/3S"]
 meaning = "natural 5+suit"

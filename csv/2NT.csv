@@ -1,23 +1,23 @@
 ﻿2NT*,3C/3D,Opener always passes,,
-Minor 2 suiter,weak preference,,,
-"(5-5+), 8-13pts",,,,
+"Minor 2 suiter (5-5+), 8-13pts",weak preference,,,
 ,,,,
-,3H,3S- short spades; 1255/0265/0256,3NT/5C/5D- to play,
-* IN 4th POSITION,Usually a shape,                           (0355 only if non max),4C/4D- RKCB (minor bid),Appendix 4
-shows 22-24pts,enquiry but may,,"4H- natural, good suit strong",cue bid
-balanced,be strong with,,4S- asks for minor suit quality,4NT- both < OR >
-,good hearts (6+),,,KQ xxx (bids on if >)
-,,,,5C/5D- other suit
-,,,,>KQ xxx (this suit <)
+,,,,
+,3H,3S- short spades; 1255/0265/0256 (0355 only if non max),3NT/5C/5D- to play,
+* IN 4th POSITION shows 22-24pts balanced,Usually a shape enquiry but may be strong with good hearts (6+),,4C/4D- RKCB (minor bid),Appendix 4
+,,,"4H- natural, good suit strong",cue bid
+,,,4S- asks for minor suit quality,4NT- both < OR > KQ xxx (bids on if >)
+,,,,
+,,,,5C/5D- other suit >KQ xxx (this suit <)
+,,,,
 ,,,4NT- RKCB for HEARTS,Appendix 4
 ,,,,
 ,,,,
-,,3NT- short hearts; 2155/2056/2065,4H/5C/5D- to play,
-,,                           (3055 only if non max),4C/4D- RKCB (minor bid),Appendix 4
-,,,4S- asks for minor suit quality,4NT- both < OR >
-,,,,KQ xxx (bids on if >)
-,,,,5C/5D- other suit
-,,,,>KQ xxx (this suit <)
+,,3NT- short hearts; 2155/2056/2065 (3055 only if non max),4H/5C/5D- to play,
+,,,4C/4D- RKCB (minor bid),Appendix 4
+,,,4S- asks for minor suit quality,4NT- both < OR > KQ xxx (bids on if >)
+,,,,
+,,,,5C/5D- other suit >KQ xxx (this suit <)
+,,,,
 ,,,4NT- RKCB for HEARTS,Appendix 4
 ,,,,
 ,,,,
@@ -28,17 +28,17 @@ balanced,be strong with,,4S- asks for minor suit quality,4NT- both < OR >
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 2NT*,3H,4C/4D- 6 card suit (either 1165 or 1156),4H/5C/5D- to play,
-Minor 2 suiter,Usually a shape,,4NT- RCKB (for Hearts in principle),Appendix 4
-"(5-5+), 8-13pts",enquiry but may,,4S- asks for minor suit quality,4NT- both < OR >
-,be strong with,,,KQ xxx (bids on if >)
-,good hearts (6+),,,5C/5D- other suit
-* IN 4th POSITION,,,,>KQ xxx (this suit <)
-shows 22-24pts,,,,
-balanced,,,,
-,,4H/4S- void 3055/0355 max,4S (if available) - asks for minor suit quality,4NT- both < OR >
-,,,,KQ xxx (bids on if >)
-,,,,5C/5D- other suit
-,,,,>KQ xxx (this suit <)
+"Minor 2 suiter (5-5+), 8-13pts",Usually a shape enquiry but may be strong with good hearts (6+),,4NT- RCKB (for Hearts in principle),Appendix 4
+,,,4S- asks for minor suit quality,4NT- both < OR > KQ xxx (bids on if >)
+,,,,
+,,,,5C/5D- other suit >KQ xxx (this suit <)
+* IN 4th POSITION shows 22-24pts balanced,,,,
+,,,,
+,,,,
+,,4H/4S- void 3055/0355 max,4S (if available) - asks for minor suit quality,4NT- both < OR > KQ xxx (bids on if >)
+,,,,
+,,,,5C/5D- other suit >KQ xxx (this suit <)
+,,,,
 ,,,4NT- RCKB (for Hearts in principle),Appendix 4
 ,,,5C/5D- to play,
 ,,,,
@@ -47,9 +47,9 @@ balanced,,,,
 ,,,,
 ,,,,
 2NT*,3S,3NT- BOTH suits <KQ xxx,4C/4D- RKCB (minor bid),Appendix 4
-,usually a suit ask,,"4S- good suit, slam interest",cue bid
-,but may be strong,,5C/5D- to play,
-,With 6+ spades,,4H- shape enquiry,4S/4NT(H)- shortage
+,usually a suit ask but may be strong With 6+ spades,,"4S- good suit, slam interest",cue bid
+,,,5C/5D- to play,
+,,,4H- shape enquiry,4S/4NT(H)- shortage
 ,,,4NT- RCKB (SPADES),Appendix 4
 ,,,,
 ,,,,
@@ -65,8 +65,8 @@ balanced,,,,
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 2NT*,3S,"4H/4S- both minors >KQxxx, shortage bi","4S (if available)- good suit, slam interest",cue bid
-Minor 2 suiter,,,4NT- RKCB (for spades in principle),Appendix 4
-"(5-5+), 8-13pts",,,5C/5D- to play,
+"Minor 2 suiter (5-5+), 8-13pts",,,4NT- RKCB (for spades in principle),Appendix 4
+,,,5C/5D- to play,
 ,,,,
 ,,,,
 ,3NT/4H/4S,,,

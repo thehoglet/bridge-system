@@ -1,6 +1,6 @@
 open = "2D"
-meaning = "either"
-notes = ["a) 4-9pts weak 2 in H", "b) 22-24pts balanced", "c) 18+pts any 4441", "(* IN 4th POSITION", "only shows 18+pts", "Any 4441)"]
+meaning = "either a) 4-9pts weak 2 in H b) 22-24pts balanced c) 18+pts any 4441"
+notes = ["(* IN 4th POSITION only shows 18+pts Any 4441)"]
 
 [pass.2H]
 meaning = "to play if weak"
@@ -72,11 +72,10 @@ rebid = "Bid in the Singleton suit- control ask"
 
 [pass.2H.pass.Pass]
 meaning = "weak 2 in hearts"
-notes = ["-"]
 
 [pass.2NT]
 meaning = "relay"
-notes = ["at least invitational", "values opposite", "weak two"]
+notes = ["at least invitational values opposite weak two"]
 
 [pass.2NT.pass."3C/3D/3S"]
 meaning = "maximum weak 2 with feature"
@@ -181,4 +180,4 @@ meaning = "Splinter with 3 card support"
 rebid = "cue bids"
 
 [pass."3H/3S/4C/4D/4H"]
-meaning = "all these responses show heart support (3H=3; others=4+) and are intended to be obstructive opposite a weak 2H; but they must be prepared in case opener has a stronger type (shown naturally)"
+meaning = "all these responses show heart support (3H=3; others=4+) and are intended to be obstructive opposite a weak 2H but they must be prepared in case opener has a stronger type (shown naturally)"

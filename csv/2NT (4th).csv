@@ -1,6 +1,6 @@
 ﻿2NT,3C,3D- at least one 4 card major,3H- 4 spades,3S- agrees suit (max)
-22-24pts balanced,major suit enquiry,,(if opener bids 3NT responder can bid 4C/4D,4C/4D- cue bid (min)
-,,,to suggest a 5+ card suit),3NT- 4H (not 4S)
+22-24pts balanced,major suit enquiry,,(if opener bids 3NT responder can bid 4C/4D to suggest a 5+ card suit),4C/4D- cue bid (min)
+,,,,3NT- 4H (not 4S)
 ,,,3S- 4 hearts,3NT- 4S (not 4H)
 ,,,(over 3NT; 4C/4D – suggest a 5 card suit),4C/4D- cue bid
 ,,,3NT- to play,
@@ -52,9 +52,9 @@ OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 22-24pts balanced,to play,,,
 ,,,,
 ,4C,4D- no preference,4H/4S- natural (choice),
-,Major 2 suiter (5-5),,4NT- RCKB,Appendix 4
-,game values only,,,
-,or slam going,4H/4S- preference,4NT- RCKB,Appendix 4
+,Major 2 suiter (5-5) game values only or slam going,,4NT- RCKB,Appendix 4
+,,,,
+,,4H/4S- preference,4NT- RCKB,Appendix 4
 ,,,,
 ,4D,4H- openers only bid,New Suit – Exclusion Blackwood,Appendix 4
 ,transfer to 4H,,4NT- RKCB,Appendix 4
@@ -65,7 +65,7 @@ OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,(bids on if slam going),,,
 ,,,,
 ,4S,4NT- no preference,5C/5D- natural (choice),
-,both minors (6-5),,,
-,game values only,5C/5D- preference,,
+,both minors (6-5) game values only,,,
+,,5C/5D- preference,,
 ,,,,
 ,4NT- invitational,,,

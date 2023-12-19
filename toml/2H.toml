@@ -1,14 +1,13 @@
 open = "2H"
-meaning = "Both majors (4-4+)"
-notes = ["4-10pts", "(if 4-4 7-10pts;", "If 5-4/4-5 5-10pts", "If 5-5 4-9pts)", "(will not be 4432)", "(* IN 4th POSITION", "Shows 6 hearts", "8-12pts)"]
+meaning = "Both majors (4-4+) 4-10pts"
+notes = ["(if 4-4 7-10pts; If 5-4/4-5 5-10pts If 5-5 4-9pts)", "(will not be 4432)", "(* IN 4th POSITION Shows 6 hearts 8-12pts)"]
 fourth = "4TH POSITION: 2H shows 6 hearts 8-12pts – for sequences see 2S opening"
 
 [pass.2NT]
 meaning = "shape asking"
 
 [pass.2NT.pass.3C]
-meaning = "either 4-4 in majors (4441/4414/4450/4405)"
-notes = ["7-10pts or minimum, 4-6pts 5-5 in majors"]
+meaning = "either 4-4 in majors (4441/4414/4450/4405) 7-10pts or minimum, 4-6pts 5-5 in majors"
 
 [pass.2NT.pass.3C.pass.3D]
 meaning = "asking for minor (assuming 4-4)"

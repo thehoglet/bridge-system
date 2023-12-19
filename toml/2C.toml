@@ -1,14 +1,11 @@
 open = "2C"
-meaning = "either Game Forcing"
-notes = ["or 19-21pts balanced"]
+meaning = "either Game Forcing or 19-21pts balanced"
 
 [pass.2D]
-meaning = "all hands without"
-notes = ["a weak or strong", "one suiter"]
+meaning = "all hands without a weak or strong one suiter"
 
 [pass.2D.pass.2H]
-meaning = "KOKISH either GF with 5+ hearts"
-notes = ["or 25-28pts balanced"]
+meaning = "KOKISH either GF with 5+ hearts or 25-28pts balanced"
 
 [pass.2D.pass.2H.pass.2NT]
 meaning = "good* club one suiter"
@@ -22,16 +19,14 @@ meaning = "bal with <3C"
 notes = ["New suit/3H- nat"]
 
 [pass.2D.pass.2H.pass.2S]
-meaning = "most hands without a good one suiter or"
-notes = ["5-5 major + a minor"]
+meaning = "most hands without a good one suiter or 5-5 major + a minor"
 
 [pass.2D.pass.2H.pass.2S.pass.2NT]
 meaning = "25-28pts bal"
 notes = ["See 2NT (4th position)"]
 
 [pass.2D.pass.2H.pass.2S.pass."3C/3D/3S"]
-meaning = "natural"
-notes = ["With 5+ hearts"]
+meaning = "natural With 5+ hearts"
 
 [pass.2D.pass.2H.pass.2S.pass.3H]
 meaning = "6+ hearts"
@@ -169,8 +164,7 @@ meaning = "based on long minor and values"
 rebid = "Natural"
 
 [pass."2H/2S"]
-meaning = "weak, 0-4pts"
-notes = ["5 card suit"]
+meaning = "weak, 0-4pts 5 card suit"
 
 [pass."2H/2S".pass.2NT]
 meaning = "25-28pts balanced"
@@ -185,8 +179,7 @@ notes = ["Rebid- 6 card suit, not minimum", "effectively as after 2C-2D-2S/3C/3D
 meaning = "19-21 bal without 4 card support"
 
 [pass.2NT]
-meaning = "weak 0-4pts with"
-notes = ["6+ clubs"]
+meaning = "weak 0-4pts with 6+ clubs"
 
 [pass.2NT.pass.3C]
 meaning = "19-21pts balanced"
@@ -198,8 +191,7 @@ meaning = "25-28pts balanced"
 rebid = "natural"
 
 [pass.3C]
-meaning = "weak 0-4pts with"
-notes = ["6+ diamonds"]
+meaning = "weak 0-4pts with 6+ diamonds"
 rebid = "same sequences as after 2C-2NT"
 
 [pass.3C.pass.3D]
@@ -212,8 +204,8 @@ meaning = "25-28pts balanced"
 rebid = "natural"
 
 [pass.3D]
-meaning = "“solid” 6+ card H"
-notes = ["suit", "(* solid= suit will", "50+% produce 6", "tricks opposite xx)"]
+meaning = "“solid” 6+ card H suit"
+notes = ["(* solid= suit will 50+% produce 6 tricks opposite xx)"]
 
 [pass.3D.pass.3H]
 meaning = "agrees suit, asking for shortage"
@@ -228,8 +220,7 @@ notes = ["natural"]
 meaning = "to play"
 
 [pass.3H]
-meaning = "“solid” 6+ card S"
-notes = ["suit"]
+meaning = "“solid” 6+ card S suit"
 rebid = "same sequences as after 2C-3D;"
 
 [pass.3H.pass.3NT]
@@ -242,8 +233,7 @@ meaning = "agrees suit, asking for shortage"
 rebid = "New suit- shortage; 3NT- 6322/7222"
 
 [pass.3NT]
-meaning = "“solid” 6+ card D"
-notes = ["suit"]
+meaning = "“solid” 6+ card D suit"
 rebid = "same sequences as after 2C-3D;"
 
 [pass.3NT.pass.4D]
@@ -252,8 +242,7 @@ notes = ["New suit- natural, 5+ card suit, game forcing"]
 rebid = "New suit- shortage; 4NT- 6322/7222; natural"
 
 [pass.3S]
-meaning = "“solid” 6+ card C"
-notes = ["suit"]
+meaning = "“solid” 6+ card C suit"
 rebid = "same sequences as after 2C-3D;"
 
 [pass.3S.pass.3NT]

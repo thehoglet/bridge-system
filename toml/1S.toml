@@ -1,15 +1,13 @@
 open = "1S"
-meaning = "Natural 4+"
-notes = ["10-21pts"]
+meaning = "Natural 4+ 10-21pts"
 
 [pass.1NT]
 meaning = "5-12pts"
-notes = ["shouldn’t have:", "a) 3+ card support", "unless balanced"]
+notes = ["shouldn’t have: a) 3+ card support unless balanced"]
 rebid = "Most sequences are identical those following 1H-1NT:"
 
 [pass.1NT.pass.2C]
-meaning = "5+S and 4+C 10-15pts"
-notes = ["or hands with 5+S and 4+C/D/H 16+pts", "or very strong spade one suiter"]
+meaning = "5+S and 4+C 10-15pts or hands with 5+S and 4+C/D/H 16+pts or very strong spade one suiter"
 
 [pass.1NT.pass.2C.pass.2D]
 meaning = "ALL 9+pts hands (except 3 card support)"
@@ -66,56 +64,9 @@ notes = ["Sequences which are (slightly) different:"]
 rebid = "Natural"
 
 [pass.2C]
-meaning = "Two way; either"
-notes = ["Natural 4+ suit", "Game Forcing", "or", "unbal (sing/void)", "invitational", "3 card raise", "(* By PASSED", "HAND is natural", "9+pts, invitational)"]
-rebid = "Generally sequences are similar to those following 1H-2C:"
-
-[pass.2C.pass.2D]
-meaning = "either no immediate game interest opposite"
-notes = ["3 card raise (often only 4 card suit; denies 4H)", "or very strong single suiter or bal 17-18 bal"]
-
-[pass.2C.pass.2D.pass.2H]
-meaning = "natural, 5+C-4H"
-rebid = "Natural"
-
-[pass.2C.pass.2D.pass.2NT]
-meaning = "natural (in principle), non minimum"
-rebid = "Appendix 1"
-
-[pass.2C.pass.2D.pass.2S]
-meaning = "unbalanced invitational 3 card raise"
-notes = ["ALL OTHER BIDS SHOW GAME FORCE WITH CLUBS"]
-rebid = "2NT- 17-18 bal;"
-
-[pass.2C.pass.2D.pass.2S.pass."3C/D/H/S"]
-meaning = "game try"
-
-[pass.2C.pass.2D.pass.2S.pass."3NT/4C/D/H"]
-meaning = "slam try"
-
-[pass.2C.pass.2D.pass.3C]
-meaning = "good suit, invites support on Hx"
-rebid = "Natural"
-
-[pass.2C.pass.2D.pass.3D]
-meaning = "natural 5+C-4+D, non minimum"
-rebid = "Natural"
-
-[pass.2C.pass.2D.pass."3H/4D"]
-meaning = "Splinter, 4 card support and a good C suit"
-rebid = "cue bids"
-
-[pass.2C.pass.2D.pass.3NT]
-meaning = "natural, minimum"
-rebid = "Appendix 1"
-
-[pass.2C.pass.2D.pass.3S]
-meaning = "3+ card support, slam try"
-rebid = "cue bids"
-
-[pass.2C.pass.2D.pass.4C]
-meaning = "4 card support and 6+ very good clubs"
-rebid = "cue bids"
+meaning = "Two way; either Natural 4+ suit Game Forcing  or unbal (sing/void) invitational 3 card raise"
+notes = ["(* By PASSED HAND is natural 9+pts, invitational)"]
+rebid = "Generally sequences are similar to those following 1H-2C:; 2D- either no immediate game interest opposite 3 card raise (often only 4 card suit; denies 4H) or very strong single suiter or bal 17-18 bal"
 
 [pass.2C.pass.2H]
 meaning = "natural 5S and 4H (may be minimum)"
@@ -195,6 +146,7 @@ notes = ["ALL OTHER BIDS SHOW GAME FORCE WITH CLUBS"]
 
 [pass.2C.pass.2S]
 meaning = "5+ spades GF but limited"
+notes = ["2D- either no immediate game interest opposite 3 card raise (often only 4 card suit; denies 4H) or very strong single suiter or bal 17-18 bal"]
 
 [pass.2C.pass.2S.pass.2NT]
 meaning = "natural (in principle), non minimum"
@@ -279,8 +231,8 @@ meaning = "likely limited 3 card raise"
 notes = ["New Suit – cue bid"]
 
 [pass.2D]
-meaning = "Natural 4+ suit"
-notes = ["Game Forcing", "(* By PASSED", "HAND is natural", "9+pts, invitational)"]
+meaning = "Natural 4+ suit Game Forcing"
+notes = ["(* By PASSED HAND is natural 9+pts, invitational)"]
 rebid = "Virtually all sequences as after 1H-2D:"
 
 [pass.2D.pass.2H]
@@ -319,8 +271,7 @@ meaning = "very good suit with 4 card H support"
 rebid = "cue bid"
 
 [pass.2D.pass.2NT]
-meaning = "11-13 or 17-18pts balanced"
-notes = ["(with only 4 spades)"]
+meaning = "11-13 or 17-18pts balanced (with only 4 spades)"
 
 [pass.2D.pass.2NT.pass.3C]
 meaning = "checkback (may have 4C)"
@@ -447,12 +398,11 @@ meaning = "very good suit"
 rebid = "cue bid"
 
 [pass.2H]
-meaning = "Natural 5+ suit"
-notes = ["Game Forcing", "(* By PASSED", "HAND is natural", "9+pts, invitational)"]
+meaning = "Natural 5+ suit Game Forcing"
+notes = ["(* By PASSED HAND is natural 9+pts, invitational)"]
 
 [pass.2H.pass.2NT]
-meaning = "11-13 or 17-18pts balanced"
-notes = ["(with only 4 spades)"]
+meaning = "11-13 or 17-18pts balanced (with only 4 spades)"
 
 [pass.2H.pass.2NT.pass.3C]
 meaning = "checkback (may have 4C)"
@@ -474,8 +424,7 @@ meaning = "promises 4 card support and good H"
 rebid = "Natural (cue bid)"
 
 [pass.2H.pass.2S]
-meaning = "5+ spades (effectively denies 3+ hearts)"
-notes = ["(may be 5332)"]
+meaning = "5+ spades (effectively denies 3+ hearts) (may be 5332)"
 
 [pass.2H.pass.2S.pass.2NT]
 meaning = "natural (in principle), non minimum"
@@ -544,17 +493,14 @@ meaning = "minimum with 3 card H support (may be 5422)"
 rebid = "New Suit – cue bid"
 
 [pass.2NT]
-meaning = "4+ support"
-notes = ["sound raise to 3+"]
+meaning = "4+ support sound raise to 3+"
 rebid = "All sequences are similar to those following 1H-2NT:"
 
 [pass.2NT.pass.3C]
-meaning = "non minimum (a hand which would make a"
-notes = ["Slam try opposite a raise to 3)"]
+meaning = "non minimum (a hand which would make a Slam try opposite a raise to 3)"
 
 [pass.2NT.pass.3C.pass.3D]
-meaning = "asking about hand type"
-notes = ["(likely to be 12+ with no shortage)"]
+meaning = "asking about hand type (likely to be 12+ with no shortage)"
 
 [pass.2NT.pass.3C.pass.3D.pass.3H]
 meaning = "any shortage (3S asks)"
@@ -629,17 +575,14 @@ notes = ["New Suit – cue bid"]
 rebid = "passes or corrects; cue bids"
 
 [pass.2NT.pass."4C/4D/4H"]
-meaning = "concentrated 5-5"
-notes = ["(no control in other suits)"]
+meaning = "concentrated 5-5 (no control in other suits)"
 rebid = "New Suit – cue bid"
 
 [pass.2NT.pass.4S]
-meaning = "minimum with good 6 card S suit,"
-notes = ["(probably no shortage)"]
+meaning = "minimum with good 6 card S suit, (probably no shortage)"
 
 [pass.2S]
-meaning = "Constructive Raise*"
-notes = ["but limited (5-10pts)", "4+ card support 5-8pts", "3 card support 7-10pts", "nb. 4+ card support", "9+pts via 2NT/splinter", "3 card support 5-6pts or", "11-12pts via 1NT/2C"]
+meaning = "Constructive Raise* but limited (5-10pts) 4+ card support 5-8pts 3 card support 7-10pts nb. 4+ card support 9+pts via 2NT/splinter 3 card support 5-6pts or 11-12pts via 1NT/2C"
 
 [pass.2S.pass.2NT]
 meaning = "likely 17-18 balanced"
@@ -665,8 +608,8 @@ meaning = "self splinter, strong with good suit"
 rebid = "cue bids"
 
 [pass.3C]
-meaning = "6+ clubs, invit"
-notes = ["9-12pts,", "no fit (<Hxx)", "*(FIT-JUMP by", "passed hand", "Promising 4+ sup)"]
+meaning = "6+ clubs, invit 9-12pts, no fit (<Hxx)"
+notes = ["*(FIT-JUMP by passed hand Promising 4+ sup)"]
 
 [pass.3C.pass.3NT]
 meaning = "to play"
@@ -681,8 +624,8 @@ meaning = "agrees clubs"
 rebid = "cue bids"
 
 [pass.3D]
-meaning = "6+ diamonds, invit"
-notes = ["9-12pts,", "no fit (<Hxx)", "*(FIT-JUMP by", "passed hand", "Promising 4+ sup)"]
+meaning = "6+ diamonds, invit 9-12pts, no fit (<Hxx)"
+notes = ["*(FIT-JUMP by passed hand Promising 4+ sup)"]
 rebid = "Sequences identical to those after 1S-3C:"
 
 [pass.3D.pass.3NT]
@@ -698,8 +641,8 @@ meaning = "agrees diamonds"
 rebid = "cue bids"
 
 [pass.3H]
-meaning = "6+ hearts, invit"
-notes = ["9-12pts,", "no fit (<Hxx)", "*(FIT-JUMP by", "passed hand", "Promising 4+ sup)"]
+meaning = "6+ hearts, invit 9-12pts, no fit (<Hxx)"
+notes = ["*(FIT-JUMP by passed hand Promising 4+ sup)"]
 rebid = "Sequences identical to those after 1S-3C:"
 
 [pass.3H.pass."3NT/4H"]
@@ -712,7 +655,7 @@ rebid = "Natural; cue bids"
 
 [pass.3NT]
 meaning = "4+ card"
-notes = ["support 9-13pts", "with ANY void"]
+notes = ["support 9-13pts with ANY void"]
 
 [pass.3NT.pass.4C]
 meaning = "asks for void"
@@ -725,7 +668,7 @@ rebid = "cue bids; cue bids"
 
 [pass.3S]
 meaning = "4+ card"
-notes = ["limit raise (5-8pts)", "(obstructive)"]
+notes = ["limit raise (5-8pts) (obstructive)"]
 rebid = "New suit – cue bid (limited)"
 
 [pass.3S.pass.3NT]
@@ -733,8 +676,7 @@ meaning = "Serious slam try"
 rebid = "cue bids"
 
 [pass."4C/4D/4H"]
-meaning = "4+ card support"
-notes = ["singleton, 9-13pts"]
+meaning = "4+ card support singleton, 9-13pts"
 rebid = "New suit – cue bid"
 
 [pass.4S]

@@ -1,8 +1,8 @@
 open = "3D/3H/3S"
 meaning = "Pre-empt"
-notes = ["(strength/length", "dependant on vuln", "and position)", "ALL responses and sequences are identical to those following a 3C opening; New suit; natural (in principle); may be cue bid if; minor over major; Raises; obstructive raise; Game Bids- to play"]
+notes = ["(strength/length dependant on vuln and position)", "ALL responses and sequences are identical to those following a 3C opening; New suit; natural (in principle); may be cue bid if minor over major; Raises; obstructive raise; Game Bids- to play"]
 
 [pass.4NT]
 meaning = "Blackwood"
-notes = ["New suit", "natural (in principle)", "may be cue bid if", "minor over major", "Raises", "obstructive raise", "Game Bids- to play"]
+notes = ["New suit", "natural (in principle)", "may be cue bid if minor over major", "Raises", "obstructive raise", "Game Bids- to play"]
 rebid = "5C-0; 5D-1 (no other possibilities)"

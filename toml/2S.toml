@@ -1,6 +1,6 @@
 open = "2S"
-meaning = "Weak 2 (4-9pts)"
-notes = ["may be 5 card suit", "(* IN 4th POSITION", "range is 8-12pts)"]
+meaning = "Weak 2 (4-9pts) may be 5 card suit"
+notes = ["(* IN 4th POSITION range is 8-12pts)"]
 
 [pass.2NT]
 meaning = "relay"

@@ -1,23 +1,23 @@
 ﻿OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 1D,1H,ALL further bidding is similar to sequences following 1C-1H:,,
-Natural 4+,Natural 4+ suit,,,
-10-21pts,5+pts,1S- natural,"2C-FSF; 3C- spade raise, D shortage; 2D-weak",Appendix 5
+Natural 4+ 10-21pts,Natural 4+ suit 5+pts,,,
+,,1S- natural,"2C-FSF; 3C- spade raise, D shortage; 2D-weak",Appendix 5
 ,,,"2H- 6+ invit; 3H- 6+, Raises/NT- natural;",
 ,,,,
 ,,1NT – 11-13 balanced,"2C/2D/2NT-checkback; 2H-weak, 2S/3C- nat",Appendix 2
 NB.shouldn’t be,NB.shouldn’t have:,,3D-invit; 3H- good 6+;,
 ,,,,
-a) 4-4 in minors,a) 4 card support,"2C- natural, usually 5-4","2S- FSF; 3S- club support, D shortage",Natural
-if balanced,10+pts unless 5+H,,"2H- 6+ invit; 3H- 6+, Raises/NT- natural;",
-(1C),(2D),,,
-b) 4-4 with major,b) 6+ H suit,"2D- minimum, usually 6+D","2H- 6+ invit; 3H- 6+, Raises/NT/New Suit- natural;",Natural
-unless major poor,3-8pts unless,,,
-(1H or 1S),3+ support,"2H – minimum raise, may be 3 card support",2NT- support check; Game Tries,Natural (game try)
-c) 14-16/19+ bal,(2H),,,
-(1NT/2C/2D),c) 15+ balanced,2S- strong and distributional (6-4+),3C- FSF;2NT-weak hand; Raise-nat; 3H-good 6+,Natural
-d) 5-5 in minors,(2NT),,,
-8-13pts (2NT),,2NT – 17-18pts balanced,3C-checkback; 3H- good 6+; 3D/3S- nat (5-5),Appendix 2
+a) 4-4 in minors if balanced (1C),a) 4 card support 10+pts unless 5+H (2D),"2C- natural, usually 5-4","2S- FSF; 3S- club support, D shortage",Natural
+,,,"2H- 6+ invit; 3H- 6+, Raises/NT- natural;",
+,,,,
+b) 4-4 with major unless major poor (1H or 1S),b) 6+ H suit 3-8pts unless 3+ support (2H),"2D- minimum, usually 6+D","2H- 6+ invit; 3H- 6+, Raises/NT/New Suit- natural;",Natural
+,,,,
+,,"2H – minimum raise, may be 3 card support",2NT- support check; Game Tries,Natural (game try)
+c) 14-16/19+ bal (1NT/2C/2D),,,,
+,c) 15+ balanced (2NT),2S- strong and distributional (6-4+),3C- FSF;2NT-weak hand; Raise-nat; 3H-good 6+,Natural
+d) 5-5 in minors 8-13pts (2NT),,,,
+,,2NT – 17-18pts balanced,3C-checkback; 3H- good 6+; 3D/3S- nat (5-5),Appendix 2
 ,,,,
 ,,3C- strong and distributional (5-5+),3S-FSF; Raise- Natural; 3H- good 6+,Natural
 ,,,,
@@ -38,8 +38,8 @@ d) 5-5 in minors,(2NT),,,
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 1D,1S,ALL further bidding is similar to sequences following 1D-1H::,,
-Natural 4+,Natural 4+ suit,1NT – 11-13 balanced,2C/2D/2NT-checkback; 2H/2S- weak; 3D- invit,Appendix 2
-10-21pts,5+pts,,3C/3H- good 5-5; 3S- good 6+,
+Natural 4+ 10-21pts,Natural 4+ suit 5+pts,1NT – 11-13 balanced,2C/2D/2NT-checkback; 2H/2S- weak; 3D- invit,Appendix 2
+,,,3C/3H- good 5-5; 3S- good 6+,
 ,,,,
 ,,"2C – 5+ clubs, limited",2H FSF; 3H- club support with D shortage,Appendix 5
 ,,,2S- 6+ invit; Raises/NT- natural; 3S-6+; 2D-weak,
@@ -63,21 +63,21 @@ Natural 4+,Natural 4+ suit,1NT – 11-13 balanced,2C/2D/2NT-checkback; 2H/2S- we
 ,,"4C/4H- Splinter/void, strong with good support",New suit- cue bid,Natural (cue bid
 ,,4D- very good suit with support,New suit- cue bid,Natural (cue bid
 ,,,,
-1D,1NT,2C- either; D+C limited or very strong;,2D – 5-8pts (all unless 6 clubs),Appendix 6
-Natural 4+,5-12pts,      or very strong D single suiter,2H/2S/2NT – 9-12pts with 2/3 diamonds,Appendix 6
-10-21pts, 7+ cards in minors,      or 14-17pts 5D plus a 4 card major,                   (4/5 clubs) values in major(s),
-,NB.shouldn’t have:,      or 11-17pts 1444/4144,3C- 5-8pts 6 clubs,Appendix 6
-,a) 4 card major,,3D – 9-11 4 card support (balanced),Appendix 6
-,1H or 1S,,,
-,b) 4 card support,2NT – 17-18pts balanced,"3C – weak 6 card suit, 5-8pts",Natural
-,10+pts,,"3D- 5-7pts, 3+ card support",Natural
+1D,1NT,2C- either; D+C limited or very strong; or very strong D single suiter or 14-17pts 5D plus a 4 card major or 11-17pts 1444/4144,2D – 5-8pts (all unless 6 clubs),Appendix 6
+Natural 4+ 10-21pts,5-12pts 7+ cards in minors,,2H/2S/2NT – 9-12pts with 2/3 diamonds (4/5 clubs) values in major(s),Appendix 6
+,,,,
+,NB.shouldn’t have:,,3C- 5-8pts 6 clubs,Appendix 6
+,a) 4 card major 1H or 1S,,3D – 9-11 4 card support (balanced),Appendix 6
+,,,,
+,b) 4 card support 10+pts,2NT – 17-18pts balanced,"3C – weak 6 card suit, 5-8pts",Natural
+,,,"3D- 5-7pts, 3+ card support",Natural
 ,,,,
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 1D,1NT,"2H/2S- REVERSE, 17+pts natural (5-4)","2NT- Forces 3C (weak C, weak D raise or no stop)",Appendix 3
-Natural 4+,5-12pts,,"3D- 5-7pts, 3+ card support",Natural
-10-21pts,will have 7+ cards,,"3C – 6+ clubs, 5-8pts",Natural
-,in minors,,"3NT- natural, 8-12pts",Natural
+Natural 4+ 10-21pts,5-12pts will have 7+ cards in minors,,"3D- 5-7pts, 3+ card support",Natural
+,,,"3C – 6+ clubs, 5-8pts",Natural
+,,,"3NT- natural, 8-12pts",Natural
 ,,,NEW SUIT (other major) – “FSF” 8-12pts,Natural
 ,,,,
 ,,"2D- minimum, usually 6+D","2H/2S – 10-12 pts values, 3 card support",Natural
@@ -94,12 +94,12 @@ Natural 4+,5-12pts,,"3D- 5-7pts, 3+ card support",Natural
 ,,,,
 ,,,,
 1D,2C*,2D- usually 5+ suit,2H/2S – natural (5-4),Appendix 1
-Natural 4+,Natural 4+ suit,,"2NT- natural in principle, not minimum",Appendix 1
-10-21pts,Game Forcing,,"3C- good club suit, invites support",Appendix 1
+Natural 4+ 10-21pts,Natural 4+ suit Game Forcing,,"2NT- natural in principle, not minimum",Appendix 1
+,,,"3C- good club suit, invites support",Appendix 1
 ,,,3D- 3+ card support,Appendix 1
-,*By PASSED,,"3H/3S-Splinter, diamond support",Appendix 1
-,HAND natural,,"3NT- natural, minimum",Appendix 1
-,"9+pts, invitational",,,
+,"*By PASSED HAND natural 9+pts, invitational",,"3H/3S-Splinter, diamond support",Appendix 1
+,,,"3NT- natural, minimum",Appendix 1
+,,,,
 ,,"2H- natural (5-4), reversing values",2S- FSF,Appendix 1
 ,,,2NT- natural in principle,Appendix 1
 ,,,"3C- good club suit, invites support",Appendix 1
@@ -111,9 +111,9 @@ Natural 4+,Natural 4+ suit,,"2NT- natural in principle, not minimum",Appendix 1
 ,,,,
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
-1D,2C*,2NT- 11-13 or 17-18pts balanced,3C- checkback,Appendix 2
-Natural 4+,Natural 4+ suit,(with only 4 diamonds),"3D- 4+ card support, non minimum",Appendix 1
-10-21pts,Game Forcing,,"3H/3S- Natural, non minimum",Appendix 1
+1D,2C*,2NT- 11-13 or 17-18pts balanced (with only 4 diamonds),3C- checkback,Appendix 2
+Natural 4+ 10-21pts,Natural 4+ suit Game Forcing,,"3D- 4+ card support, non minimum",Appendix 1
+,,,"3H/3S- Natural, non minimum",Appendix 1
 ,,,"3NT – natural, minimum",Appendix 1
 ,,,,
 ,,"3C- 4 card support, not minimum",Natural,Appendix 1
@@ -125,12 +125,12 @@ Natural 4+,Natural 4+ suit,(with only 4 diamonds),"3D- 4+ card support, non mini
 ,,"3NT- 2254, minimum",Natural,Appendix 1
 ,,,,
 1D,2D,ALL further bidding is similar to sequences following 1C-2C:,,
-Natural 4+,4+ support,,,
-10-21pts,10-15pts bal (not,2H- any minimum,2S-game interest only,Bids out shape
-,3334 13-15pts),,"2NT- natural, non forcing",Natural
-,or 9+pts unbal,,3C- definite slam interest (diamonds),Natural (cue bid)
-,(NB. wont have a,,,3NT-poor 11-13 bal
-,5+ H/S suit),,"3D- natural, non forcing",Natural
+Natural 4+ 10-21pts,4+ support 10-15pts bal (not 3334 13-15pts) or 9+pts unbal (NB. wont have a 5+ H/S suit),,,
+,,2H- any minimum,2S-game interest only,Bids out shape
+,,,"2NT- natural, non forcing",Natural
+,,,3C- definite slam interest (diamonds),Natural (cue bid)
+,,,,3NT-poor 11-13 bal
+,,,"3D- natural, non forcing",Natural
 ,,,3H/3S/4C- Splinter raise (diamonds),Natural (cue bid)
 , ,,3NT – natural,Natural
 ,,,4D- RKCB,Appendix 4
@@ -149,10 +149,10 @@ Natural 4+,4+ support,,,
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 1D,2D,"2NT- shows 4 hearts, non minimum",3C- natural in principle,Natural
-Natural 4+,4+ support,,3D- sets suit,Natural (cue bid)
-10-21pts,10-15pts bal (not,,"3H- confirms fit, good hand",3NT- serious try
-,3334 13-15pts),,"3S/4C- Splinter, limited",Natural (cue bid)
-,or 9+pts unbal,,"3NT- natural, minimum (10-12pts)",Natural
+Natural 4+ 10-21pts,4+ support 10-15pts bal (not 3334 13-15pts) or 9+pts unbal,,3D- sets suit,Natural (cue bid)
+,,,"3H- confirms fit, good hand",3NT- serious try
+,,,"3S/4C- Splinter, limited",Natural (cue bid)
+,,,"3NT- natural, minimum (10-12pts)",Natural
 ,,,4D- RKCB,Appendix 4
 ,,,,
 ,,"3C- natural (5-4), non minimum",3D- sets suit,Natural (cue bid)
@@ -160,8 +160,8 @@ Natural 4+,4+ support,,3D- sets suit,Natural (cue bid)
 ,,,"3NT- natural, minimum (10-12pts)",Natural
 ,,,4C/4D- RKCB,Appendix 4
 ,,,,
-,,"3D- 6 card suit, non minimum",New suit – cue bid,Natural (cue bid)
-,,      (usually no shortage unless clubs),"3NT- natural, minimum",Natural
+,,"3D- 6 card suit, non minimum (usually no shortage unless clubs)",New suit – cue bid,Natural (cue bid)
+,,,"3NT- natural, minimum",Natural
 ,,,4D- RKCB,Appendix 4
 ,,,,
 ,,"3H/3S/4C – self splinter with 6+ suit, non min",New suit- cue bid,Natural (cue bid)
@@ -173,12 +173,12 @@ Natural 4+,4+ support,,3D- sets suit,Natural (cue bid)
 ,,4D- RKCB,,Appendix 4
 ,,,,
 1D,2H/2S*,2NT -asks for features,"NEW SUIT= feature, non minimum",Natural
-Natural 4+,"weak 3-9pts, 6+",,REBID – minimum,Natural
-10-21pts,"suit, no fit (<Hxx)",,3NT- maximum good suit (>Hhxxxx),Natural
+Natural 4+ 10-21pts,"weak 3-9pts, 6+ suit, no fit (<Hxx)",,REBID – minimum,Natural
+,,,3NT- maximum good suit (>Hhxxxx),Natural
 ,,,,
-,(*BY PASSED,"3D- 6+ card suit, no fit",Natural,Natural
-,HAND SHOWS,,,
-,FIT JUMP (invit)),NEW SUIT – strong and distributional,Natural,Natural
+,(*BY PASSED HAND SHOWS FIT JUMP (invit)),"3D- 6+ card suit, no fit",Natural,Natural
+,,,,
+,,NEW SUIT – strong and distributional,Natural,Natural
 ,,,,
 ,,RAISE – obstructive,Natural,Natural
 ,,,,
@@ -186,14 +186,14 @@ Natural 4+,"weak 3-9pts, 6+",,REBID – minimum,Natural
 OPENER,RESPONDER,OPENER REBID,RESPONDER REBID,FURTHER?
 ,,,,
 1D,2NT*,"3C- natural, either 5-4 or 4144/1444",3D- promises 3+D,3H/3S- show 4441
-Natural 4+,15+pts balanced,,3H/3S- natural (denies 3+ D),Natural
-10-21pts,(denies 4+ support),,"3NT – 4423, minimum",Natural
+Natural 4+ 10-21pts,15+pts balanced (denies 4+ support),,3H/3S- natural (denies 3+ D),Natural
+,,,"3NT – 4423, minimum",Natural
 ,,,4C- agrees suit,Natural (cue bid)
 ,,,,
-,(*BY PASSED,"3D- 6 card suit,",3H/3S- natural (denies 3+ D),Natural
-,HAND SHOWS,,"3NT- likely 3334, minimum",Natural (cue bid)
-,SOUND RAISE,,"4C- 3334, non minimum",Natural (cue bid)
-,to 3D),,4D- agrees suit,Natural
+,(*BY PASSED HAND SHOWS SOUND RAISE to 3D),"3D- 6 card suit,",3H/3S- natural (denies 3+ D),Natural
+,,,"3NT- likely 3334, minimum",Natural (cue bid)
+,,,"4C- 3334, non minimum",Natural (cue bid)
+,,,4D- agrees suit,Natural
 ,,,,
 ,,"3H/3S- natural, 5-4",NEW SUIT (3 level)- natural,Natural
 ,,,3NT- minimum,Natural
@@ -210,11 +210,11 @@ Natural 4+,15+pts balanced,,3H/3S- natural (denies 3+ D),Natural
 ,,,,
 ,,,,
 1D,3C*,"3D- 6+D, no club fit",responder usually passes,
-Natural 4+,"6+ clubs, invit",,,
-10-21pts,no fit (<Hxx),3H/3S- values (may be natural),3NT- natural,Natural
-,(*BY PASSED,,"4C- natural, unable to bid 3NT",Natural
-,HAND SHOWS,3NT- to play,,
-,FIT JUMP (invit)),,,
+Natural 4+ 10-21pts,"6+ clubs, invit no fit (<Hxx) (*BY PASSED HAND SHOWS FIT JUMP (invit))",,,
+,,3H/3S- values (may be natural),3NT- natural,Natural
+,,,"4C- natural, unable to bid 3NT",Natural
+,,3NT- to play,,
+,,,,
 ,,4C- agrees clubs (slam interest),,Natural (cue bid)
 ,,,,
 ,,,,

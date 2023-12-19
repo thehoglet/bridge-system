@@ -9,7 +9,7 @@ meaning = "at least one 4 card major"
 
 [pass.3C.pass.3D.pass.3H]
 meaning = "4 spades"
-notes = ["(if opener bids 3NT responder can bid 4C/4D", "to suggest a 5+ card suit)"]
+notes = ["(if opener bids 3NT responder can bid 4C/4D to suggest a 5+ card suit)"]
 
 [pass.3C.pass.3D.pass.3H.pass.3NT]
 meaning = "4H (not 4S)"
@@ -151,8 +151,7 @@ rebid = "OTHER MINOR (max)/4NT(min)- 6+ in other minor"
 meaning = "cue bid (agree bid minor)"
 
 [pass.4C]
-meaning = "Major 2 suiter (5-5)"
-notes = ["game values only", "or slam going"]
+meaning = "Major 2 suiter (5-5) game values only or slam going"
 
 [pass.4C.pass.4D]
 meaning = "no preference"
@@ -199,8 +198,7 @@ rebid = "Appendix 4"
 meaning = "invitational"
 
 [pass.4S]
-meaning = "both minors (6-5)"
-notes = ["game values only"]
+meaning = "both minors (6-5) game values only"
 
 [pass.4S.pass.4NT]
 meaning = "no preference"

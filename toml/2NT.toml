@@ -1,19 +1,18 @@
 open = "2NT"
-meaning = "Minor 2 suiter"
-notes = ["(5-5+), 8-13pts", "* IN 4th POSITION", "shows 22-24pts", "balanced"]
+meaning = "Minor 2 suiter (5-5+), 8-13pts"
+notes = ["* IN 4th POSITION shows 22-24pts balanced"]
 
 [pass."3C/3D"]
 meaning = "weak preference"
 rebid = "Opener always passes"
 
 [pass.3H]
-meaning = "Usually a shape"
-notes = ["enquiry but may", "be strong with", "good hearts (6+)"]
-rebid = "3S- short spades; 1255/0265/0256; (0355 only if non max); 3NT- short hearts; 2155/2056/2065; (3055 only if non max)"
+meaning = "Usually a shape enquiry but may be strong with good hearts (6+)"
+rebid = "3S- short spades; 1255/0265/0256 (0355 only if non max); 3NT- short hearts; 2155/2056/2065 (3055 only if non max)"
 
 [pass.3H.pass."4C/4D"]
 meaning = "6 card suit (either 1165 or 1156)"
-notes = ["(0355 only if non max)", "3NT- short hearts; 2155/2056/2065", "(3055 only if non max)"]
+notes = ["3NT- short hearts; 2155/2056/2065 (3055 only if non max)"]
 
 [pass.3H.pass."4C/4D".pass."4H/5C/5D"]
 meaning = "to play"
@@ -26,12 +25,10 @@ rebid = "Appendix 4"
 meaning = "asks for minor suit quality"
 
 [pass.3H.pass."4C/4D".pass.4S.pass.4NT]
-meaning = "both < OR >"
-notes = ["KQ xxx (bids on if >)"]
+meaning = "both < OR > KQ xxx (bids on if >)"
 
 [pass.3H.pass."4C/4D".pass.4S.pass."5C/5D"]
-meaning = "other suit"
-notes = [">KQ xxx (this suit <)"]
+meaning = "other suit >KQ xxx (this suit <)"
 
 [pass.3H.pass."4H/4S"]
 meaning = "void 3055/0355 max"
@@ -51,8 +48,7 @@ meaning = "0355 max BOTH suits >KQ xxx"
 meaning = "to play"
 
 [pass.3S]
-meaning = "usually a suit ask"
-notes = ["but may be strong", "With 6+ spades"]
+meaning = "usually a suit ask but may be strong With 6+ spades"
 
 [pass.3S.pass.3NT]
 meaning = "BOTH suits <KQ xxx"
