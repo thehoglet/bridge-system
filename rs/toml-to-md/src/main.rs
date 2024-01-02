@@ -53,6 +53,30 @@ fn main() {
     }
 }
 
+fn strings_to_text<T: AsRef<str>>(strings: &[T]) -> String {
+    if strings.is_empty() {
+        return "".into();
+    }
+
+    let text_length = strings.iter().fold(0, |acc, s| acc + s.as_ref().len())
+        + strings.len() * 2;
+    
+    let mut text = String::with_capacity(text_length);
+
+    text.push_str(strings.first().unwrap().as_ref());
+
+    for s in strings.iter().skip(1) {
+        if text.ends_with('.') {
+            text.push_str("<br/><br/>");
+        } else {
+            text.push_str("; ");
+        }
+        text.push_str(s.as_ref());
+    }
+
+    return text;
+}
+
 fn encode_continuation_rec<'a>(
     sequence: &mut Vec<&'a String>,
     bid: &'a String,
@@ -75,7 +99,7 @@ fn encode_continuation_rec<'a>(
 
     if let Some(notes) = maybe_notes {
         writeln!(markdown)?;
-        writeln!(markdown, "{}", notes.join("; "))?;
+        writeln!(markdown, "{}", strings_to_text(notes))?;
     }
 
     if let Some(rebid) = maybe_rebid {
@@ -170,11 +194,11 @@ fn encode_continuations<'a>(
         } else {
             let mut additional: String = "".into();
             if let Some(notes) = &continuation.notes {
-                additional.push_str(&notes.join("; "));
+                additional.push_str(strings_to_text(notes).as_str());
             }
             if let Some(rebid) = &continuation.rebid {
                 if !additional.is_empty() {
-                    additional.push_str("; ");
+                    additional.push_str("<br/><br/>");
                 }
                 additional.push_str(rebid);
             }
@@ -184,7 +208,7 @@ fn encode_continuations<'a>(
             {
                 writeln!(
                     markdown,
-                    "| {} | {}<br/>{} |",
+                    "| {} | {}<br/><br/>{} |",
                     column1, continuation.meaning, additional
                 )?;
             } else {
@@ -213,7 +237,7 @@ fn encode_open(
 
     if let Some(notes) = &open.notes {
         writeln!(markdown)?;
-        writeln!(markdown, "{}", notes.join("; "))?;
+        writeln!(markdown, "{}", strings_to_text(notes))?;
     }
 
     if let Some(fourth) = &open.fourth {
