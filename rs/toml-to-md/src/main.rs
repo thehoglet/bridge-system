@@ -74,7 +74,7 @@ fn strings_to_text<T: AsRef<str>>(strings: &[T]) -> String {
         text.push_str(s.as_ref());
     }
 
-    return text;
+    text
 }
 
 fn encode_continuation_rec<'a>(
