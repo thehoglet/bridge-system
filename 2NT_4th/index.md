@@ -6,12 +6,12 @@
 |---|---|
 | [2NT&nbsp;3C](#2nt3c) | major suit enquiry |
 | [2NT&nbsp;3D](#2nt3d) | transfer to hearts ((game forcing)) |
-| [2NT&nbsp;3H](#2nt3h) | transfer to spades<br/>(game forcing); identical sequences to 2NT-3D; |
+| [2NT&nbsp;3H](#2nt3h) | transfer to spades<br/><br/>(game forcing)<br/><br/>identical sequences to 2NT-3D; |
 | [2NT&nbsp;3S](#2nt3s) | minor suit interest |
-| 2NT&nbsp;3NT | to play<br/>Opener always passes |
+| 2NT&nbsp;3NT | to play<br/><br/>Opener always passes |
 | [2NT&nbsp;4C](#2nt4c) | Major 2 suiter (5-5) game values only or slam going |
-| [2NT&nbsp;4D](#2nt4d) | transfer to 4H<br/>(bids on if slam going) |
-| [2NT&nbsp;4H](#2nt4h) | transfer to 4S<br/>(bids on if slam going) |
+| [2NT&nbsp;4D](#2nt4d) | transfer to 4H<br/><br/>(bids on if slam going) |
+| [2NT&nbsp;4H](#2nt4h) | transfer to 4S<br/><br/>(bids on if slam going) |
 | [2NT&nbsp;4S](#2nt4s) | both minors (6-5) game values only |
 | 2NT&nbsp;4NT | invitational |
 
@@ -23,7 +23,7 @@ major suit enquiry
 |---|---|
 | [2NT&nbsp;3C&nbsp;3D](#2nt3c3d) | at least one 4 card major |
 | [2NT&nbsp;3C&nbsp;3H](#2nt3c3h) | no 4 or 5 card major |
-| 2NT&nbsp;3C&nbsp;3S/3NT(H) | 5 card major<br/>New Suit – cue bid |
+| 2NT&nbsp;3C&nbsp;3S/3NT(H) | 5 card major<br/><br/>New Suit – cue bid |
 
 ## 2NT&nbsp;3C&nbsp;3D
 
@@ -31,11 +31,11 @@ at least one 4 card major
 
 | Rebid | Meaning |
 |---|---|
-| [2NT&nbsp;3C&nbsp;3D&nbsp;3H](#2nt3c3d3h) | 4 spades<br/>(if opener bids 3NT responder can bid 4C/4D to suggest a 5+ card suit) |
-| [2NT&nbsp;3C&nbsp;3D&nbsp;3S](#2nt3c3d3s) | 4 hearts<br/>(over 3NT; 4C/4D – suggest a 5 card suit) |
+| [2NT&nbsp;3C&nbsp;3D&nbsp;3H](#2nt3c3d3h) | 4 spades<br/><br/>(if opener bids 3NT responder can bid 4C/4D to suggest a 5+ card suit) |
+| [2NT&nbsp;3C&nbsp;3D&nbsp;3S](#2nt3c3d3s) | 4 hearts<br/><br/>(over 3NT; 4C/4D – suggest a 5 card suit) |
 | 2NT&nbsp;3C&nbsp;3D&nbsp;3NT | to play |
 | [2NT&nbsp;3C&nbsp;3D&nbsp;4C](#2nt3c3d4c) | minor suit ask |
-| 2NT&nbsp;3C&nbsp;3D&nbsp;4D | both majors<br/>opener chooses |
+| 2NT&nbsp;3C&nbsp;3D&nbsp;4D | both majors<br/><br/>opener chooses |
 
 ## 2NT&nbsp;3C&nbsp;3D&nbsp;3H
 
@@ -77,7 +77,7 @@ no 4 or 5 card major
 |---|---|
 | [2NT&nbsp;3C&nbsp;3H&nbsp;3S](#2nt3c3h3s) | 5S and 4H |
 | 2NT&nbsp;3C&nbsp;3H&nbsp;3NT | to play |
-| 2NT&nbsp;3C&nbsp;3H&nbsp;4C | minor suit ask<br/>4D- 5D; 4H- 5C;; 4S- both; 4NT-4333 |
+| 2NT&nbsp;3C&nbsp;3H&nbsp;4C | minor suit ask<br/><br/>4D- 5D; 4H- 5C;; 4S- both; 4NT-4333 |
 | 2NT&nbsp;3C&nbsp;3H&nbsp;4D | natural (usually 5+ D plus a major) (Natural) |
 | 2NT&nbsp;3C&nbsp;3H&nbsp;4H/4S | 4 card suit with 5+C (Natural) |
 
@@ -99,7 +99,7 @@ transfer to hearts
 |---|---|
 | [2NT&nbsp;3D&nbsp;3H](#2nt3d3h) | <3 card heart support |
 | 2NT&nbsp;3D&nbsp;3S/4C/4D | 4 card support plus control (New Suit – cue bid) |
-| 2NT&nbsp;3D&nbsp;3NT | 3 card support<br/>New Suit – cue bid |
+| 2NT&nbsp;3D&nbsp;3NT | 3 card support<br/><br/>New Suit – cue bid |
 
 ## 2NT&nbsp;3D&nbsp;3H
 
@@ -130,8 +130,8 @@ identical sequences to 2NT-3D;
 
 | Rebid | Meaning |
 |---|---|
-| 2NT&nbsp;3H&nbsp;3S | <3 card spade support<br/>3NT-choice; 4C/4D- natural; 4H(5-5)/4S- slam interest |
-| 2NT&nbsp;3H&nbsp;3NT | 3 card support<br/>New Suit – cue bid |
+| 2NT&nbsp;3H&nbsp;3S | <3 card spade support<br/><br/>3NT-choice; 4C/4D- natural; 4H(5-5)/4S- slam interest |
+| 2NT&nbsp;3H&nbsp;3NT | 3 card support<br/><br/>New Suit – cue bid |
 | 2NT&nbsp;3H&nbsp;4C/4D/4H | 4 card support plus control (New Suit – cue bid) |
 
 ## 2NT&nbsp;3S
@@ -141,7 +141,7 @@ minor suit interest
 | Rebid | Meaning |
 |---|---|
 | [2NT&nbsp;3S&nbsp;3NT](#2nt3s3nt) | normal rebid if lacking a 4 card minor |
-| [2NT&nbsp;3S&nbsp;4C/4D](#2nt3s4c4d) | decent 4 card suit<br/>OTHER MINOR (max)/4NT(min)- 6+ in other minor |
+| [2NT&nbsp;3S&nbsp;4C/4D](#2nt3s4c4d) | decent 4 card suit<br/><br/>OTHER MINOR (max)/4NT(min)- 6+ in other minor |
 
 ## 2NT&nbsp;3S&nbsp;3NT
 
@@ -179,7 +179,7 @@ no preference
 | Rebid | Meaning |
 |---|---|
 | 2NT&nbsp;4C&nbsp;4D&nbsp;4H/4S | natural (choice) |
-| 2NT&nbsp;4C&nbsp;4D&nbsp;4NT | RCKB<br/>Appendix 4 |
+| 2NT&nbsp;4C&nbsp;4D&nbsp;4NT | RCKB<br/><br/>Appendix 4 |
 
 ## 2NT&nbsp;4C&nbsp;4H/4S
 
@@ -187,7 +187,7 @@ preference
 
 | Rebid | Meaning |
 |---|---|
-| 2NT&nbsp;4C&nbsp;4H/4S&nbsp;4NT | RCKB<br/>Appendix 4 |
+| 2NT&nbsp;4C&nbsp;4H/4S&nbsp;4NT | RCKB<br/><br/>Appendix 4 |
 
 ## 2NT&nbsp;4D
 
@@ -197,7 +197,7 @@ transfer to 4H
 
 | Rebid | Meaning |
 |---|---|
-| [2NT&nbsp;4D&nbsp;4H](#2nt4d4h) | openers only bid<br/>New Suit – Exclusion Blackwood |
+| [2NT&nbsp;4D&nbsp;4H](#2nt4d4h) | openers only bid<br/><br/>New Suit – Exclusion Blackwood |
 
 ## 2NT&nbsp;4D&nbsp;4H
 
@@ -207,7 +207,7 @@ New Suit – Exclusion Blackwood
 
 | Rebid | Meaning |
 |---|---|
-| 2NT&nbsp;4D&nbsp;4H&nbsp;4NT | RKCB<br/>Appendix 4 |
+| 2NT&nbsp;4D&nbsp;4H&nbsp;4NT | RKCB<br/><br/>Appendix 4 |
 
 ## 2NT&nbsp;4H
 
@@ -217,7 +217,7 @@ transfer to 4S
 
 | Rebid | Meaning |
 |---|---|
-| [2NT&nbsp;4H&nbsp;4S](#2nt4h4s) | openers only bid<br/>New Suit – Exclusion Blackwood |
+| [2NT&nbsp;4H&nbsp;4S](#2nt4h4s) | openers only bid<br/><br/>New Suit – Exclusion Blackwood |
 
 ## 2NT&nbsp;4H&nbsp;4S
 
@@ -227,7 +227,7 @@ New Suit – Exclusion Blackwood
 
 | Rebid | Meaning |
 |---|---|
-| 2NT&nbsp;4H&nbsp;4S&nbsp;4NT | RKCB<br/>Appendix 4 |
+| 2NT&nbsp;4H&nbsp;4S&nbsp;4NT | RKCB<br/><br/>Appendix 4 |
 
 ## 2NT&nbsp;4S
 

@@ -4,6 +4,6 @@
 
 | Rebid | Meaning |
 |---|---|
-| 4NT&nbsp;5C/5D  | pass/correct<br/>opener passes or 5D (over 5C); cue bids (over 5D) |
+| 4NT&nbsp;5C/5D  | pass/correct<br/><br/>opener passes or 5D (over 5C); cue bids (over 5D) |
 
 [Home](../index.md)

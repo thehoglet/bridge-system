@@ -6,13 +6,13 @@ Minor 2 suiter (5-5+), 8-13pts
 
 | Rebid | Meaning |
 |---|---|
-| 2NT&nbsp;3C/3D | weak preference<br/>Opener always passes |
-| [2NT&nbsp;3H](#2nt3h) | Usually a shape enquiry but may be strong with good hearts (6+)<br/>3S- short spades; 1255/0265/0256 (0355 only if non max); 3NT- short hearts; 2155/2056/2065 (3055 only if non max) |
+| 2NT&nbsp;3C/3D | weak preference<br/><br/>Opener always passes |
+| [2NT&nbsp;3H](#2nt3h) | Usually a shape enquiry but may be strong with good hearts (6+)<br/><br/>3S- short spades; 1255/0265/0256 (0355 only if non max); 3NT- short hearts; 2155/2056/2065 (3055 only if non max) |
 | 2NT&nbsp;3NT/4H/4S | to play |
 | [2NT&nbsp;3S](#2nt3s) | usually a suit ask but may be strong With 6+ spades |
-| 2NT&nbsp;4C/4D | obstructive raise<br/>opener passes (but may compete if distributional) |
-| 2NT&nbsp;4NT | sound game raise<br/>opener bids 5C (responder will pass or correct) |
-| 2NT&nbsp;5C/5D | to play, no defense<br/>opener passes (but may compete if distributional) |
+| 2NT&nbsp;4C/4D | obstructive raise<br/><br/>opener passes (but may compete if distributional) |
+| 2NT&nbsp;4NT | sound game raise<br/><br/>opener bids 5C (responder will pass or correct) |
+| 2NT&nbsp;5C/5D | to play, no defense<br/><br/>opener passes (but may compete if distributional) |
 
 ## 2NT&nbsp;3H
 
@@ -22,8 +22,8 @@ Usually a shape enquiry but may be strong with good hearts (6+)
 
 | Rebid | Meaning |
 |---|---|
-| [2NT&nbsp;3H&nbsp;4C/4D](#2nt3h4c4d) | 6 card suit (either 1165 or 1156)<br/>3NT- short hearts; 2155/2056/2065 (3055 only if non max) |
-| [2NT&nbsp;3H&nbsp;4H/4S](#2nt3h4h4s) | void 3055/0355 max<br/>4S (if available) - asks for minor suit quality |
+| [2NT&nbsp;3H&nbsp;4C/4D](#2nt3h4c4d) | 6 card suit (either 1165 or 1156)<br/><br/>3NT- short hearts; 2155/2056/2065 (3055 only if non max) |
+| [2NT&nbsp;3H&nbsp;4H/4S](#2nt3h4h4s) | void 3055/0355 max<br/><br/>4S (if available) - asks for minor suit quality |
 | 2NT&nbsp;3H&nbsp;4NT | 0355 max BOTH suits >KQ xxx |
 
 ## 2NT&nbsp;3H&nbsp;4C/4D
@@ -64,8 +64,8 @@ usually a suit ask but may be strong With 6+ spades
 
 | Rebid | Meaning |
 |---|---|
-| [2NT&nbsp;3S&nbsp;3NT](#2nt3s3nt) | BOTH suits <KQ xxx<br/>4C/4D- minor bid <KQxxx; other >KQ xxx |
-| [2NT&nbsp;3S&nbsp;4H/4S](#2nt3s4h4s) | both minors >KQxxx, shortage bi<br/>4S (if available)- good suit, slam interest |
+| [2NT&nbsp;3S&nbsp;3NT](#2nt3s3nt) | BOTH suits <KQ xxx<br/><br/>4C/4D- minor bid <KQxxx; other >KQ xxx |
+| [2NT&nbsp;3S&nbsp;4H/4S](#2nt3s4h4s) | both minors >KQxxx, shortage bi<br/><br/>4S (if available)- good suit, slam interest |
 
 ## 2NT&nbsp;3S&nbsp;3NT
 
@@ -76,7 +76,7 @@ BOTH suits <KQ xxx
 | Rebid | Meaning |
 |---|---|
 | 2NT&nbsp;3S&nbsp;3NT&nbsp;4C/4D | RKCB (minor bid) (Appendix 4) |
-| [2NT&nbsp;3S&nbsp;3NT&nbsp;4H](#2nt3s3nt4h) | shape enquiry<br/>4D (if available)- RCKB (for diamonds) |
+| [2NT&nbsp;3S&nbsp;3NT&nbsp;4H](#2nt3s3nt4h) | shape enquiry<br/><br/>4D (if available)- RCKB (for diamonds) |
 | 2NT&nbsp;3S&nbsp;3NT&nbsp;4S | good suit, slam interest (cue bid) |
 | 2NT&nbsp;3S&nbsp;3NT&nbsp;4NT | RCKB (for Spades in principle) (Appendix 4) |
 | 2NT&nbsp;3S&nbsp;3NT&nbsp;5C/5D | to play |
@@ -90,7 +90,7 @@ shape enquiry
 | Rebid | Meaning |
 |---|---|
 | 2NT&nbsp;3S&nbsp;3NT&nbsp;4H&nbsp;4S/4NT(H) | shortage |
-| 2NT&nbsp;3S&nbsp;3NT&nbsp;4H&nbsp;5C/5D | 1156/1165<br/>Appendix 4 |
+| 2NT&nbsp;3S&nbsp;3NT&nbsp;4H&nbsp;5C/5D | 1156/1165<br/><br/>Appendix 4 |
 
 ## 2NT&nbsp;3S&nbsp;4H/4S
 

@@ -6,16 +6,16 @@ NB.shouldn’t be; a) 4-4 in minors if balanced (1C); b) 4-4 with major unless m
 
 | Rebid | Meaning |
 |---|---|
-| [1D&nbsp;1H](#1d1h) | Natural 4+ suit 5+pts<br/>NB.shouldn’t have:; a) 4 card support 10+pts unless 5+H (2D); b) 6+ H suit 3-8pts unless 3+ support (2H); c) 15+ balanced (2NT); ALL further bidding is similar to sequences following 1C-1H: |
-| [1D&nbsp;1S](#1d1s) | Natural 4+ suit 5+pts<br/>ALL further bidding is similar to sequences following 1D-1H:: |
-| [1D&nbsp;1NT](#1d1nt) | 5-12pts 7+ cards in minors<br/>NB.shouldn’t have:; a) 4 card major 1H or 1S; b) 4 card support 10+pts; 2C- either; D+C limited or very strong; or very strong D single suiter or 14-17pts 5D plus a 4 card major or 11-17pts 1444/4144 |
-| [1D&nbsp;2C](#1d2c) | Natural 4+ suit Game Forcing<br/>*By PASSED HAND natural 9+pts, invitational |
+| [1D&nbsp;1H](#1d1h) | Natural 4+ suit 5+pts<br/><br/>NB.shouldn’t have:; a) 4 card support 10+pts unless 5+H (2D); b) 6+ H suit 3-8pts unless 3+ support (2H); c) 15+ balanced (2NT)<br/><br/>ALL further bidding is similar to sequences following 1C-1H: |
+| [1D&nbsp;1S](#1d1s) | Natural 4+ suit 5+pts<br/><br/>ALL further bidding is similar to sequences following 1D-1H:: |
+| [1D&nbsp;1NT](#1d1nt) | 5-12pts 7+ cards in minors<br/><br/>NB.shouldn’t have:; a) 4 card major 1H or 1S; b) 4 card support 10+pts<br/><br/>2C- either; D+C limited or very strong; or very strong D single suiter or 14-17pts 5D plus a 4 card major or 11-17pts 1444/4144 |
+| [1D&nbsp;2C](#1d2c) | Natural 4+ suit Game Forcing<br/><br/>*By PASSED HAND natural 9+pts, invitational |
 | [1D&nbsp;2D](#1d2d) | 4+ support 10-15pts bal (not 3334 13-15pts) or 9+pts unbal (NB. wont have a 5+ H/S suit) (ALL further bidding is similar to sequences following 1C-2C:) |
-| [1D&nbsp;2H/2S*](#1d2h2s) | weak 3-9pts, 6+ suit, no fit (<Hxx)<br/>(*BY PASSED HAND SHOWS FIT JUMP (invit)) |
-| [1D&nbsp;2NT](#1d2nt) | 15+pts balanced (denies 4+ support)<br/>(*BY PASSED HAND SHOWS SOUND RAISE to 3D) |
+| [1D&nbsp;2H/2S*](#1d2h2s) | weak 3-9pts, 6+ suit, no fit (<Hxx)<br/><br/>(*BY PASSED HAND SHOWS FIT JUMP (invit)) |
+| [1D&nbsp;2NT](#1d2nt) | 15+pts balanced (denies 4+ support)<br/><br/>(*BY PASSED HAND SHOWS SOUND RAISE to 3D) |
 | [1D&nbsp;3C](#1d3c) | 6+ clubs, invit no fit (<Hxx) (*BY PASSED HAND SHOWS FIT JUMP (invit)) |
 | 1D&nbsp;3D | obstructive raise (Natural) |
-| 1D&nbsp;3H/3S4C | Splinter (limited)<br/>New suit- cue bid; 3NT- to play if max; 4D- min |
+| 1D&nbsp;3H/3S4C | Splinter (limited)<br/><br/>New suit- cue bid; 3NT- to play if max; 4D- min |
 | 1D&nbsp;3NT | 13-15pts 3343 (Natural) |
 
 ## 1D&nbsp;1H
@@ -28,18 +28,18 @@ ALL further bidding is similar to sequences following 1C-1H:
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;1H&nbsp;1S | natural<br/>2C-FSF; 3C- spade raise, D shortage; 2D-weak; 2H- 6+ invit; 3H- 6+, Raises/NT- natural; |
-| 1D&nbsp;1H&nbsp;1NT | 11-13 balanced<br/>2C/2D/2NT-checkback; 2H-weak, 2S/3C- nat; 3D-invit; 3H- good 6+; |
-| 1D&nbsp;1H&nbsp;2C | natural, usually 5-4<br/>2S- FSF; 3S- club support, D shortage; 2H- 6+ invit; 3H- 6+, Raises/NT- natural; |
-| 1D&nbsp;1H&nbsp;2D | minimum, usually 6+D<br/>2H- 6+ invit; 3H- 6+, Raises/NT/New Suit- natural; |
-| 1D&nbsp;1H&nbsp;2H | minimum raise, may be 3 card support<br/>2NT- support check; Game Tries |
-| 1D&nbsp;1H&nbsp;2S | strong and distributional (6-4+)<br/>3C- FSF;2NT-weak hand; Raise-nat; 3H-good 6+ |
-| 1D&nbsp;1H&nbsp;2NT | 17-18pts balanced<br/>3C-checkback; 3H- good 6+; 3D/3S- nat (5-5) |
-| 1D&nbsp;1H&nbsp;3C | strong and distributional (5-5+)<br/>3S-FSF; Raise- Natural; 3H- good 6+ |
-| 1D&nbsp;1H&nbsp;3D | good 6+ card suit, 7-8 tricks<br/>New suit- may be values; 3H-good 6+ |
-| 1D&nbsp;1H&nbsp;3H | invitational raise (15+unbal or 17-18 bal)<br/>New suit- cue bid; 3NT- alternative (Not serious) |
+| 1D&nbsp;1H&nbsp;1S | natural<br/><br/>2C-FSF; 3C- spade raise, D shortage; 2D-weak; 2H- 6+ invit; 3H- 6+, Raises/NT- natural; |
+| 1D&nbsp;1H&nbsp;1NT | 11-13 balanced<br/><br/>2C/2D/2NT-checkback; 2H-weak, 2S/3C- nat; 3D-invit; 3H- good 6+; |
+| 1D&nbsp;1H&nbsp;2C | natural, usually 5-4<br/><br/>2S- FSF; 3S- club support, D shortage; 2H- 6+ invit; 3H- 6+, Raises/NT- natural; |
+| 1D&nbsp;1H&nbsp;2D | minimum, usually 6+D<br/><br/>2H- 6+ invit; 3H- 6+, Raises/NT/New Suit- natural; |
+| 1D&nbsp;1H&nbsp;2H | minimum raise, may be 3 card support<br/><br/>2NT- support check; Game Tries |
+| 1D&nbsp;1H&nbsp;2S | strong and distributional (6-4+)<br/><br/>3C- FSF;2NT-weak hand; Raise-nat; 3H-good 6+ |
+| 1D&nbsp;1H&nbsp;2NT | 17-18pts balanced<br/><br/>3C-checkback; 3H- good 6+; 3D/3S- nat (5-5) |
+| 1D&nbsp;1H&nbsp;3C | strong and distributional (5-5+)<br/><br/>3S-FSF; Raise- Natural; 3H- good 6+ |
+| 1D&nbsp;1H&nbsp;3D | good 6+ card suit, 7-8 tricks<br/><br/>New suit- may be values; 3H-good 6+ |
+| 1D&nbsp;1H&nbsp;3H | invitational raise (15+unbal or 17-18 bal)<br/><br/>New suit- cue bid; 3NT- alternative (Not serious) |
 | 1D&nbsp;1H&nbsp;3S/4C | Splinter, strong with good support (New suit- cue bid) |
-| 1D&nbsp;1H&nbsp;3NT | (semi) solid club suit + stops+3H<br/>New suit- cue bid (hearts); 4D-agrees suit |
+| 1D&nbsp;1H&nbsp;3NT | (semi) solid club suit + stops+3H<br/><br/>New suit- cue bid (hearts); 4D-agrees suit |
 | 1D&nbsp;1H&nbsp;4D | very good suit with support (New suit- cue bid) |
 
 ## 1D&nbsp;1S
@@ -50,17 +50,17 @@ ALL further bidding is similar to sequences following 1D-1H::
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;1S&nbsp;1NT | 11-13 balanced<br/>2C/2D/2NT-checkback; 2H/2S- weak; 3D- invit; 3C/3H- good 5-5; 3S- good 6+ |
-| 1D&nbsp;1S&nbsp;2C | 5+ clubs, limited<br/>2H FSF; 3H- club support with D shortage; 2S- 6+ invit; Raises/NT- natural; 3S-6+; 2D-weak |
-| 1D&nbsp;1S&nbsp;2D | minimum, usually 6+D<br/>2H/3C- natural; 2S- 6+ invit; Raises/NT- natural; 3S- good 6+; 3H/4C- Splinters; 4D-RKCB |
-| 1D&nbsp;1S&nbsp;2H | REVERSE. 5-4+ 15+pts<br/>2NT- FORCES 3C; 3C- FSF; 3D/3H-sound raise; 3S- good 6+; 2S- 5+ |
-| 1D&nbsp;1S&nbsp;2S | minimum raise (may be 3 card support)<br/>2NT- support check; Game try |
-| 1D&nbsp;1S&nbsp;2NT | 17-18pts balanced<br/>3C- checkback; 3D/3H- natural (5-5); 3S- 6+ |
-| 1D&nbsp;1S&nbsp;3C | strong and distributional (5-5+)<br/>3H-FSF; Raises- natural; 3S- good 6+ |
-| 1D&nbsp;1S&nbsp;3D | good 6+ card suit, 7-8 tricks<br/>New Suit-may just be values; 3S- good 6+ |
-| 1D&nbsp;1S&nbsp;3H | splinter<br/>New suit- cue bid; 3S- (sub) min |
-| 1D&nbsp;1S&nbsp;3S | invitational raise (15+ unbal or 17-18 bal)<br/>New suit- cue bid; 3NT- alternative (Not serious) |
-| 1D&nbsp;1S&nbsp;3NT | (semi) solid club suit + stops +3S<br/>New suit- cue bid (spades); 4D-agrees D |
+| 1D&nbsp;1S&nbsp;1NT | 11-13 balanced<br/><br/>2C/2D/2NT-checkback; 2H/2S- weak; 3D- invit; 3C/3H- good 5-5; 3S- good 6+ |
+| 1D&nbsp;1S&nbsp;2C | 5+ clubs, limited<br/><br/>2H FSF; 3H- club support with D shortage; 2S- 6+ invit; Raises/NT- natural; 3S-6+; 2D-weak |
+| 1D&nbsp;1S&nbsp;2D | minimum, usually 6+D<br/><br/>2H/3C- natural; 2S- 6+ invit; Raises/NT- natural; 3S- good 6+; 3H/4C- Splinters; 4D-RKCB |
+| 1D&nbsp;1S&nbsp;2H | REVERSE. 5-4+ 15+pts<br/><br/>2NT- FORCES 3C; 3C- FSF; 3D/3H-sound raise; 3S- good 6+; 2S- 5+ |
+| 1D&nbsp;1S&nbsp;2S | minimum raise (may be 3 card support)<br/><br/>2NT- support check; Game try |
+| 1D&nbsp;1S&nbsp;2NT | 17-18pts balanced<br/><br/>3C- checkback; 3D/3H- natural (5-5); 3S- 6+ |
+| 1D&nbsp;1S&nbsp;3C | strong and distributional (5-5+)<br/><br/>3H-FSF; Raises- natural; 3S- good 6+ |
+| 1D&nbsp;1S&nbsp;3D | good 6+ card suit, 7-8 tricks<br/><br/>New Suit-may just be values; 3S- good 6+ |
+| 1D&nbsp;1S&nbsp;3H | splinter<br/><br/>New suit- cue bid; 3S- (sub) min |
+| 1D&nbsp;1S&nbsp;3S | invitational raise (15+ unbal or 17-18 bal)<br/><br/>New suit- cue bid; 3NT- alternative (Not serious) |
+| 1D&nbsp;1S&nbsp;3NT | (semi) solid club suit + stops +3S<br/><br/>New suit- cue bid (spades); 4D-agrees D |
 | 1D&nbsp;1S&nbsp;4C/4H | Splinter/void, strong with good support (New suit- cue bid) |
 | 1D&nbsp;1S&nbsp;4D | very good suit with support (New suit- cue bid) |
 
@@ -101,7 +101,7 @@ REVERSE, 17+pts natural (5-4)
 | 1D&nbsp;1NT&nbsp;2H/2S&nbsp;2NT | Forces 3C (weak C, weak D raise or no stop) (Appendix 3) |
 | 1D&nbsp;1NT&nbsp;2H/2S&nbsp;3C | 6+ clubs, 5-8pts (Natural) |
 | 1D&nbsp;1NT&nbsp;2H/2S&nbsp;3D | 5-7pts, 3+ card support (Natural) |
-| 1D&nbsp;1NT&nbsp;2H/2S&nbsp;3NT | natural, 8-12pts<br/>NEW SUIT (other major) – “FSF” 8-12pts; Natural; Natural |
+| 1D&nbsp;1NT&nbsp;2H/2S&nbsp;3NT | natural, 8-12pts<br/><br/>NEW SUIT (other major) – “FSF” 8-12pts<br/><br/>Natural; Natural |
 
 ## 1D&nbsp;1NT&nbsp;2NT
 
@@ -122,7 +122,7 @@ Natural 4+ suit Game Forcing
 |---|---|
 | [1D&nbsp;2C&nbsp;2D](#1d2c2d) | usually 5+ suit |
 | [1D&nbsp;2C&nbsp;2H](#1d2c2h) | natural (5-4), reversing values |
-| 1D&nbsp;2C&nbsp;2S | natural (5-4), reversing values<br/>As AFTER 1D-2C-2H; 3H- FSF; 2NT-natural; 3C-good suit; 3D/3S- raise |
+| 1D&nbsp;2C&nbsp;2S | natural (5-4), reversing values<br/><br/>As AFTER 1D-2C-2H; 3H- FSF; 2NT-natural; 3C-good suit; 3D/3S- raise |
 | [1D&nbsp;2C&nbsp;2NT](#1d2c2nt) | 11-13 or 17-18pts balanced (with only 4 diamonds) |
 | 1D&nbsp;2C&nbsp;3C | 4 card support, not minimum (Natural) |
 | 1D&nbsp;2C&nbsp;3D | good 6+ card suit, 7-8 tricks (Natural) |
@@ -148,7 +148,7 @@ natural (5-4), reversing values
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;2C&nbsp;2H&nbsp;2S | FSF<br/>Appendix 1 |
+| 1D&nbsp;2C&nbsp;2H&nbsp;2S | FSF<br/><br/>Appendix 1 |
 | 1D&nbsp;2C&nbsp;2H&nbsp;2NT | natural in principle (Appendix 1) |
 | 1D&nbsp;2C&nbsp;2H&nbsp;3C | good club suit, invites support (Appendix 1) |
 | 1D&nbsp;2C&nbsp;2H&nbsp;3D | 3+ card support (Appendix 1) |
@@ -160,7 +160,7 @@ natural (5-4), reversing values
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;2C&nbsp;2NT&nbsp;3C | checkback<br/>Appendix 2 |
+| 1D&nbsp;2C&nbsp;2NT&nbsp;3C | checkback<br/><br/>Appendix 2 |
 | 1D&nbsp;2C&nbsp;2NT&nbsp;3D | 4+ card support, non minimum (Appendix 1) |
 | 1D&nbsp;2C&nbsp;2NT&nbsp;3H/3S | Natural, non minimum (Appendix 1) |
 | 1D&nbsp;2C&nbsp;2NT&nbsp;3NT | natural, minimum (Appendix 1) |
@@ -194,7 +194,7 @@ any minimum
 | 1D&nbsp;2D&nbsp;2H&nbsp;3D | natural, non forcing (Natural) |
 | 1D&nbsp;2D&nbsp;2H&nbsp;3H/3S/4C | Splinter raise (diamonds) (Natural (cue bid)) |
 | 1D&nbsp;2D&nbsp;2H&nbsp;3NT | natural (Natural) |
-| 1D&nbsp;2D&nbsp;2H&nbsp;4D | RKCB<br/>Appendix 4 |
+| 1D&nbsp;2D&nbsp;2H&nbsp;4D | RKCB<br/><br/>Appendix 4 |
 
 ## 1D&nbsp;2D&nbsp;2H&nbsp;3C
 
@@ -214,11 +214,11 @@ natural (5-4), non minimum
 |---|---|
 | 1D&nbsp;2D&nbsp;2S&nbsp;2NT | natural (in principle), non minimum (Natural) |
 | 1D&nbsp;2D&nbsp;2S&nbsp;3C | natural in principle (Natural) |
-| 1D&nbsp;2D&nbsp;2S&nbsp;3D | sets suit<br/>Natural (cue bid) |
-| 1D&nbsp;2D&nbsp;2S&nbsp;3H/4C | Splinter<br/>Natural (cue bid) |
+| 1D&nbsp;2D&nbsp;2S&nbsp;3D | sets suit<br/><br/>Natural (cue bid) |
+| 1D&nbsp;2D&nbsp;2S&nbsp;3H/4C | Splinter<br/><br/>Natural (cue bid) |
 | [1D&nbsp;2D&nbsp;2S&nbsp;3S](#1d2d2s3s) | confirms fit |
 | 1D&nbsp;2D&nbsp;2S&nbsp;3NT | natural, minimum (10-12pts) (Natural) |
-| 1D&nbsp;2D&nbsp;2S&nbsp;4D | RKCB<br/>Appendix 4 |
+| 1D&nbsp;2D&nbsp;2S&nbsp;4D | RKCB<br/><br/>Appendix 4 |
 
 ## 1D&nbsp;2D&nbsp;2S&nbsp;3S
 
@@ -235,11 +235,11 @@ shows 4 hearts, non minimum
 | Rebid | Meaning |
 |---|---|
 | 1D&nbsp;2D&nbsp;2NT&nbsp;3C | natural in principle (Natural) |
-| 1D&nbsp;2D&nbsp;2NT&nbsp;3D | sets suit<br/>Natural (cue bid) |
+| 1D&nbsp;2D&nbsp;2NT&nbsp;3D | sets suit<br/><br/>Natural (cue bid) |
 | [1D&nbsp;2D&nbsp;2NT&nbsp;3H](#1d2d2nt3h) | confirms fit, good hand |
 | 1D&nbsp;2D&nbsp;2NT&nbsp;3S/4C | Splinter, limited (Natural (cue bid)) |
 | 1D&nbsp;2D&nbsp;2NT&nbsp;3NT | natural, minimum (10-12pts) (Natural) |
-| 1D&nbsp;2D&nbsp;2NT&nbsp;4D | RKCB<br/>Appendix 4 |
+| 1D&nbsp;2D&nbsp;2NT&nbsp;4D | RKCB<br/><br/>Appendix 4 |
 
 ## 1D&nbsp;2D&nbsp;2NT&nbsp;3H
 
@@ -255,10 +255,10 @@ natural (5-4), non minimum
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;2D&nbsp;3C&nbsp;3D | sets suit<br/>Natural (cue bid) |
+| 1D&nbsp;2D&nbsp;3C&nbsp;3D | sets suit<br/><br/>Natural (cue bid) |
 | 1D&nbsp;2D&nbsp;3C&nbsp;3H/3S | Splinter, limited (Natural (cue bid)) |
 | 1D&nbsp;2D&nbsp;3C&nbsp;3NT | natural, minimum (10-12pts) (Natural) |
-| 1D&nbsp;2D&nbsp;3C&nbsp;4C/4D | RKCB<br/>Appendix 4 |
+| 1D&nbsp;2D&nbsp;3C&nbsp;4C/4D | RKCB<br/><br/>Appendix 4 |
 
 ## 1D&nbsp;2D&nbsp;3D
 
@@ -269,7 +269,7 @@ New suit – cue bid
 | Rebid | Meaning |
 |---|---|
 | 1D&nbsp;2D&nbsp;3D&nbsp;3NT | natural, minimum (Natural) |
-| 1D&nbsp;2D&nbsp;3D&nbsp;4D | RKCB<br/>Appendix 4 |
+| 1D&nbsp;2D&nbsp;3D&nbsp;4D | RKCB<br/><br/>Appendix 4 |
 
 ## 1D&nbsp;2D&nbsp;3H/3S/4C 
 
@@ -280,7 +280,7 @@ New suit- cue bid
 | Rebid | Meaning |
 |---|---|
 | 1D&nbsp;2D&nbsp;3H/3S/4C &nbsp;3NT | natural, minimum (Natural) |
-| 1D&nbsp;2D&nbsp;3H/3S/4C &nbsp;4D | RKCB<br/>Appendix 4 |
+| 1D&nbsp;2D&nbsp;3H/3S/4C &nbsp;4D | RKCB<br/><br/>Appendix 4 |
 
 ## 1D&nbsp;2H/2S*
 
@@ -290,8 +290,8 @@ weak 3-9pts, 6+ suit, no fit (<Hxx)
 
 | Rebid | Meaning |
 |---|---|
-| [1D&nbsp;2H/2S*&nbsp;2NT](#1d2h2s2nt) | asks for features<br/>NEW SUIT= feature, non minimum; REBID – minimum |
-| 1D&nbsp;2H/2S*&nbsp;3D | 6+ card suit, no fit<br/>NEW SUIT – strong and distributional; RAISE – obstructive; Natural; Natural; Natural |
+| [1D&nbsp;2H/2S*&nbsp;2NT](#1d2h2s2nt) | asks for features<br/><br/>NEW SUIT= feature, non minimum; REBID – minimum |
+| 1D&nbsp;2H/2S*&nbsp;3D | 6+ card suit, no fit<br/><br/>NEW SUIT – strong and distributional; RAISE – obstructive<br/><br/>Natural; Natural; Natural |
 
 ## 1D&nbsp;2H/2S*&nbsp;2NT
 
@@ -301,7 +301,7 @@ NEW SUIT= feature, non minimum; REBID – minimum
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;2H/2S*&nbsp;2NT&nbsp;3NT | maximum good suit (>Hhxxxx)<br/>REBID – minimum; Natural |
+| 1D&nbsp;2H/2S*&nbsp;2NT&nbsp;3NT | maximum good suit (>Hhxxxx)<br/><br/>REBID – minimum<br/><br/>Natural |
 
 ## 1D&nbsp;2NT
 
@@ -313,8 +313,8 @@ NEW SUIT= feature, non minimum; REBID – minimum
 |---|---|
 | [1D&nbsp;2NT&nbsp;3C](#1d2nt3c) | natural, either 5-4 or 4144/1444 |
 | [1D&nbsp;2NT&nbsp;3D](#1d2nt3d) | 6 card suit, |
-| [1D&nbsp;2NT&nbsp;3H/3S](#1d2nt3h3s) | natural, 5-4<br/>NEW SUIT (3 level)- natural |
-| 1D&nbsp;2NT&nbsp;3NT | 11-13pts balanced<br/>responder continues naturally |
+| [1D&nbsp;2NT&nbsp;3H/3S](#1d2nt3h3s) | natural, 5-4<br/><br/>NEW SUIT (3 level)- natural |
+| 1D&nbsp;2NT&nbsp;3NT | 11-13pts balanced<br/><br/>responder continues naturally |
 | 1D&nbsp;2NT&nbsp;4C/4H/4S | Self splinter maximum, 6+D (Natural (cue bid)) |
 | 1D&nbsp;2NT&nbsp;4D | 17-18pts balanced with 5/6D (Natural) |
 | 1D&nbsp;2NT&nbsp;4NT | 17-18pts specifically 3343 shape (Natural) |
@@ -328,7 +328,7 @@ natural, either 5-4 or 4144/1444
 | [1D&nbsp;2NT&nbsp;3C&nbsp;3D](#1d2nt3c3d) | promises 3+D |
 | 1D&nbsp;2NT&nbsp;3C&nbsp;3H/3S | natural (denies 3+ D) (Natural) |
 | 1D&nbsp;2NT&nbsp;3C&nbsp;3NT | 4423, minimum (Natural) |
-| 1D&nbsp;2NT&nbsp;3C&nbsp;4C | agrees suit<br/>Natural (cue bid) |
+| 1D&nbsp;2NT&nbsp;3C&nbsp;4C | agrees suit<br/><br/>Natural (cue bid) |
 
 ## 1D&nbsp;2NT&nbsp;3C&nbsp;3D
 
@@ -357,8 +357,8 @@ NEW SUIT (3 level)- natural
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;2NT&nbsp;3H/3S&nbsp;3NT | minimum<br/>NEW SUIT (4 level)- raise in major, maximum; Natural; Natural (cue bid) |
-| 1D&nbsp;2NT&nbsp;3H/3S&nbsp;4D | agrees suit<br/>Natural (cue bid) |
+| 1D&nbsp;2NT&nbsp;3H/3S&nbsp;3NT | minimum<br/><br/>NEW SUIT (4 level)- raise in major, maximum<br/><br/>Natural; Natural (cue bid) |
+| 1D&nbsp;2NT&nbsp;3H/3S&nbsp;4D | agrees suit<br/><br/>Natural (cue bid) |
 
 ## 1D&nbsp;3C
 
@@ -366,7 +366,7 @@ NEW SUIT (3 level)- natural
 
 | Rebid | Meaning |
 |---|---|
-| 1D&nbsp;3C&nbsp;3D | 6+D, no club fit<br/>responder usually passes |
+| 1D&nbsp;3C&nbsp;3D | 6+D, no club fit<br/><br/>responder usually passes |
 | [1D&nbsp;3C&nbsp;3H/3S](#1d3c3h3s) | values (may be natural) |
 | 1D&nbsp;3C&nbsp;3NT | to play |
 | 1D&nbsp;3C&nbsp;4C | agrees clubs (slam interest) |
