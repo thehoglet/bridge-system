@@ -115,30 +115,21 @@ rebid = "Effectively sequences the same as after 1D-1S"
 
 [pass.1S.pass.1NT]
 meaning = "11-13 balanced"
-rebid = "CHECKBACK (2C/2D/2NT); 2H/2S- weak;"
-
-[pass.1S.pass.1NT.pass."3C/3D"]
-meaning = "good 5-5; 3H- 4 card support, invit; 3S-6+"
+rebid = "CHECKBACK (2C/2D/2NT); 2H/2S- weak;; 3C/3D- good 5-5; 3H- 4 card support, invit; 3S-6+"
 
 [pass.1S.pass.2C]
 meaning = "natural, usually 5-4"
-
-[pass.1S.pass.2C.pass.2D]
-meaning = "FSF; 3D- good club support, heart shortage"
-rebid = "Appendix 5"
+rebid = "2D- FSF; 3D- good club support, heart shortage"
 
 [pass.1S.pass.2C.pass.2H]
 meaning = "weak; 2S-6+; NT/Raises- natural; 3S- good 6+"
 
 [pass.1S.pass.2D]
 meaning = "natural, usually 5-4"
+rebid = "3C- FSF; 4C- good D support, heart shortage"
 
 [pass.1S.pass.2D.pass.2H]
 meaning = "weak; 2S-6+; NT/Raises- natural; 3S- good 6+"
-
-[pass.1S.pass.2D.pass.3C]
-meaning = "FSF; 4C- good D support, heart shortage"
-rebid = "Appendix 5"
 
 [pass.1S.pass.2H]
 meaning = "usually 6+ card suit, minimum"
@@ -149,9 +140,7 @@ rebid = "Natural"
 
 [pass.1S.pass.2NT]
 meaning = "17-18pts balanced"
-
-[pass.1S.pass.2NT.pass.3C]
-meaning = "checkback; 3D- 5-5; 3H-sets suit; 3S- 6+"
+rebid = "3C- checkback; 3D- 5-5; 3H-sets suit; 3S- 6+"
 
 [pass.1S.pass.2S]
 meaning = "minimum raise (may be 3 card support)"
@@ -402,14 +391,11 @@ notes = ["(* By PASSED HAND is natural 9+pts, invitational)"]
 
 [pass.2D.pass.2H]
 meaning = "5+ hearts"
+rebid = "2S/3C- natural (5-4);"
 
 [pass.2D.pass.2H.pass.2NT]
 meaning = "natural (in principle), non minimum"
 rebid = "Natural"
-
-[pass.2D.pass.2H.pass."2S/3C"]
-meaning = "natural (5-4);"
-rebid = "Natural (3H-strong)"
 
 [pass.2D.pass.2H.pass.3D]
 meaning = "good suit, invites support (Hx)"

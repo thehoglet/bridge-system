@@ -39,24 +39,8 @@ either 4-4 in majors (4441/4414/4450/4405) 7-10pts or minimum, 4-6pts 5-5 in maj
 | 2H&nbsp;2NT&nbsp;3C&nbsp;3D | asking for minor (assuming 4-4)<br/><br/>3H=C; 3S=D; 3NT=5-5 |
 | 2H&nbsp;2NT&nbsp;3C&nbsp;3H/3S | invitational (Natural) |
 | 2H&nbsp;2NT&nbsp;3C&nbsp;3NT/4H/4S | to play |
-| [2H&nbsp;2NT&nbsp;3C&nbsp;4C](#2h2nt3c4c) | slam try in hearts |
-| [2H&nbsp;2NT&nbsp;3C&nbsp;4D](#2h2nt3c4d) | slam try in spades |
-
-## 2H&nbsp;2NT&nbsp;3C&nbsp;4C
-
-slam try in hearts
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3C&nbsp;4C&nbsp;4D | interest; 4H-min |
-
-## 2H&nbsp;2NT&nbsp;3C&nbsp;4D
-
-slam try in spades
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3C&nbsp;4D&nbsp;4H | interest; 4S-min |
+| 2H&nbsp;2NT&nbsp;3C&nbsp;4C | slam try in hearts<br/><br/>4D-interest; 4H-min |
+| 2H&nbsp;2NT&nbsp;3C&nbsp;4D | slam try in spades<br/><br/>4H-interest; 4S-min |
 
 ## 2H&nbsp;2NT&nbsp;3D
 
@@ -66,24 +50,8 @@ minimum (5-7pts) with 5H and 4S
 |---|---|
 | 2H&nbsp;2NT&nbsp;3D&nbsp;3H/3S | to play |
 | 2H&nbsp;2NT&nbsp;3D&nbsp;3NT/4H/4S | to play |
-| [2H&nbsp;2NT&nbsp;3D&nbsp;4C](#2h2nt3d4c) | slam try in hearts |
-| [2H&nbsp;2NT&nbsp;3D&nbsp;4D](#2h2nt3d4d) | slam try in spades |
-
-## 2H&nbsp;2NT&nbsp;3D&nbsp;4C
-
-slam try in hearts
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3D&nbsp;4C&nbsp;4D | interest; 4H-min |
-
-## 2H&nbsp;2NT&nbsp;3D&nbsp;4D
-
-slam try in spades
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3D&nbsp;4D&nbsp;4H | interest; 4S-min |
+| 2H&nbsp;2NT&nbsp;3D&nbsp;4C | slam try in hearts<br/><br/>4D-interest; 4H-min |
+| 2H&nbsp;2NT&nbsp;3D&nbsp;4D | slam try in spades<br/><br/>4H-interest; 4S-min |
 
 ## 2H&nbsp;2NT&nbsp;3H
 
@@ -93,24 +61,8 @@ minimum (5-7pts) with 5S and 4H
 |---|---|
 | 2H&nbsp;2NT&nbsp;3H&nbsp;(pass)/3S | to play |
 | 2H&nbsp;2NT&nbsp;3H&nbsp;3NT/4H/4S | to play |
-| [2H&nbsp;2NT&nbsp;3H&nbsp;4C](#2h2nt3h4c) | slam try in hearts |
-| [2H&nbsp;2NT&nbsp;3H&nbsp;4D](#2h2nt3h4d) | slam try in spades |
-
-## 2H&nbsp;2NT&nbsp;3H&nbsp;4C
-
-slam try in hearts
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3H&nbsp;4C&nbsp;4D | interest; 4H-min |
-
-## 2H&nbsp;2NT&nbsp;3H&nbsp;4D
-
-slam try in spades
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3H&nbsp;4D&nbsp;4H | interest; 4S-min |
+| 2H&nbsp;2NT&nbsp;3H&nbsp;4C | slam try in hearts<br/><br/>4D-interest; 4H-min |
+| 2H&nbsp;2NT&nbsp;3H&nbsp;4D | slam try in spades<br/><br/>4H-interest; 4S-min |
 
 ## 2H&nbsp;2NT&nbsp;3S
 
@@ -119,24 +71,8 @@ maximum (8-10pts) with 5H and 4S
 | Rebid | Meaning |
 |---|---|
 | 2H&nbsp;2NT&nbsp;3S&nbsp;3NT/4H/4S | to play |
-| [2H&nbsp;2NT&nbsp;3S&nbsp;4C](#2h2nt3s4c) | slam try in hearts |
-| [2H&nbsp;2NT&nbsp;3S&nbsp;4D](#2h2nt3s4d) | slam try in spades |
-
-## 2H&nbsp;2NT&nbsp;3S&nbsp;4C
-
-slam try in hearts
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3S&nbsp;4C&nbsp;4D | interest; 4H-min |
-
-## 2H&nbsp;2NT&nbsp;3S&nbsp;4D
-
-slam try in spades
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3S&nbsp;4D&nbsp;4H | interest; 4S-min |
+| 2H&nbsp;2NT&nbsp;3S&nbsp;4C | slam try in hearts<br/><br/>4D-interest; 4H-min |
+| 2H&nbsp;2NT&nbsp;3S&nbsp;4D | slam try in spades<br/><br/>4H-interest; 4S-min |
 
 ## 2H&nbsp;2NT&nbsp;3NT
 
@@ -144,25 +80,9 @@ maximum (8-10pts) with 5S and 4H
 
 | Rebid | Meaning |
 |---|---|
-| [2H&nbsp;2NT&nbsp;3NT&nbsp;4C](#2h2nt3nt4c) | slam try in hearts |
-| [2H&nbsp;2NT&nbsp;3NT&nbsp;4D](#2h2nt3nt4d) | slam try in spades |
+| 2H&nbsp;2NT&nbsp;3NT&nbsp;4C | slam try in hearts<br/><br/>4D-interest; 4H-min |
+| 2H&nbsp;2NT&nbsp;3NT&nbsp;4D | slam try in spades<br/><br/>4H-interest; 4S-min |
 | 2H&nbsp;2NT&nbsp;3NT&nbsp;4H/4S | to play |
-
-## 2H&nbsp;2NT&nbsp;3NT&nbsp;4C
-
-slam try in hearts
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3NT&nbsp;4C&nbsp;4D | interest; 4H-min |
-
-## 2H&nbsp;2NT&nbsp;3NT&nbsp;4D
-
-slam try in spades
-
-| Rebid | Meaning |
-|---|---|
-| 2H&nbsp;2NT&nbsp;3NT&nbsp;4D&nbsp;4H | interest; 4S-min |
 
 ## 2H&nbsp;3C
 

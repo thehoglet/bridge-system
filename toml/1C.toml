@@ -100,13 +100,11 @@ rebid = "Natural"
 
 [pass.1D.pass.1S]
 meaning = "Natural 4+ card suit Usually 5+ clubs"
-rebid = "AS AFTER 1C-1D-1H"
-
-[pass.1D.pass.1S.pass.2H]
-meaning = "FSF; 3H- S raise with club shortage; 2D- 6+"
+rebid = "AS AFTER 1C-1D-1H; 2H- FSF; 3H- S raise with club shortage; 2D- 6+"
 
 [pass.1D.pass.1S.pass.3D]
 meaning = "good 6+; Raises/NT-natural; 2C- weak"
+notes = ["2H- FSF; 3H- S raise with club shortage; 2D- 6+"]
 
 [pass.1D.pass.2C]
 meaning = "usually 6+ clubs, limited"
@@ -298,23 +296,11 @@ rebid = "Natural (cue bid)"
 
 [pass.1H.pass.1S]
 meaning = "Natural 4+ card suit"
-
-[pass.1H.pass.1S.pass.2D]
-meaning = "FSF; 3D- spade raise short club; 2C-weak"
-rebid = "Appendix 5"
-
-[pass.1H.pass.1S.pass.2H]
-meaning = "6+ invit; 3H- 6+, Raises/NT- natural;"
+rebid = "2D – FSF; 3D- spade raise short club; 2C-weak; 2H- 6+ invit; 3H- 6+, Raises/NT- natural;"
 
 [pass.1H.pass.2C]
 meaning = "5+ clubs, limited"
-
-[pass.1H.pass.2C.pass.2D]
-meaning = "natural in principle, forcing; 3D/3S- splinter"
-rebid = "Natural"
-
-[pass.1H.pass.2C.pass.2H]
-meaning = "6+ invit; 3H- 6+, Raises/NT- natural;"
+rebid = "2D- natural in principle, forcing; 3D/3S- splinter; 2H- 6+ invit; 3H- 6+, Raises/NT- natural;"
 
 [pass.1H.pass.2D]
 meaning = "REVERSE with 16+pts, natural"
@@ -355,10 +341,7 @@ rebid = "Natural (game try)"
 
 [pass.1H.pass.2NT]
 meaning = "17-18pts balanced"
-
-[pass.1H.pass.2NT.pass.3C]
-meaning = "Checkback; 3H- good 6+; 3D/3S- nat (5-5)"
-rebid = "Appendix 2"
+rebid = "3C-Checkback; 3H- good 6+; 3D/3S- nat (5-5)"
 
 [pass.1H.pass.2S]
 meaning = "strong and distributional (6-4+) 2 suiter"
@@ -369,10 +352,7 @@ rebid = "Natural"
 
 [pass.1H.pass.3C]
 meaning = "good 6+ card suit, 7-8 playing tricks"
-
-[pass.1H.pass.3C.pass."3D/3S"]
-meaning = "may be just values; 3H- good 6+"
-rebid = "Natural"
+rebid = "3D/3S- may be just values; 3H- good 6+"
 
 [pass.1H.pass.3D]
 meaning = "splinter"
@@ -435,20 +415,11 @@ notes = ["NB.shouldn’t have:", "a) 4 card support 10+pts unless 5+S (2C)", "b)
 
 [pass.1S.pass.1NT]
 meaning = "11-13 balanced"
-
-[pass.1S.pass.1NT.pass."2C/2D/2NT"]
-meaning = "Checkback; 3C- invitational; 3S- 6+"
-
-[pass.1S.pass.1NT.pass."2D/2H "]
-meaning = "weak 5-4; 2S- weak;3D/3H – good 5-5;"
-rebid = "Appendix 2"
+rebid = "2D/2H – weak 5-4; 2S- weak;3D/3H – good 5-5;; 2C/2D/2NT- Checkback; 3C- invitational; 3S- 6+"
 
 [pass.1S.pass.2C]
 meaning = "5+ clubs, limited"
-
-[pass.1S.pass.2C.pass."2D/2H "]
-meaning = "natural in principle; 3D/3H – Splinters"
-rebid = "Natural"
+rebid = "2D/2H – natural in principle; 3D/3H – Splinters"
 
 [pass.1S.pass.2C.pass.2S]
 meaning = "6+ invit; Raises/NT- nat, invit; 3S- good 6+"
@@ -469,10 +440,7 @@ rebid = "Appendix 3"
 
 [pass.1S.pass.2NT]
 meaning = "17-18pts balanced"
-
-[pass.1S.pass.2NT.pass.3C]
-meaning = "Checkback; 3D/3H- natural (5-5); 3S- 6+"
-rebid = "Appendix 5"
+rebid = "3C- Checkback; 3D/3H- natural (5-5); 3S- 6+"
 
 [pass.1S.pass.2S]
 meaning = "minimum raise (may be 3 card support)"
@@ -483,10 +451,7 @@ rebid = "Natural (game try)"
 
 [pass.1S.pass.3C]
 meaning = "good 6+ card suit, 7-8 playing tricks"
-
-[pass.1S.pass.3C.pass."3D/3H"]
-meaning = "may only be values; 3S- good 6+"
-rebid = "Natural"
+rebid = "3D/3H- may only be values; 3S- good 6+"
 
 [pass.1S.pass."3D/3H"]
 meaning = "splinters"
@@ -580,20 +545,11 @@ rebid = "Appendix 4"
 
 [pass.2C.pass.2NT]
 meaning = "4 diamonds, 14+pts"
-rebid = "Effectively as after 1C-2C-2H:"
-
-[pass.2C.pass.2NT.pass."3C/3D"]
-meaning = "set suit; 3H/3S- Splinter; 4C/4D- RKCB"
+rebid = "Effectively as after 1C-2C-2H:; 3C/3D-set suit; 3H/3S- Splinter; 4C/4D- RKCB"
 
 [pass.2C.pass.2S]
 meaning = "natural, 14+pts"
-rebid = "Effectively as after 1C-2C-2H:"
-
-[pass.2C.pass.2S.pass.2NT]
-meaning = "suggests 13-15pts bal; 3C/3S- sets suit;"
-
-[pass.2C.pass.2S.pass."3D/3H"]
-meaning = "Splinter, minimum; 4C-RKCB; 3NT-nat, min"
+rebid = "Effectively as after 1C-2C-2H:; 2NT- suggests 13-15pts bal; 3C/3S- sets suit;; 3D/3H- Splinter, minimum; 4C-RKCB; 3NT-nat, min"
 
 [pass.2C.pass.3C]
 meaning = "14+pts, usually 6 clubs, no shortage"

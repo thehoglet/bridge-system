@@ -50,6 +50,4 @@ rebid = "Opener always passes"
 
 [pass.4NT]
 meaning = "Blackwood"
-
-[pass.4NT.pass.5C]
-meaning = "1; 5D-2 (nb only possibilities)"
+rebid = "5C-1; 5D-2 (nb only possibilities)"

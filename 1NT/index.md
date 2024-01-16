@@ -38,7 +38,7 @@ promises at least one 4 card major
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2C&nbsp;2D&nbsp;2H](#1nt2c2d2h) | 4 spades (may have 4 hearts and 4/5S invit) values for 2NT |
+| [1NT&nbsp;2C&nbsp;2D&nbsp;2H](#1nt2c2d2h) | 4 spades (may have 4 hearts and 4/5S invit) values for 2NT<br/><br/>2S/3S- min/max 4S; |
 | [1NT&nbsp;2C&nbsp;2D&nbsp;2S](#1nt2c2d2s) | 4 hearts (denies 4 spades) values for 2NT |
 | 1NT&nbsp;2C&nbsp;2D&nbsp;2NT | natural, invitational, no major (New suit- weak stop(xx)) |
 | [1NT&nbsp;2C&nbsp;2D&nbsp;3C](#1nt2c2d3c) | Minor suit ask |
@@ -48,9 +48,10 @@ promises at least one 4 card major
 
 4 spades (may have 4 hearts and 4/5S invit) values for 2NT
 
+2S/3S- min/max 4S;
+
 | Rebid | Meaning |
 |---|---|
-| 1NT&nbsp;2C&nbsp;2D&nbsp;2H&nbsp;2S/3S | min/max 4S; |
 | 1NT&nbsp;2C&nbsp;2D&nbsp;2H&nbsp;2NT | min 4H |
 | 1NT&nbsp;2C&nbsp;2D&nbsp;2H&nbsp;3C/3D | max 4H+4m |
 | 1NT&nbsp;2C&nbsp;2D&nbsp;2H&nbsp;3H | max both majors |
@@ -104,15 +105,7 @@ no 4 or 5 card major
 |---|---|
 | 1NT&nbsp;2C&nbsp;2S&nbsp;2NT | natural<br/><br/>New suit-weak stop(xx) |
 | 1NT&nbsp;2C&nbsp;2S&nbsp;3C/3D | natural (Natural) |
-| [1NT&nbsp;2C&nbsp;2S&nbsp;3H](#1nt2c2s3h) | slam interest in spades |
-
-## 1NT&nbsp;2C&nbsp;2S&nbsp;3H
-
-slam interest in spades
-
-| Rebid | Meaning |
-|---|---|
-| 1NT&nbsp;2C&nbsp;2S&nbsp;3H&nbsp;3S | max; 4S/3NT- min<br/><br/>cue bid (non max) |
+| 1NT&nbsp;2C&nbsp;2S&nbsp;3H | slam interest in spades<br/><br/>3S- max; 4S/3NT- min; cue bid (non max) |
 
 ## 1NT&nbsp;2C&nbsp;2NT
 
@@ -242,26 +235,10 @@ All sequences are similar to those following 1NT-2D:
 
 | Rebid | Meaning |
 |---|---|
-| [1NT&nbsp;2H&nbsp;2S](#1nt2h2s) | denies 4 card support |
-| [1NT&nbsp;2H&nbsp;2NT](#1nt2h2nt) | maximum with 4 card support |
+| 1NT&nbsp;2H&nbsp;2S | denies 4 card support<br/><br/>2NT-invit with 5S; 3C/3D/3H-natural; 3S- 6+ invit 4C/4D/4H-self splinter 6+; 4S- mild slam try; 3NT-choice |
+| 1NT&nbsp;2H&nbsp;2NT | maximum with 4 card support<br/><br/>3C/3D- slam interest; 3H- re-transfer |
 | 1NT&nbsp;2H&nbsp;3C/3D/3H | max with 3 card support (min K10x) and suit promising 4 tricks opposite an hon.<br/><br/>3H (if available)- re-transfer to 3S; New Suit- slam interest, shortage; 3NT- serious slam try |
 | 1NT&nbsp;2H&nbsp;3S | 4 card support, minimum<br/><br/>New suit- shortage, 3NT- serious slam try |
-
-## 1NT&nbsp;2H&nbsp;2S
-
-denies 4 card support
-
-| Rebid | Meaning |
-|---|---|
-| 1NT&nbsp;2H&nbsp;2S&nbsp;2NT | invit with 5S; 3C/3D/3H-natural; 3S- 6+ invit 4C/4D/4H-self splinter 6+; 4S- mild slam try; 3NT-choice (as after 1NT-2D-2H) |
-
-## 1NT&nbsp;2H&nbsp;2NT
-
-maximum with 4 card support
-
-| Rebid | Meaning |
-|---|---|
-| 1NT&nbsp;2H&nbsp;2NT&nbsp;3C/3D | slam interest; 3H- re-transfer (Natural (S agreed)) |
 
 ## 1NT&nbsp;2S
 

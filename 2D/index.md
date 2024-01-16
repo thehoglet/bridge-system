@@ -31,7 +31,7 @@ any 4441 with 4 spades 18-20pts
 
 | Rebid | Meaning |
 |---|---|
-| [2D&nbsp;2H&nbsp;2S&nbsp;2NT](#2d2h2s2nt) | asking for exact shape (suit below singleton) |
+| [2D&nbsp;2H&nbsp;2S&nbsp;2NT](#2d2h2s2nt) | asking for exact shape (suit below singleton)<br/><br/>3C- 4414; 3D- 4144 |
 | 2D&nbsp;2H&nbsp;2S&nbsp;3C/3D/3H | 5 card suit (Natural) |
 | 2D&nbsp;2H&nbsp;2S&nbsp;3S | natural, invitational |
 | 2D&nbsp;2H&nbsp;2S&nbsp;3NT | to play |
@@ -40,9 +40,10 @@ any 4441 with 4 spades 18-20pts
 
 asking for exact shape (suit below singleton)
 
+3C- 4414; 3D- 4144
+
 | Rebid | Meaning |
 |---|---|
-| 2D&nbsp;2H&nbsp;2S&nbsp;2NT&nbsp;3C | 4414; 3D- 4144 |
 | 2D&nbsp;2H&nbsp;2S&nbsp;2NT&nbsp;3H | 4441 (appendix 4) |
 
 ## 2D&nbsp;2H&nbsp;2NT

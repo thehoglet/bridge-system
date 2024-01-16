@@ -29,10 +29,10 @@ Most sequences are identical those following 1H-1NT:
 | Rebid | Meaning |
 |---|---|
 | [1S&nbsp;1NT&nbsp;2C](#1s1nt2c) | 5+S and 4+C 10-15pts or hands with 5+S and 4+C/D/H 16+pts or very strong spade one suiter |
-| [1S&nbsp;1NT&nbsp;2D](#1s1nt2d) | natural (5-4), 10-15pts |
-| [1S&nbsp;1NT&nbsp;2H](#1s1nt2h) | natural (5-4), 10-15pts |
-| [1S&nbsp;1NT&nbsp;2S](#1s1nt2s) | 6+ minimum |
-| [1S&nbsp;1NT&nbsp;2NT](#1s1nt2nt) | 17-18pts balanced |
+| 1S&nbsp;1NT&nbsp;2D | natural (5-4), 10-15pts<br/><br/>2H- 5+card suit, weak; 2S- 2/3 spades weak;; 2NT – natural 10-12pts; 3C- 6+ suit, weak;; 3D- natural; 3H- Splinter, maximum; 3S- card raise |
+| 1S&nbsp;1NT&nbsp;2H | natural (5-4), 10-15pts<br/><br/>2S- 2/3 spades weak; 2NT- natural, 10-12pts; 3C/3D- 5-9pts 6 card suit; 3H/3S- natural raise |
+| [1S&nbsp;1NT&nbsp;2S](#1s1nt2s) | 6+ minimum<br/><br/>2NT – natural 10-12pts; 3S- 2/3 card raise |
+| [1S&nbsp;1NT&nbsp;2NT](#1s1nt2nt) | 17-18pts balanced<br/><br/>3C/3D/3H- 5-7pts poor 6 card suit; |
 | [1S&nbsp;1NT&nbsp;3C/3D/3H](#1s1nt3c3d3h) | good 5-5, invitational |
 | 1S&nbsp;1NT&nbsp;3S | good 6 card suit, invitational<br/><br/>Sequences which are (slightly) different:<br/><br/>Natural |
 
@@ -50,41 +50,24 @@ Most sequences are identical those following 1H-1NT:
 | 1S&nbsp;1NT&nbsp;2C&nbsp;3H | 8-9pts 6 hearts |
 | 1S&nbsp;1NT&nbsp;2C&nbsp;3S | 3 card support balanced, invitational |
 
-## 1S&nbsp;1NT&nbsp;2D
-
-natural (5-4), 10-15pts
-
-| Rebid | Meaning |
-|---|---|
-| 1S&nbsp;1NT&nbsp;2D&nbsp;2H | 5+card suit, weak; 2S- 2/3 spades weak; |
-| 1S&nbsp;1NT&nbsp;2D&nbsp;2NT | natural 10-12pts; 3C- 6+ suit, weak; (Natural) |
-| 1S&nbsp;1NT&nbsp;2D&nbsp;3D | natural; 3H- Splinter, maximum; 3S- card raise |
-
-## 1S&nbsp;1NT&nbsp;2H
-
-natural (5-4), 10-15pts
-
-| Rebid | Meaning |
-|---|---|
-| 1S&nbsp;1NT&nbsp;2H&nbsp;2S | 2/3 spades weak; 2NT- natural, 10-12pts |
-| 1S&nbsp;1NT&nbsp;2H&nbsp;3C/3D | 5-9pts 6 card suit; 3H/3S- natural raise |
-
 ## 1S&nbsp;1NT&nbsp;2S
 
 6+ minimum
 
+2NT – natural 10-12pts; 3S- 2/3 card raise
+
 | Rebid | Meaning |
 |---|---|
-| 1S&nbsp;1NT&nbsp;2S&nbsp;2NT | natural 10-12pts; 3S- 2/3 card raise |
 | 1S&nbsp;1NT&nbsp;2S&nbsp;3C/3D/3H | 5-9pts 6 card suit, poor support |
 
 ## 1S&nbsp;1NT&nbsp;2NT
 
 17-18pts balanced
 
+3C/3D/3H- 5-7pts poor 6 card suit;
+
 | Rebid | Meaning |
 |---|---|
-| 1S&nbsp;1NT&nbsp;2NT&nbsp;3C/3D/3H | 5-7pts poor 6 card suit; |
 | 1S&nbsp;1NT&nbsp;2NT&nbsp;3S | 3 card support, offers choice of game |
 
 ## 1S&nbsp;1NT&nbsp;3C/3D/3H
@@ -120,7 +103,7 @@ either no immediate game interest opposite 3 card raise (often only 4 card suit;
 | Rebid | Meaning |
 |---|---|
 | 1S&nbsp;2C&nbsp;2D&nbsp;2H | natural, 5+C-4H (Natural) |
-| [1S&nbsp;2C&nbsp;2D&nbsp;2S](#1s2c2d2s) | unbalanced invitational 3 card raise<br/><br/>ALL OTHER BIDS SHOW GAME FORCE WITH CLUBS |
+| [1S&nbsp;2C&nbsp;2D&nbsp;2S](#1s2c2d2s) | unbalanced invitational 3 card raise<br/><br/>ALL OTHER BIDS SHOW GAME FORCE WITH CLUBS<br/><br/>2NT- 17-18 bal; |
 | 1S&nbsp;2C&nbsp;2D&nbsp;2NT | natural (in principle), non minimum (Appendix 1) |
 | 1S&nbsp;2C&nbsp;2D&nbsp;3C | good suit, invites support on Hx (Natural) |
 | 1S&nbsp;2C&nbsp;2D&nbsp;3D | natural 5+C-4+D, non minimum (Natural) |
@@ -135,9 +118,10 @@ unbalanced invitational 3 card raise
 
 ALL OTHER BIDS SHOW GAME FORCE WITH CLUBS
 
+2NT- 17-18 bal;
+
 | Rebid | Meaning |
 |---|---|
-| 1S&nbsp;2C&nbsp;2D&nbsp;2S&nbsp;2NT | 17-18 bal; |
 | 1S&nbsp;2C&nbsp;2D&nbsp;2S&nbsp;3C/D/H/S | game try |
 | 1S&nbsp;2C&nbsp;2D&nbsp;2S&nbsp;3NT/4C/D/H | slam try |
 

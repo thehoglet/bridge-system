@@ -37,40 +37,22 @@ meaning = "3 card support balanced, invitational"
 
 [pass.1NT.pass.2D]
 meaning = "natural (5-4), 10-15pts"
-
-[pass.1NT.pass.2D.pass.2H]
-meaning = "5+card suit, weak; 2S- 2/3 spades weak;"
-
-[pass.1NT.pass.2D.pass.2NT]
-meaning = "natural 10-12pts; 3C- 6+ suit, weak;"
-rebid = "Natural"
-
-[pass.1NT.pass.2D.pass.3D]
-meaning = "natural; 3H- Splinter, maximum; 3S- card raise"
+rebid = "2H- 5+card suit, weak; 2S- 2/3 spades weak;; 2NT – natural 10-12pts; 3C- 6+ suit, weak;; 3D- natural; 3H- Splinter, maximum; 3S- card raise"
 
 [pass.1NT.pass.2H]
 meaning = "natural (5-4), 10-15pts"
-
-[pass.1NT.pass.2H.pass.2S]
-meaning = "2/3 spades weak; 2NT- natural, 10-12pts"
-
-[pass.1NT.pass.2H.pass."3C/3D"]
-meaning = "5-9pts 6 card suit; 3H/3S- natural raise"
+rebid = "2S- 2/3 spades weak; 2NT- natural, 10-12pts; 3C/3D- 5-9pts 6 card suit; 3H/3S- natural raise"
 
 [pass.1NT.pass.2NT]
 meaning = "17-18pts balanced"
-
-[pass.1NT.pass.2NT.pass."3C/3D/3H"]
-meaning = "5-7pts poor 6 card suit;"
+rebid = "3C/3D/3H- 5-7pts poor 6 card suit;"
 
 [pass.1NT.pass.2NT.pass.3S]
 meaning = "3 card support, offers choice of game"
 
 [pass.1NT.pass.2S]
 meaning = "6+ minimum"
-
-[pass.1NT.pass.2S.pass.2NT]
-meaning = "natural 10-12pts; 3S- 2/3 card raise"
+rebid = "2NT – natural 10-12pts; 3S- 2/3 card raise"
 
 [pass.1NT.pass.2S.pass."3C/3D/3H"]
 meaning = "5-9pts 6 card suit, poor support"
@@ -105,9 +87,7 @@ rebid = "Appendix 1"
 [pass.2C.pass.2D.pass.2S]
 meaning = "unbalanced invitational 3 card raise"
 notes = ["ALL OTHER BIDS SHOW GAME FORCE WITH CLUBS"]
-
-[pass.2C.pass.2D.pass.2S.pass.2NT]
-meaning = "17-18 bal;"
+rebid = "2NT- 17-18 bal;"
 
 [pass.2C.pass.2D.pass.2S.pass."3C/D/H/S"]
 meaning = "game try"

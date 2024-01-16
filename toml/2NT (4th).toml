@@ -60,12 +60,7 @@ meaning = "cue bid (S)"
 
 [pass.3C.pass.3H.pass.4C]
 meaning = "minor suit ask"
-
-[pass.3C.pass.3H.pass.4C.pass.4D]
-meaning = "5D; 4H- 5C;"
-
-[pass.3C.pass.3H.pass.4C.pass.4S]
-meaning = "both; 4NT-4333"
+rebid = "4D- 5D; 4H- 5C;; 4S- both; 4NT-4333"
 
 [pass.3C.pass.3H.pass.4D]
 meaning = "natural (usually 5+ D plus a major)"
