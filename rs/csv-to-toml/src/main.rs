@@ -56,6 +56,17 @@ fn main() {
     }
 }
 
+fn is_rebid_set(value: &str) -> bool {
+    if !value.contains(';') {
+        return false;
+    }
+
+    value
+        .split(';')
+        .into_iter()
+        .all(|s| RE_BID_MEANING.is_match(s))
+}
+
 fn process_continuations_rec(
     pass: &mut BTreeMap<String, Continuation>,
     field_values: &Vec<Vec<String>>,
@@ -109,7 +120,8 @@ where
             continue;
         }
 
-        let maybe_match = if value.contains(';') {
+        let maybe_match = if is_rebid_set(&value) {
+            // value.contains(';') {
             None
         } else {
             RE_BID_MEANING.captures(value)
@@ -219,7 +231,7 @@ pub fn create_open(
             continue;
         }
 
-        let maybe_match = if opener.contains(';') {
+        let maybe_match = if is_rebid_set(&opener) {
             None
         } else {
             RE_BID_MEANING.captures(opener)
