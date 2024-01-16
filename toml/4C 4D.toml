@@ -7,4 +7,6 @@ meaning = "to play"
 [pass.4NT]
 meaning = "ace/suit ask"
 notes = ["Raise – obstructive"]
-rebid = "5C- poor suit, no ace;  5D-good suit, no ace 5H- poor suit, ace; 5S- good suit, ace"
+
+[pass.4NT.pass.5C]
+meaning = "poor suit, no ace;  5D-good suit, no ace 5H- poor suit, ace; 5S- good suit, ace"

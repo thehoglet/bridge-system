@@ -60,7 +60,12 @@ meaning = "cue bid (S)"
 
 [pass.3C.pass.3H.pass.4C]
 meaning = "minor suit ask"
-rebid = "4D- 5D; 4H- 5C;; 4S- both; 4NT-4333"
+
+[pass.3C.pass.3H.pass.4C.pass.4D]
+meaning = "5D; 4H- 5C;"
+
+[pass.3C.pass.3H.pass.4C.pass.4S]
+meaning = "both; 4NT-4333"
 
 [pass.3C.pass.3H.pass.4D]
 meaning = "natural (usually 5+ D plus a major)"
@@ -117,7 +122,9 @@ rebid = "New Suit – cue bid"
 
 [pass.3H.pass.3S]
 meaning = "<3 card spade support"
-rebid = "3NT-choice; 4C/4D- natural; 4H(5-5)/4S- slam interest"
+
+[pass.3H.pass.3S.pass.3NT]
+meaning = "choice; 4C/4D- natural; 4H(5-5)/4S- slam interest"
 
 [pass.3H.pass."4C/4D/4H"]
 meaning = "4 card support plus control"

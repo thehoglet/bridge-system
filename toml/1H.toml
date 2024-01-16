@@ -5,7 +5,32 @@ notes = ["shouldn’t be:", "a) 14-16/19+bal (1NT/2C/2D)"]
 [pass.1NT]
 meaning = "5-12pts"
 notes = ["shouldn’t have:", "a) 4 spades", "b) 3+ card support unless balanced"]
-rebid = "2C- either; H+C limited; Or 4441/4414 14-17pts or 5H 4S 14-17pts or hands with 5+H and 4+C/D 16+pst or very strong heart one suiter"
+
+[pass.1NT.pass.2C]
+meaning = "either; H+C limited; Or 4441/4414 14-17pts or 5H 4S 14-17pts or hands with 5+H and 4+C/D 16+pst or very strong heart one suiter"
+
+[pass.1NT.pass.2C.pass.2D]
+meaning = "ALL 9+pts hands (except 3 card support)"
+rebid = "Appendix 6"
+
+[pass.1NT.pass.2C.pass.2H]
+meaning = "5-9pts 2/3 hearts"
+rebid = "Appendix 6"
+
+[pass.1NT.pass.2C.pass.2NT]
+meaning = "5-9pts 0/1 heart, less than 3 spades"
+rebid = "Appendix 6"
+
+[pass.1NT.pass.2C.pass.2S]
+meaning = "5-9pts 0/1 heart, 3 spades"
+rebid = "Appendix 6"
+
+[pass.1NT.pass.2C.pass."3C/3D"]
+meaning = "5-9pts 6 card suit"
+rebid = "Appendix 6"
+
+[pass.1NT.pass.2C.pass.3H]
+meaning = "3 card support balanced, invitational"
 
 [pass.1NT.pass.2D]
 meaning = "natural (5-4), 10-15pts"
@@ -66,8 +91,11 @@ rebid = "Similar to 1D-1NT-2S"
 
 [pass.1NT.pass.2S.pass.2NT]
 meaning = "Forces 3C (weak C/D or weak H raise)"
-notes = ["3C/3D- natural (in principle); 7+pts"]
-rebid = "Appendix 3; Natural"
+rebid = "Appendix 3"
+
+[pass.1NT.pass.2S.pass."3C/3D"]
+meaning = "natural (in principle); 7+pts"
+rebid = "Natural"
 
 [pass.1NT.pass.2S.pass.3H]
 meaning = "usually 3 card support, non minimum"
@@ -87,35 +115,64 @@ rebid = "Effectively sequences the same as after 1D-1S"
 
 [pass.1S.pass.1NT]
 meaning = "11-13 balanced"
-rebid = "CHECKBACK (2C/2D/2NT); 2H/2S- weak;; 3C/3D- good 5-5; 3H- 4 card support, invit; 3S-6+"
+rebid = "CHECKBACK (2C/2D/2NT); 2H/2S- weak;"
+
+[pass.1S.pass.1NT.pass."3C/3D"]
+meaning = "good 5-5; 3H- 4 card support, invit; 3S-6+"
 
 [pass.1S.pass.2C]
 meaning = "natural, usually 5-4"
-rebid = "2D- FSF; 3D- good club support, heart shortage; 2H-weak; 2S-6+; NT/Raises- natural; 3S- good 6+"
+
+[pass.1S.pass.2C.pass.2D]
+meaning = "FSF; 3D- good club support, heart shortage"
+rebid = "Appendix 5"
+
+[pass.1S.pass.2C.pass.2H]
+meaning = "weak; 2S-6+; NT/Raises- natural; 3S- good 6+"
 
 [pass.1S.pass.2D]
 meaning = "natural, usually 5-4"
-rebid = "3C- FSF; 4C- good D support, heart shortage; 2H-weak; 2S-6+; NT/Raises- natural; 3S- good 6+"
+
+[pass.1S.pass.2D.pass.2H]
+meaning = "weak; 2S-6+; NT/Raises- natural; 3S- good 6+"
+
+[pass.1S.pass.2D.pass.3C]
+meaning = "FSF; 4C- good D support, heart shortage"
+rebid = "Appendix 5"
 
 [pass.1S.pass.2H]
 meaning = "usually 6+ card suit, minimum"
-rebid = "2S-6+;New suit/ Raises/NT- nat; 3S- good 6+"
+
+[pass.1S.pass.2H.pass.2S]
+meaning = "6+;New suit/ Raises/NT- nat; 3S- good 6+"
+rebid = "Natural"
 
 [pass.1S.pass.2NT]
 meaning = "17-18pts balanced"
-rebid = "3C- checkback; 3D- 5-5; 3H-sets suit; 3S- 6+"
+
+[pass.1S.pass.2NT.pass.3C]
+meaning = "checkback; 3D- 5-5; 3H-sets suit; 3S- 6+"
 
 [pass.1S.pass.2S]
 meaning = "minimum raise (may be 3 card support)"
-rebid = "2NT- check support; New Suit- game try;"
+
+[pass.1S.pass.2S.pass.2NT]
+meaning = "check support; New Suit- game try;"
+rebid = "Natural"
 
 [pass.1S.pass."3C/3D"]
 meaning = "strong 5-5"
-rebid = "3H/Raise- sets suit; 3S-good 6+; New Suit-FSF"
+
+[pass.1S.pass."3C/3D".pass."3H/Raise"]
+meaning = "sets suit; 3S-good 6+; New Suit-FSF"
+rebid = "Natural (cue bid)"
 
 [pass.1S.pass.3H]
 meaning = "6/7 tricks, 6+ suit"
-rebid = "3S-good 6+ suit; New suit- cue bid"
+
+[pass.1S.pass.3H.pass.3S]
+meaning = "good 6+ suit; New suit- cue bid"
+rebid = "Natural (cue bid)"
 
 [pass.1S.pass.3NT]
 meaning = "(semi) solid hearts with 4 spades"
@@ -345,11 +402,14 @@ notes = ["(* By PASSED HAND is natural 9+pts, invitational)"]
 
 [pass.2D.pass.2H]
 meaning = "5+ hearts"
-rebid = "2S/3C- natural (5-4);"
 
 [pass.2D.pass.2H.pass.2NT]
 meaning = "natural (in principle), non minimum"
 rebid = "Natural"
+
+[pass.2D.pass.2H.pass."2S/3C"]
+meaning = "natural (5-4);"
+rebid = "Natural (3H-strong)"
 
 [pass.2D.pass.2H.pass.3D]
 meaning = "good suit, invites support (Hx)"

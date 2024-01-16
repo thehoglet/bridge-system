@@ -77,7 +77,7 @@ no 4 or 5 card major
 |---|---|
 | [2NT&nbsp;3C&nbsp;3H&nbsp;3S](#2nt3c3h3s) | 5S and 4H |
 | 2NT&nbsp;3C&nbsp;3H&nbsp;3NT | to play |
-| 2NT&nbsp;3C&nbsp;3H&nbsp;4C | minor suit ask<br/><br/>4D- 5D; 4H- 5C;; 4S- both; 4NT-4333 |
+| [2NT&nbsp;3C&nbsp;3H&nbsp;4C](#2nt3c3h4c) | minor suit ask |
 | 2NT&nbsp;3C&nbsp;3H&nbsp;4D | natural (usually 5+ D plus a major) (Natural) |
 | 2NT&nbsp;3C&nbsp;3H&nbsp;4H/4S | 4 card suit with 5+C (Natural) |
 
@@ -88,6 +88,15 @@ no 4 or 5 card major
 | Rebid | Meaning |
 |---|---|
 | 2NT&nbsp;3C&nbsp;3H&nbsp;3S&nbsp;4C/4D | cue bid (S) |
+
+## 2NT&nbsp;3C&nbsp;3H&nbsp;4C
+
+minor suit ask
+
+| Rebid | Meaning |
+|---|---|
+| 2NT&nbsp;3C&nbsp;3H&nbsp;4C&nbsp;4D | 5D; 4H- 5C; |
+| 2NT&nbsp;3C&nbsp;3H&nbsp;4C&nbsp;4S | both; 4NT-4333 |
 
 ## 2NT&nbsp;3D
 
@@ -130,9 +139,17 @@ identical sequences to 2NT-3D;
 
 | Rebid | Meaning |
 |---|---|
-| 2NT&nbsp;3H&nbsp;3S | <3 card spade support<br/><br/>3NT-choice; 4C/4D- natural; 4H(5-5)/4S- slam interest |
+| [2NT&nbsp;3H&nbsp;3S](#2nt3h3s) | <3 card spade support |
 | 2NT&nbsp;3H&nbsp;3NT | 3 card support<br/><br/>New Suit – cue bid |
 | 2NT&nbsp;3H&nbsp;4C/4D/4H | 4 card support plus control (New Suit – cue bid) |
+
+## 2NT&nbsp;3H&nbsp;3S
+
+<3 card spade support
+
+| Rebid | Meaning |
+|---|---|
+| 2NT&nbsp;3H&nbsp;3S&nbsp;3NT | choice; 4C/4D- natural; 4H(5-5)/4S- slam interest |
 
 ## 2NT&nbsp;3S
 

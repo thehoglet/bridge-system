@@ -43,7 +43,9 @@ meaning = "any 4441 with 4 spades 18-20pts"
 
 [pass.2H.pass.2S.pass.2NT]
 meaning = "asking for exact shape (suit below singleton)"
-rebid = "3C- 4414; 3D- 4144"
+
+[pass.2H.pass.2S.pass.2NT.pass.3C]
+meaning = "4414; 3D- 4144"
 
 [pass.2H.pass.2S.pass.2NT.pass.3H]
 meaning = "4441 (appendix 4)"

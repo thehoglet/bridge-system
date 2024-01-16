@@ -22,11 +22,15 @@ meaning = "to play"
 
 [pass.2NT.pass.3C.pass.4C]
 meaning = "slam try in hearts"
-rebid = "4D-interest; 4H-min"
+
+[pass.2NT.pass.3C.pass.4C.pass.4D]
+meaning = "interest; 4H-min"
 
 [pass.2NT.pass.3C.pass.4D]
 meaning = "slam try in spades"
-rebid = "4H-interest; 4S-min"
+
+[pass.2NT.pass.3C.pass.4D.pass.4H]
+meaning = "interest; 4S-min"
 
 [pass.2NT.pass.3D]
 meaning = "minimum (5-7pts) with 5H and 4S"
@@ -39,11 +43,15 @@ meaning = "to play"
 
 [pass.2NT.pass.3D.pass.4C]
 meaning = "slam try in hearts"
-rebid = "4D-interest; 4H-min"
+
+[pass.2NT.pass.3D.pass.4C.pass.4D]
+meaning = "interest; 4H-min"
 
 [pass.2NT.pass.3D.pass.4D]
 meaning = "slam try in spades"
-rebid = "4H-interest; 4S-min"
+
+[pass.2NT.pass.3D.pass.4D.pass.4H]
+meaning = "interest; 4S-min"
 
 [pass.2NT.pass.3H]
 meaning = "minimum (5-7pts) with 5S and 4H"
@@ -56,22 +64,30 @@ meaning = "to play"
 
 [pass.2NT.pass.3H.pass.4C]
 meaning = "slam try in hearts"
-rebid = "4D-interest; 4H-min"
+
+[pass.2NT.pass.3H.pass.4C.pass.4D]
+meaning = "interest; 4H-min"
 
 [pass.2NT.pass.3H.pass.4D]
 meaning = "slam try in spades"
-rebid = "4H-interest; 4S-min"
+
+[pass.2NT.pass.3H.pass.4D.pass.4H]
+meaning = "interest; 4S-min"
 
 [pass.2NT.pass.3NT]
 meaning = "maximum (8-10pts) with 5S and 4H"
 
 [pass.2NT.pass.3NT.pass.4C]
 meaning = "slam try in hearts"
-rebid = "4D-interest; 4H-min"
+
+[pass.2NT.pass.3NT.pass.4C.pass.4D]
+meaning = "interest; 4H-min"
 
 [pass.2NT.pass.3NT.pass.4D]
 meaning = "slam try in spades"
-rebid = "4H-interest; 4S-min"
+
+[pass.2NT.pass.3NT.pass.4D.pass.4H]
+meaning = "interest; 4S-min"
 
 [pass.2NT.pass.3NT.pass."4H/4S"]
 meaning = "to play"
@@ -84,11 +100,15 @@ meaning = "to play"
 
 [pass.2NT.pass.3S.pass.4C]
 meaning = "slam try in hearts"
-rebid = "4D-interest; 4H-min"
+
+[pass.2NT.pass.3S.pass.4C.pass.4D]
+meaning = "interest; 4H-min"
 
 [pass.2NT.pass.3S.pass.4D]
 meaning = "slam try in spades"
-rebid = "4H-interest; 4S-min"
+
+[pass.2NT.pass.3S.pass.4D.pass.4H]
+meaning = "interest; 4S-min"
 
 [pass.2NT.pass."4C/4D"]
 meaning = "maximum (7-9pts) 5-5 short in bid m"

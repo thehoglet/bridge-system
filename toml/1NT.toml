@@ -9,10 +9,12 @@ meaning = "promises at least one 4 card major"
 
 [pass.2C.pass.2D.pass.2H]
 meaning = "4 spades (may have 4 hearts and 4/5S invit) values for 2NT"
-rebid = "2S/3S- min/max 4S;"
 
 [pass.2C.pass.2D.pass.2H.pass.2NT]
 meaning = "min 4H"
+
+[pass.2C.pass.2D.pass.2H.pass."2S/3S"]
+meaning = "min/max 4S;"
 
 [pass.2C.pass.2D.pass.2H.pass."3C/3D"]
 meaning = "max 4H+4m"
@@ -91,7 +93,9 @@ meaning = "to play"
 
 [pass.2C.pass.2NT.pass.3S]
 meaning = "slam interest in hearts"
-rebid = "3NT- max; cue bid"
+
+[pass.2C.pass.2NT.pass.3S.pass.3NT]
+meaning = "max; cue bid"
 
 [pass.2C.pass.2S]
 meaning = "5 spades, minimum"
@@ -106,7 +110,10 @@ rebid = "Natural"
 
 [pass.2C.pass.2S.pass.3H]
 meaning = "slam interest in spades"
-rebid = "3S- max; 4S/3NT- min; cue bid (non max)"
+
+[pass.2C.pass.2S.pass.3H.pass.3S]
+meaning = "max; 4S/3NT- min"
+notes = ["cue bid (non max)"]
 
 [pass.2C.pass."3C/3D"]
 meaning = "max with 6 card minor"
@@ -211,11 +218,17 @@ rebid = "All sequences are similar to those following 1NT-2D:"
 
 [pass.2H.pass.2NT]
 meaning = "maximum with 4 card support"
-rebid = "3C/3D- slam interest; 3H- re-transfer"
+
+[pass.2H.pass.2NT.pass."3C/3D"]
+meaning = "slam interest; 3H- re-transfer"
+rebid = "Natural (S agreed)"
 
 [pass.2H.pass.2S]
 meaning = "denies 4 card support"
-rebid = "2NT-invit with 5S; 3C/3D/3H-natural; 3S- 6+ invit 4C/4D/4H-self splinter 6+; 4S- mild slam try; 3NT-choice"
+
+[pass.2H.pass.2S.pass.2NT]
+meaning = "invit with 5S; 3C/3D/3H-natural; 3S- 6+ invit 4C/4D/4H-self splinter 6+; 4S- mild slam try; 3NT-choice"
+rebid = "as after 1NT-2D-2H"
 
 [pass.2H.pass."3C/3D/3H"]
 meaning = "max with 3 card support (min K10x) and suit promising 4 tricks opposite an hon."

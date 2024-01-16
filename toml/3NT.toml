@@ -13,7 +13,9 @@ meaning = "to play"
 
 [pass.4C.pass.4D.pass.4NT]
 meaning = "ace/suit asking"
-rebid = "5C- solid; no ace 5D- not solid; ace 5H- solid; ace"
+
+[pass.4C.pass.4D.pass.4NT.pass.5C]
+meaning = "solid; no ace 5D- not solid; ace 5H- solid; ace"
 
 [pass.4C.pass.4D.pass."4S/5C/5D"]
 meaning = "asking about controls in bid suit"
@@ -48,4 +50,6 @@ rebid = "Opener always passes"
 
 [pass.4NT]
 meaning = "Blackwood"
-rebid = "5C-1; 5D-2 (nb only possibilities)"
+
+[pass.4NT.pass.5C]
+meaning = "1; 5D-2 (nb only possibilities)"

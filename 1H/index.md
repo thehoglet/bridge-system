@@ -7,7 +7,7 @@ shouldn’t be:; a) 14-16/19+bal (1NT/2C/2D)
 | Rebid | Meaning |
 |---|---|
 | [1H&nbsp;1S](#1h1s) | natural 4+ 5+pts<br/><br/>Effectively sequences the same as after 1D-1S |
-| [1H&nbsp;1NT](#1h1nt) | 5-12pts<br/><br/>shouldn’t have:; a) 4 spades; b) 3+ card support unless balanced<br/><br/>2C- either; H+C limited; Or 4441/4414 14-17pts or 5H 4S 14-17pts or hands with 5+H and 4+C/D 16+pst or very strong heart one suiter |
+| [1H&nbsp;1NT](#1h1nt) | 5-12pts<br/><br/>shouldn’t have:; a) 4 spades; b) 3+ card support unless balanced |
 | [1H&nbsp;2C](#1h2c) | Two way; either Natural 4+ suit Game Forcing or unbal (sing/void) invitational 3 card raise ((* By PASSED HAND is natural 9+pts, invitational)) |
 | [1H&nbsp;2D](#1h2d) | Natural 4+ suit Game Forcing<br/><br/>(* By PASSED HAND is natural 9+pts, invitational) |
 | [1H&nbsp;2H](#1h2h) | Constructive Raise* but limited (5-10pts) 4+ card support 5-8pts 3 card support 7-10pts nb. 4+ card support 9+pts via 2NT/splinter 3 card support 5-6pts or 11-12pts via 1NT/2C |
@@ -27,17 +27,85 @@ Effectively sequences the same as after 1D-1S
 
 | Rebid | Meaning |
 |---|---|
-| 1H&nbsp;1S&nbsp;1NT | 11-13 balanced<br/><br/>CHECKBACK (2C/2D/2NT); 2H/2S- weak;; 3C/3D- good 5-5; 3H- 4 card support, invit; 3S-6+ |
-| 1H&nbsp;1S&nbsp;2C | natural, usually 5-4<br/><br/>2D- FSF; 3D- good club support, heart shortage; 2H-weak; 2S-6+; NT/Raises- natural; 3S- good 6+ |
-| 1H&nbsp;1S&nbsp;2D | natural, usually 5-4<br/><br/>3C- FSF; 4C- good D support, heart shortage; 2H-weak; 2S-6+; NT/Raises- natural; 3S- good 6+ |
-| 1H&nbsp;1S&nbsp;2H | usually 6+ card suit, minimum<br/><br/>2S-6+;New suit/ Raises/NT- nat; 3S- good 6+ |
-| 1H&nbsp;1S&nbsp;2S | minimum raise (may be 3 card support)<br/><br/>2NT- check support; New Suit- game try; |
-| 1H&nbsp;1S&nbsp;2NT | 17-18pts balanced<br/><br/>3C- checkback; 3D- 5-5; 3H-sets suit; 3S- 6+ |
-| 1H&nbsp;1S&nbsp;3C/3D | strong 5-5<br/><br/>3H/Raise- sets suit; 3S-good 6+; New Suit-FSF |
-| 1H&nbsp;1S&nbsp;3H | 6/7 tricks, 6+ suit<br/><br/>3S-good 6+ suit; New suit- cue bid |
+| [1H&nbsp;1S&nbsp;1NT](#1h1s1nt) | 11-13 balanced<br/><br/>CHECKBACK (2C/2D/2NT); 2H/2S- weak; |
+| [1H&nbsp;1S&nbsp;2C](#1h1s2c) | natural, usually 5-4 |
+| [1H&nbsp;1S&nbsp;2D](#1h1s2d) | natural, usually 5-4 |
+| [1H&nbsp;1S&nbsp;2H](#1h1s2h) | usually 6+ card suit, minimum |
+| [1H&nbsp;1S&nbsp;2S](#1h1s2s) | minimum raise (may be 3 card support) |
+| [1H&nbsp;1S&nbsp;2NT](#1h1s2nt) | 17-18pts balanced |
+| [1H&nbsp;1S&nbsp;3C/3D](#1h1s3c3d) | strong 5-5 |
+| [1H&nbsp;1S&nbsp;3H](#1h1s3h) | 6/7 tricks, 6+ suit |
 | 1H&nbsp;1S&nbsp;3S | invitational raise (15+ unbal or 17-18 bal)<br/><br/>New suit- cue bid; 3NT- alternative (Not serious) |
 | 1H&nbsp;1S&nbsp;3NT | (semi) solid hearts with 4 spades<br/><br/>New suit – cue bid (spades in principle) |
 | 1H&nbsp;1S&nbsp;4C/4D | Splinter raise, strong (New suit- cue bid) |
+
+## 1H&nbsp;1S&nbsp;1NT
+
+11-13 balanced
+
+CHECKBACK (2C/2D/2NT); 2H/2S- weak;
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;1NT&nbsp;3C/3D | good 5-5; 3H- 4 card support, invit; 3S-6+ |
+
+## 1H&nbsp;1S&nbsp;2C
+
+natural, usually 5-4
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;2C&nbsp;2D | FSF; 3D- good club support, heart shortage (Appendix 5) |
+| 1H&nbsp;1S&nbsp;2C&nbsp;2H | weak; 2S-6+; NT/Raises- natural; 3S- good 6+ |
+
+## 1H&nbsp;1S&nbsp;2D
+
+natural, usually 5-4
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;2D&nbsp;2H | weak; 2S-6+; NT/Raises- natural; 3S- good 6+ |
+| 1H&nbsp;1S&nbsp;2D&nbsp;3C | FSF; 4C- good D support, heart shortage (Appendix 5) |
+
+## 1H&nbsp;1S&nbsp;2H
+
+usually 6+ card suit, minimum
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;2H&nbsp;2S | 6+;New suit/ Raises/NT- nat; 3S- good 6+ (Natural) |
+
+## 1H&nbsp;1S&nbsp;2S
+
+minimum raise (may be 3 card support)
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;2S&nbsp;2NT | check support; New Suit- game try; (Natural) |
+
+## 1H&nbsp;1S&nbsp;2NT
+
+17-18pts balanced
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;2NT&nbsp;3C | checkback; 3D- 5-5; 3H-sets suit; 3S- 6+ |
+
+## 1H&nbsp;1S&nbsp;3C/3D
+
+strong 5-5
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;3C/3D&nbsp;3H/Raise | sets suit; 3S-good 6+; New Suit-FSF (Natural (cue bid)) |
+
+## 1H&nbsp;1S&nbsp;3H
+
+6/7 tricks, 6+ suit
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1S&nbsp;3H&nbsp;3S | good 6+ suit; New suit- cue bid (Natural (cue bid)) |
 
 ## 1H&nbsp;1NT
 
@@ -45,16 +113,28 @@ Effectively sequences the same as after 1D-1S
 
 shouldn’t have:; a) 4 spades; b) 3+ card support unless balanced
 
-2C- either; H+C limited; Or 4441/4414 14-17pts or 5H 4S 14-17pts or hands with 5+H and 4+C/D 16+pst or very strong heart one suiter
-
 | Rebid | Meaning |
 |---|---|
+| [1H&nbsp;1NT&nbsp;2C](#1h1nt2c) | either; H+C limited; Or 4441/4414 14-17pts or 5H 4S 14-17pts or hands with 5+H and 4+C/D 16+pst or very strong heart one suiter |
 | [1H&nbsp;1NT&nbsp;2D](#1h1nt2d) | natural (5-4), 10-15pts |
 | [1H&nbsp;1NT&nbsp;2H](#1h1nt2h) | 6+ suit, 10-15pts |
 | [1H&nbsp;1NT&nbsp;2S](#1h1nt2s) | strong (17+pts) Reverse. 5-4 (Similar to 1D-1NT-2S) |
 | [1H&nbsp;1NT&nbsp;2NT](#1h1nt2nt) | 17-18pts balanced |
 | 1H&nbsp;1NT&nbsp;3C/3D | good 5-5 invitational<br/><br/>Natural (3H is weak preference) |
 | 1H&nbsp;1NT&nbsp;3H | good 6 card suit, invitational (Natural) |
+
+## 1H&nbsp;1NT&nbsp;2C
+
+either; H+C limited; Or 4441/4414 14-17pts or 5H 4S 14-17pts or hands with 5+H and 4+C/D 16+pst or very strong heart one suiter
+
+| Rebid | Meaning |
+|---|---|
+| 1H&nbsp;1NT&nbsp;2C&nbsp;2D | ALL 9+pts hands (except 3 card support) (Appendix 6) |
+| 1H&nbsp;1NT&nbsp;2C&nbsp;2H | 5-9pts 2/3 hearts (Appendix 6) |
+| 1H&nbsp;1NT&nbsp;2C&nbsp;2S | 5-9pts 0/1 heart, 3 spades (Appendix 6) |
+| 1H&nbsp;1NT&nbsp;2C&nbsp;2NT | 5-9pts 0/1 heart, less than 3 spades (Appendix 6) |
+| 1H&nbsp;1NT&nbsp;2C&nbsp;3C/3D | 5-9pts 6 card suit (Appendix 6) |
+| 1H&nbsp;1NT&nbsp;2C&nbsp;3H | 3 card support balanced, invitational |
 
 ## 1H&nbsp;1NT&nbsp;2D
 
@@ -87,7 +167,8 @@ Similar to 1D-1NT-2S
 
 | Rebid | Meaning |
 |---|---|
-| 1H&nbsp;1NT&nbsp;2S&nbsp;2NT | Forces 3C (weak C/D or weak H raise)<br/><br/>3C/3D- natural (in principle); 7+pts<br/><br/>Appendix 3; Natural |
+| 1H&nbsp;1NT&nbsp;2S&nbsp;2NT | Forces 3C (weak C/D or weak H raise) (Appendix 3) |
+| 1H&nbsp;1NT&nbsp;2S&nbsp;3C/3D | natural (in principle); 7+pts (Natural) |
 | 1H&nbsp;1NT&nbsp;2S&nbsp;3H | usually 3 card support, non minimum (Natural (cue bid)) |
 
 ## 1H&nbsp;1NT&nbsp;2NT
@@ -227,7 +308,7 @@ Natural 4+ suit Game Forcing
 
 | Rebid | Meaning |
 |---|---|
-| [1H&nbsp;2D&nbsp;2H](#1h2d2h) | 5+ hearts<br/><br/>2S/3C- natural (5-4); |
+| [1H&nbsp;2D&nbsp;2H](#1h2d2h) | 5+ hearts |
 | [1H&nbsp;2D&nbsp;2S](#1h2d2s) | natural (5-4), non minimum |
 | [1H&nbsp;2D&nbsp;2NT](#1h2d2nt) | 11-13 or 17-18pts balanced (with only 4 hearts) |
 | [1H&nbsp;2D&nbsp;3C](#1h2d3c) | natural (5-4), non minimum |
@@ -240,10 +321,9 @@ Natural 4+ suit Game Forcing
 
 5+ hearts
 
-2S/3C- natural (5-4);
-
 | Rebid | Meaning |
 |---|---|
+| 1H&nbsp;2D&nbsp;2H&nbsp;2S/3C | natural (5-4);<br/><br/>Natural (3H-strong) |
 | 1H&nbsp;2D&nbsp;2H&nbsp;2NT | natural (in principle), non minimum (Natural) |
 | 1H&nbsp;2D&nbsp;2H&nbsp;3D | good suit, invites support (Hx) (Natural) |
 | 1H&nbsp;2D&nbsp;2H&nbsp;3H | 3+ card support slam interest (cue bids) |

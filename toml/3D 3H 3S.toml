@@ -5,4 +5,6 @@ notes = ["(strength/length dependant on vuln and position)", "ALL responses and 
 [pass.4NT]
 meaning = "Blackwood"
 notes = ["New suit", "natural (in principle)", "may be cue bid if minor over major", "Raises", "obstructive raise", "Game Bids- to play"]
-rebid = "5C-0; 5D-1 (no other possibilities)"
+
+[pass.4NT.pass.5C]
+meaning = "0; 5D-1 (no other possibilities)"

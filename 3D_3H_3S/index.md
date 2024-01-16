@@ -6,6 +6,16 @@ Pre-empt
 
 | Rebid | Meaning |
 |---|---|
-| 3D/3H/3S&nbsp;4NT | Blackwood<br/><br/>New suit; natural (in principle); may be cue bid if minor over major; Raises; obstructive raise; Game Bids- to play<br/><br/>5C-0; 5D-1 (no other possibilities) |
+| [3D/3H/3S&nbsp;4NT](#3d3h3s4nt) | Blackwood<br/><br/>New suit; natural (in principle); may be cue bid if minor over major; Raises; obstructive raise; Game Bids- to play |
+
+## 3D/3H/3S&nbsp;4NT
+
+Blackwood
+
+New suit; natural (in principle); may be cue bid if minor over major; Raises; obstructive raise; Game Bids- to play
+
+| Rebid | Meaning |
+|---|---|
+| 3D/3H/3S&nbsp;4NT&nbsp;5C | 0; 5D-1 (no other possibilities) |
 
 [Home](../index.md)
