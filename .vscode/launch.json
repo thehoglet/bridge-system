@@ -9,7 +9,7 @@
             "type": "cppvsdbg",
             "request": "launch",
             "program": "${workspaceFolder}/rs/target/debug/csv-to-toml.exe",
-            "args": ["${workspaceFolder}/../../setup/data/csv/1H.csv", "${workspaceFolder}/../../setup/data/toml/"],
+            "args": ["${workspaceFolder}/../../setup/data/csv/1S.csv", "${workspaceFolder}/../../setup/data/toml/"],
             "stopAtEntry": false,
             "cwd": "${fileDirname}",
             "environment": []

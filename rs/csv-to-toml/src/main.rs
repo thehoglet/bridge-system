@@ -62,9 +62,9 @@ fn is_rebid_set(value: &str) -> bool {
     }
 
     value
-        .split(';')
+        .split_terminator(';')
         .into_iter()
-        .all(|s| RE_BID_MEANING.is_match(s))
+        .all(|s| RE_BID_MEANING.is_match(s.trim()))
 }
 
 fn process_continuations_rec(
@@ -121,7 +121,6 @@ where
         }
 
         let maybe_match = if is_rebid_set(&value) {
-            // value.contains(';') {
             None
         } else {
             RE_BID_MEANING.captures(value)
